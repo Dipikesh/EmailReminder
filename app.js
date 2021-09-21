@@ -6,6 +6,8 @@ require(`dotenv`).config();
 const app = express();
 const logger = require("./config/logger");
 const httpLogger = require("./config/httpLogger");
+require('./config/conn');
+
 
 
 
