@@ -18,7 +18,7 @@ app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use("/", require("./routes"));
+app.use("/reminder", require("./routes"));
 
 //Adding Swagger
 
@@ -40,7 +40,7 @@ app.use(async (err, req, res, next) => {
 
 
 const PORT =  process.env.PORT || 8000
-const server = app.listen(PORT, () => {
+app.listen(PORT, () => {
  logger.info(`Server is runnin on port ${PORT}`);
 });
 
@@ -53,4 +53,9 @@ process.on('SIGINT', function () {
   process.kill(process.pid, 'SIGINT');
 });
 
-module.exports = server;
+process.on('unhandledRejection', (error, p) => {
+  // Prints "unhandledRejection woops!"
+  console.log(error.stack)
+  // logger.error('UnhandledRejection', error, "reason" ,p);
+});
+

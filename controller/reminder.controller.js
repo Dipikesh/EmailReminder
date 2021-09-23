@@ -1,20 +1,20 @@
-const { jobService, userService } = require('../services');
+const { jobService, userService, mailerService} = require('../services');
 const createError = require('http-errors')
+const logger = require('../config/logger');
 
 exports.create = async(req, res, next) => {
     
     try {
         const user = await userService.createUser(req.body);
-        console.log("user",user);
-        if (user) {
-            const scheduler = await jobService.scheduleJob(user);
-            res.status(200).json({ success: true, message: "Email is Scheduled" });
-        }
+        logger.info(`Sending user data to scheduler `,user);
+        const scheduler = await jobService.schedulingJob(user);
+        res.status(200).json({ success: true, message: "Email is Scheduled" });
+        
         
         }
     catch (err) {
-        console.log("Error", err);
-        next(createError(500,"Internal Server Error"));
+        logger.error("create Controller ", err);
+        next(err);
         
     }
   
