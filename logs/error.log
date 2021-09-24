@@ -30,3 +30,23 @@
 [31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
 [31m24/09/2021 09:53:30 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
 [31m24/09/2021 09:55:54 - [error] : Mailer  No recipients defined[39m
+[31m24/09/2021 14:30:32 - [error] : User Validation Error ValidationError: "name" length must be at least 3 characters long[39m
+[31m24/09/2021 14:30:47 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 14:34:18 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 15:07:18 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T09:37:17.964Z"[39m
+[31m24/09/2021 15:16:39 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T09:46:39.000Z"[39m
+[31m24/09/2021 15:24:38 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T09:54:38.855Z"[39m
+[31m24/09/2021 15:31:25 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T10:01:25.000Z"[39m
+[31m24/09/2021 15:33:13 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be larger than or equal to "2021-09-24T10:03:13.000Z"[39m
+[31m24/09/2021 15:34:04 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 16:57:47 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T13:57:47.622Z"[39m
+[31m24/09/2021 16:58:35 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T15:28:35.263Z"[39m
+[31m24/09/2021 16:59:13 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T16:29:12.948Z"[39m
+[31m24/09/2021 16:59:28 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T16:59:28.897Z"[39m
+[31m24/09/2021 16:59:56 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T18:49:56.727Z"[39m
+[31m24/09/2021 17:00:39 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T16:00:39.188Z"[39m
+[31m24/09/2021 17:03:46 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 17:03:53 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T11:33:53.347Z"[39m
+[31m24/09/2021 17:04:33 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:34:33.462Z"[39m
+[31m24/09/2021 17:04:42 - [error] : User Validation Error ValidationError: "date" must be in ISO 8601 date format[39m
+[31m24/09/2021 17:07:45 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:37:45.464Z"[39m
