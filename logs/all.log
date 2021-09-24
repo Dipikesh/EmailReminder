@@ -848,3 +848,85 @@
 [34m23/09/2021 15:00:55 - [info] : Mongoose server listening[39m
 [34m23/09/2021 15:01:02 - [info] : Server is runnin on port 6000[39m
 [34m23/09/2021 15:01:02 - [info] : Mongoose server listening[39m
+[34m23/09/2021 21:06:05 - [info] : Server is runnin on port 6000[39m
+[34m23/09/2021 21:06:05 - [info] : Mongoose server listening[39m
+[32m23/09/2021 21:06:12 - [debug] : User inserted in database[39m
+[34m23/09/2021 21:06:12 - [info] : Sending user data to scheduler [39m
+[32m23/09/2021 21:06:35 - [debug] : User inserted in database[39m
+[34m23/09/2021 21:06:35 - [info] : Sending user data to scheduler [39m
+[34m23/09/2021 21:07:29 - [info] : Server is runnin on port 6000[39m
+[34m23/09/2021 21:07:29 - [info] : Mongoose server listening[39m
+[34m23/09/2021 21:07:35 - [info] : Server is runnin on port 6000[39m
+[34m23/09/2021 21:07:35 - [info] : Mongoose server listening[39m
+[32m23/09/2021 21:07:41 - [debug] : User inserted in database[39m
+[34m23/09/2021 21:07:41 - [info] : Sending user data to scheduler [39m
+[32m23/09/2021 21:07:43 - [debug] : User inserted in database[39m
+[34m23/09/2021 21:07:43 - [info] : Sending user data to scheduler [39m
+[34m23/09/2021 21:07:49 - [info] : scheduler is running at [39m
+[34m23/09/2021 21:07:49 - [info] : scheduler is running at [39m
+[31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
+[31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
+[34m24/09/2021 09:53:01 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 09:53:30 - [info] : Mongoose connection is disconnected.[39m
+[31m24/09/2021 09:53:30 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m24/09/2021 09:53:45 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 09:53:45 - [info] : Mongoose server listening[39m
+[32m24/09/2021 09:55:23 - [debug] : User inserted in database[39m
+[34m24/09/2021 09:55:23 - [info] : Sending user data to scheduler [39m
+[32m24/09/2021 09:55:43 - [debug] : User inserted in database[39m
+[34m24/09/2021 09:55:43 - [info] : Sending user data to scheduler [39m
+[32m24/09/2021 09:55:47 - [debug] : User inserted in database[39m
+[34m24/09/2021 09:55:47 - [info] : Sending user data to scheduler [39m
+[34m24/09/2021 09:55:49 - [info] : scheduler is running at [39m
+[31m24/09/2021 09:55:54 - [error] : Mailer  No recipients defined[39m
+[34m24/09/2021 09:56:37 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 09:56:37 - [info] : Mongoose server listening[39m
+[34m24/09/2021 09:56:42 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 09:56:42 - [info] : Mongoose server listening[39m
+[34m24/09/2021 09:56:44 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 09:56:44 - [info] : Mongoose server listening[39m
+[34m24/09/2021 09:56:54 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 09:56:54 - [info] : Mongoose server listening[39m
+[32m24/09/2021 09:57:09 - [debug] : User inserted in database[39m
+[34m24/09/2021 09:57:09 - [info] : Sending user data to scheduler [39m
+[34m24/09/2021 09:57:29 - [info] : scheduler is running at [39m
+[34m24/09/2021 09:57:39 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m24/09/2021 09:57:39 - [info] : after sent[39m
+[34m24/09/2021 10:00:05 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:05 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:00:14 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:14 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:00:17 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:17 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:00:27 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:27 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:00:32 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:32 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:00:43 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:43 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:00:54 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:00:54 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:01:00 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:01:00 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:01:04 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:01:04 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:01:17 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:01:18 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:01:33 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:01:33 - [info] : Mongoose server listening[39m
+[32m24/09/2021 10:01:56 - [debug] : User inserted in database[39m
+[32m24/09/2021 10:01:56 - [debug] : Sending user data to scheduling Job[39m
+[32m24/09/2021 10:02:10 - [debug] : User inserted in database[39m
+[32m24/09/2021 10:02:10 - [debug] : Sending user data to scheduling Job[39m
+[32m24/09/2021 10:02:15 - [debug] : scheduler is running atFri Sep 24 2021 10:02:15 GMT+0530 (India Standard Time)[39m
+[34m24/09/2021 10:02:23 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m24/09/2021 10:02:40 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:02:40 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:02:47 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:02:47 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:02:52 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:02:52 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:03:25 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:03:25 - [info] : Mongoose server listening[39m
+[34m24/09/2021 10:04:52 - [info] : Server is runnin on port 6000[39m
+[34m24/09/2021 10:04:52 - [info] : Mongoose server listening[39m

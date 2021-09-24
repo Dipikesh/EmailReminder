@@ -6,7 +6,7 @@ exports.create = async(req, res, next) => {
     
     try {
         const user = await userService.createUser(req.body);
-        logger.info(`Sending user data to scheduler `,user);
+        logger.debug(`Sending user data to scheduling Job `);
         const scheduler = await jobService.schedulingJob(user);
         res.status(200).json({ success: true, message: "Email is Scheduled" });
         

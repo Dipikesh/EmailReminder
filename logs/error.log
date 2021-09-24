@@ -26,3 +26,7 @@
 [31m22/09/2021 01:32:20 - [error] : UnhandledRejection Cannot read property 'sendMail' of undefined[39m
 [31m23/09/2021 13:21:41 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
 [31m23/09/2021 13:40:24 - [error] : Mailer  Connection timeout[39m
+[31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
+[31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
+[31m24/09/2021 09:53:30 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m24/09/2021 09:55:54 - [error] : Mailer  No recipients defined[39m

@@ -1,5 +1,5 @@
 const createError = require('http-errors')
-const { mailerService } = require('./services')
+const { mailerService } = require('./src/services')
 const scheduler = require('node-schedule');
 
 
