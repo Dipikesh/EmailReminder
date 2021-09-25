@@ -5,12 +5,11 @@ const logger = require('../config/logger');
 exports.create = async(req, res, next) => {
     
     try {
-        const user = await userService.createUser(req.body);
-        logger.debug(`Sending user data to scheduling Job `);
-        const scheduler = await jobService.schedulingJob(user);
+        const jobId = await jobService.schedulingJob(req.body);
+        logger.debug(`Email is scheduled for jobId  `+jobId);
+        const user = await userService.createUser(req.body,jobId);
+        // logger.debug(`Sending user data to scheduling Job `);
         res.status(200).json({ success: true, message: "Email is Scheduled" });
-        
-        
         }
     catch (err) {
         logger.error("create Controller ", err);

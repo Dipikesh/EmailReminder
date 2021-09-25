@@ -50,3 +50,121 @@
 [31m24/09/2021 17:04:33 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:34:33.462Z"[39m
 [31m24/09/2021 17:04:42 - [error] : User Validation Error ValidationError: "date" must be in ISO 8601 date format[39m
 [31m24/09/2021 17:07:45 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:37:45.464Z"[39m
+[31m24/09/2021 17:13:08 - [error] : USER DATA SAVING  userScheam is not defined[39m
+[31m24/09/2021 17:15:08 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:50:08.107Z"[39m
+[31m24/09/2021 17:28:33 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:58:32.973Z"[39m
+[31m24/09/2021 17:28:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 17:32:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 17:34:39 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:40:14 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T13:10:14.669Z"[39m
+[31m24/09/2021 18:40:29 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:41:30 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:42:57 - [error] : USER DATA SAVING  Can't use $ls with Date.[39m
+[31m24/09/2021 18:42:57 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:44:46 - [error] : USER DATA SAVING  Can't use $lse with Date.[39m
+[31m24/09/2021 18:44:46 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:45:24 - [error] : USER DATA SAVING  isDateSam is not defined[39m
+[31m24/09/2021 18:45:24 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:45:42 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:49:46 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:49:46 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:52:57 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:52:57 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:53:17 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:53:17 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:55:34 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:55:34 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:55:49 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:55:49 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:55:51 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:55:51 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 19:05:38 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:05:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:06:22 - [error] : USER DATA SAVING  isDateSame is not defined[39m
+[31m24/09/2021 19:08:15 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:15 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:25 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:26 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:26 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:29:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:29:22 - [error] : create Controller  resolve is not defined[39m
+[31m24/09/2021 19:38:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:39:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 20:02:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 20:22:08 - [error] : create Controller  ISODate is not defined[39m
+[31m24/09/2021 20:23:50 - [error] : Can not Connect MongooseServerSelectionError: connection timed out[39m
+[31m24/09/2021 21:22:01 - [error] : create Controller  Cast to date failed for value "ISODate(2021-09-24T21:25:45)" (type string) at path "date" for model "User"[39m
+[31m24/09/2021 21:23:27 - [error] : create Controller  ISODate is not defined[39m
+[31m24/09/2021 21:26:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:34:18 - [error] : create Controller  originalDate.setDate is not a function[39m
+[31m24/09/2021 21:35:32 - [error] : create Controller  originalDate.setDate is not a function[39m
+[31m24/09/2021 21:36:13 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T16:06:12.968Z"[39m
+[31m24/09/2021 21:36:31 - [error] : create Controller  Cast to date failed for value "Invalid Date" (type Date) at path "date" for model "User"[39m
+[31m24/09/2021 21:37:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:38:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:39:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:41:12 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:41:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:42:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:50:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:50:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:53:32 - [error] : create Controller  originalDate is not defined[39m
+[31m24/09/2021 22:07:45 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m24/09/2021 22:07:45 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m24/09/2021 22:27:45 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m25/09/2021 01:45:10 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T20:15:10.171Z"[39m
+[31m25/09/2021 01:45:21 - [error] : create Controller  resolve is not defined[39m
+[31m25/09/2021 01:45:42 - [error] : create Controller  Cast to Number failed for value "2416e81b" (type string) at path "jobId" for model "User"[39m
+[31m25/09/2021 01:47:12 - [error] : create Controller  Cast to Number failed for value "fc0947d3" (type string) at path "jobId" for model "User"[39m
+[31m25/09/2021 14:19:35 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-25T08:49:35.190Z"[39m
+[31m25/09/2021 14:19:44 - [error] : create Controller  userScheama is not defined[39m
+[31m25/09/2021 14:23:27 - [error] : create Controller  userObj is not defined[39m
+[31m25/09/2021 14:29:45 - [error] : create Controller  Unexpected token o in JSON at position 1[39m
+[31m25/09/2021 16:45:33 - [error] : create Controller  Cast to date failed for value "{ '$gte': '2021-09-26T01:54:59',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:46:27 - [error] : create Controller  Cast to date failed for value "{ '$gte': 'ISODate(\'2021-09-26T01:54:59\')',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:46:51 - [error] : create Controller  Cast to date failed for value "{ '$gte': 'ISODate(2021-09-26T01:54:59)',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:47:07 - [error] : create Controller  Cast to date failed for value "{ '$gte': '2021-09-26T01:54:59',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:48:01 - [error] : create Controller  Cast to date failed for value "{ '$gte': 2021-09-25T20:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:48:14 - [error] : create Controller  Cast to date failed for value "{ '$gte': 2021-09-25T20:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:54:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 16:55:30 - [error] : create Controller  ISODate is not defined[39m
+[31m25/09/2021 16:55:49 - [error] : create Controller  Cast to date failed for value "ISODate(date)" (type string) at path "date" for model "User"[39m
+[31m25/09/2021 17:07:00 - [error] : User Validation Error Error: write EIO[39m
+[31m25/09/2021 17:24:58 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-25T11:54:58.584Z"[39m
+[31m25/09/2021 17:26:58 - [error] : create Controller  ISODate is not defined[39m
+[31m25/09/2021 17:28:50 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:29:42 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:29:52 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:29:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:30:10 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:30:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:31:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:33:34 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:33:46 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:33:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:36:08 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:36:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:36:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:43:10 - [error] : create Controller  Cannot read property 'job' of null[39m
+[31m25/09/2021 17:44:47 - [error] : create Controller  Cannot read property 'job' of null[39m
+[31m25/09/2021 20:17:46 - [error] : create Controller  Cannot read property 'job' of null[39m
+[31m25/09/2021 20:18:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m

@@ -6,14 +6,10 @@ require(`dotenv`).config();
 const app = express();
 const logger = require("./config/logger");
 const httpLogger = require("./config/httpLogger");
-require('./config/conn');
-
-
-
+require("./config/conn");
 
 app.use(helmet());
 app.use(helmet());
-
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -22,40 +18,42 @@ app.use("/reminder", require("./routes"));
 
 //Adding Swagger
 
-
 app.use(async (req, res, next) => {
   next(createError.NotFound());
 });
 
 app.use(async (err, req, res, next) => {
-    res.status(err.status || 500)
-    res.json({
-        error: {
-            status: err.status || 500,
-            message: err.message
-        }
-    })
+  const errorType = createError.isHttpError(err);
+  if (!errorType) {
+    logger.error(`Programatic Error, Shutting down due to ${err.stack}`);
+    process.exit(1);
+  }
+
+  res.status(err.status || 500);
+  res.json({
+    error: {
+      status: err.status || 500,
+      message: err.message,
+    },
+  });
 });
 
-
-
-const PORT =  process.env.PORT || 8000
+const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {
- logger.info(`Server is runnin on port ${PORT}`);
+  logger.info(`Server is runnin on port ${PORT}`);
 });
 
-process.once('SIGUSR2', function () {
-  process.kill(process.pid, 'SIGUSR2');
+process.once("SIGUSR2", function () {
+  process.kill(process.pid, "SIGUSR2");
 });
 
-process.on('SIGINT', function () {
+process.on("SIGINT", function () {
   // this is only called on ctrl+c, not restart
-  process.kill(process.pid, 'SIGINT');
+  process.kill(process.pid, "SIGINT");
 });
 
-process.on('unhandledRejection', (error, p) => {
+process.on("unhandledRejection", (error, p) => {
   // Prints "unhandledRejection woops!"
-  console.log(error.stack)
+  console.log(error.stack);
   // logger.error('UnhandledRejection', error, "reason" ,p);
 });
-
