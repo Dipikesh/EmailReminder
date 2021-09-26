@@ -12,3 +12,10 @@ exports.schedulingJob = async (user) => {
       });
       return jobId;
 };
+
+exports.reschedulingJob = async (jobId, userData) => {
+   var date = new Date(userData.date);
+
+  // schedule.reschedule(jobId, date);
+  return true;
+}

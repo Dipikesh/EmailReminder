@@ -20,7 +20,9 @@ exports.create = async(req, res, next) => {
 }
 
 
-exports.update = async(req, res, next) => {
+exports.update = async (req, res, next) => {
+    const jobId = await userService.getJobId(req.body);
+    const rescheduleJob = await jobService.reschedulingJob(jobId,req.body);
     res.status(200).send("working");
 
 }

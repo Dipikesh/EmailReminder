@@ -26,7 +26,7 @@ exports.createUser = async (userData, jobId) => {
   if (isDateSame)
     throw createError(
       400,
-      "Please Set Reminder atleast after or before 5 minutes of previous reminder "
+      "Please Set Reminder atleast after or before 5 minutes of previous reminders+ "
     );
 
   const result = await userSchema.updateOne(
@@ -41,3 +41,23 @@ exports.createUser = async (userData, jobId) => {
 
   return result;
 };
+
+
+exports.getJobId = async (body) => {
+  var { date, prevDate, email } = body;
+  date = new Date(date);
+  prevDate = new Date(prevDate);
+
+  const result = await userSchema.findOne({email, "job.date": prevDate }, { "job.jobId.$":1});
+
+  if (!result) {
+    throw createError(404, "Try again with correct date");
+  }
+
+
+  const jobId = result.job[0].jobId;
+  console.log("job result "+result.job[0].jobId);
+  logger.debug("JobId for Updating the Date "+JSON.stringify(jobId));
+  return jobId;
+
+}

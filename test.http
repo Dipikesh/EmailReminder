@@ -10,3 +10,14 @@ Content-Type: application/json
 }
 
 ###
+
+POST  http://localhost:6000/reminder/update HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Meeting",
+    "description":"I have to meet Rohan at 1 pm",
+    "date":"2021-10-19T06:01:59",
+    "prevDate":"2021-10-12T22:31:59.000+0000",
+    "email":"dipikesh.singh.915@gmail.com"
+}

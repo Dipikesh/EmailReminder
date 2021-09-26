@@ -168,3 +168,13 @@
 [31m25/09/2021 17:44:47 - [error] : create Controller  Cannot read property 'job' of null[39m
 [31m25/09/2021 20:17:46 - [error] : create Controller  Cannot read property 'job' of null[39m
 [31m25/09/2021 20:18:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 23:12:33 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:12:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:17:39 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:17:40 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m26/09/2021 00:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m26/09/2021 00:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m26/09/2021 01:01:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 01:01:39 - [error] : Can not Connect Error: EIO: i/o error, write[39m
