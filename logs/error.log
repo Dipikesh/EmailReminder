@@ -178,3 +178,9 @@
 [31m26/09/2021 00:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
 [31m26/09/2021 01:01:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
 [31m26/09/2021 01:01:39 - [error] : Can not Connect Error: EIO: i/o error, write[39m
+[31m26/09/2021 13:11:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 16:04:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 16:06:44 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 17:05:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 17:06:43 - [error] : User Validation Error ValidationError: "prevDate" is not allowed[39m
+[31m26/09/2021 17:22:38 - [error] : User Update Request Validation Error ValidationError: "prevDate" must be greater than "2021-09-26T11:52:38.434Z"[39m

@@ -2,14 +2,22 @@ const { jobService, userService, mailerService} = require('../services');
 const createError = require('http-errors')
 const logger = require('../config/logger');
 
+exports.userInfo = async (req, res, next) => {
+    try {
+        const userDetail = await userService.fetchInfo(req.params);
+    }
+    catch (err) {
+        
+    }
+}
 exports.create = async(req, res, next) => {
     
     try {
         const jobId = await jobService.schedulingJob(req.body);
         logger.debug(`Email is scheduled for jobId  `+jobId);
-        const user = await userService.createUser(req.body,jobId);
-        // logger.debug(`Sending user data to scheduling Job `);
-        res.status(200).json({ success: true, message: "Email is Scheduled" });
+        const user = await userService.createUser(req.body, jobId);
+        if(user)
+        res.status(200).json({ success: true, message: `Email is Scheduled at ${req.body.date}`,data:req.body.date });
         }
     catch (err) {
         logger.error("create Controller ", err);
@@ -22,8 +30,9 @@ exports.create = async(req, res, next) => {
 
 exports.update = async (req, res, next) => {
     const jobId = await userService.getJobId(req.body);
-    const rescheduleJob = await jobService.reschedulingJob(jobId,req.body);
-    res.status(200).send("working");
+    const rescheduleJob = await jobService.reschedulingJob(jobId, req.body);
+    const updateDate = await userService.updateDate(jobId,req.body);
+    res.status(200).json({ success: true, message:`Date is updated to ${req.body.date}`,data:req.body.date });
 
 }
 

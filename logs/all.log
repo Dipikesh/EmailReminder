@@ -5330,3 +5330,793 @@
 [35m26/09/2021 11:42:20 - [debug] : JobId for Updating the Date "5bb352e0"[39m
 [34m26/09/2021 11:47:50 - [info] : Server is runnin on port 6000[39m
 [34m26/09/2021 11:47:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:49:37 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:49:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:49:41 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:49:41 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:49:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:49:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:49:55 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:49:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:03 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:03 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:08 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:08 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:10 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:17 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:17 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:23 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:33 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:50:49 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:50:49 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:51:41 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:51:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:51:55 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:51:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:52:03 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:52:03 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:52:03 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:52:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:52:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:52:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:45 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:53:45 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:47 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:48 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:53:48 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:53:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:53:59 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:53:59 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:02 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:54:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:05 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:06 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:54:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:23 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:54:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:29 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:54:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:54:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:54:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:56:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:56:27 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:56:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:56:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:56:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:56:30 - [info] : Mongoose server listening[39m
+[35m26/09/2021 11:56:44 - [debug] : JobId for Updating the Date 5[39m
+[34m26/09/2021 11:57:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:57:06 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:57:06 - [info] : Mongoose server listening[39m
+[35m26/09/2021 11:57:07 - [debug] : JobId for Updating the Date 5[39m
+[34m26/09/2021 11:57:31 - [info] : Mongoose server listening[39m
+[34m26/09/2021 11:57:32 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 11:57:32 - [info] : Mongoose server listening[39m
+[35m26/09/2021 12:39:35 - [debug] : JobId for Updating the Date 5[39m
+[34m26/09/2021 12:42:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:19 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:20 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:34 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:35 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:46 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:46 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:46 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:47 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:48 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:48 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:49 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:52 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:52 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:42:57 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:42:57 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:43:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:43:38 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:43:38 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:43:41 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:43:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:43:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:13 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:14 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:44:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:21 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:44:21 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:44:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:33 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:44:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 12:44:43 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 12:44:43 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:15 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:15 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:00:15 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:24 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:00:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:25 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:26 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:00:26 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:34 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:00:34 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:52 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:00:52 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:00:55 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:00:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:01:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:01:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:01:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:12 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:24 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:33 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:37 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:43 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:43 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:50 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:52 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:53 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:53 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:02:59 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:02:59 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:05 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:06 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:09 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:10 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:13 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:13 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:15 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:15 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:15 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:23 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:31 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:31 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:31 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:34 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:34 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:40 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:40 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:40 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:49 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:50 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:50 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:03:59 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:03:59 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:04 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:04 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:04:05 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:07 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:04:07 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:12 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:04:13 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:19 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:20 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:04:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:04:37 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:04:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:26 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:27 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:05:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:31 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:05:31 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:34 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:05:34 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:41 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:41 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:05:41 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:45 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:05:45 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:05:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:00 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:01 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:06:01 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:03 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:06:03 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:04 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:05 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:06:05 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:07 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:06:07 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:13 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:19 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:21 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:06:22 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:06:22 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:08:06 - [info] : User Validation Success[39m
+[35m26/09/2021 13:08:06 - [debug] : Email is scheduled for jobId  2fb89269[39m
+[35m26/09/2021 13:08:06 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 13:08:06 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"6150235ebea388fa3c853b67"}],"nModified":0,"ok":1}[39m
+[35m26/09/2021 13:10:59 - [debug] : scheduler is running at 2021-09-26T13:10:59[39m
+[34m26/09/2021 13:11:07 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m26/09/2021 13:11:38 - [info] : User Validation Success[39m
+[35m26/09/2021 13:11:38 - [debug] : Email is scheduled for jobId  629bcc48[39m
+[35m26/09/2021 13:11:38 - [debug] : User with around same date exist { _id: 6150235ebea388fa3c853b67 }[39m
+[31m26/09/2021 13:11:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[34m26/09/2021 13:11:52 - [info] : User Validation Success[39m
+[35m26/09/2021 13:11:52 - [debug] : Email is scheduled for jobId  2bdca054[39m
+[35m26/09/2021 13:11:52 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 13:11:52 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m26/09/2021 13:12:59 - [debug] : scheduler is running at 2021-09-26T13:12:59[39m
+[35m26/09/2021 13:13:05 - [debug] : JobId for Updating the Date 2[39m
+[35m26/09/2021 13:13:05 - [debug] : Date can not updated, Something went wrong[39m
+[34m26/09/2021 13:13:05 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m26/09/2021 13:15:31 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:15:32 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:15:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:24 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:16:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:25 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:25 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:16:26 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:35 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:16:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:16:39 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:16:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:17:40 - [info] : User Validation Success[39m
+[35m26/09/2021 13:17:40 - [debug] : Email is scheduled for jobId  85eaf1e6[39m
+[35m26/09/2021 13:17:40 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 13:17:40 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"6150259cbea388fa3c853d05"}],"nModified":0,"ok":1}[39m
+[35m26/09/2021 13:17:53 - [debug] : JobId for Updating the Date 85[39m
+[35m26/09/2021 13:17:53 - [debug] : Date can not updated, Something went wrong{"n":0,"nModified":0,"ok":1}[39m
+[34m26/09/2021 13:18:45 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:18:45 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:18:45 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:18:47 - [info] : Mongoose server listening[39m
+[34m26/09/2021 13:18:48 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 13:18:48 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:12:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:12:03 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:12:03 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:12:07 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:12:08 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:12:08 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:12:12 - [debug] : JobId for Updating the Date 85[39m
+[34m26/09/2021 15:12:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:12:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:12:30 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:12:32 - [debug] : JobId for Updating the Date 85[39m
+[35m26/09/2021 15:12:32 - [debug] : Date can not updated, Something went wrong{"n":0,"nModified":0,"ok":1}[39m
+[34m26/09/2021 15:13:45 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:13:46 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:13:46 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:13:53 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:13:54 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:13:54 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:13:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:13:58 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:13:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:14:01 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:14:02 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:14:02 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:14:05 - [debug] : JobId for Updating the Date 85[39m
+[35m26/09/2021 15:14:05 - [debug] : jobId  85[39m
+[35m26/09/2021 15:14:05 - [debug] : Date can not updated, Something went wrong{"n":0,"nModified":0,"ok":1}[39m
+[34m26/09/2021 15:15:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:15:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:38 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:39 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:15:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:47 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:48 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:15:48 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:15:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:57 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:15:58 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:15:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:14 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:16:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:16 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:17 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:16:17 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:24 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:16:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:28 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:16:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:16:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:45 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:16:46 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:16:46 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:16:54 - [debug] : JobId for Updating the Date 85[39m
+[35m26/09/2021 15:16:54 - [debug] : jobId  85[39m
+[35m26/09/2021 15:16:54 - [debug] : Date can not updated, Something went wrong{"n":0,"nModified":0,"ok":1}[39m
+[34m26/09/2021 15:17:13 - [info] : User Validation Success[39m
+[35m26/09/2021 15:17:13 - [debug] : JOB ID IS ....d51dc19f[39m
+[35m26/09/2021 15:17:13 - [debug] : Email is scheduled for jobId  d51dc19f[39m
+[35m26/09/2021 15:17:13 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 15:17:13 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m26/09/2021 15:17:59 - [debug] : JobId for Updating the Date 85[39m
+[35m26/09/2021 15:17:59 - [debug] : jobId  85[39m
+[35m26/09/2021 15:17:59 - [debug] : Date can not updated, Something went wrong{"n":0,"nModified":0,"ok":1}[39m
+[34m26/09/2021 15:19:38 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:19:39 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:19:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:19:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:19:52 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:19:52 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:19:59 - [debug] : JobId for Updating the Date "85eaf1e6"[39m
+[34m26/09/2021 15:20:25 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:20:26 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:20:26 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:20:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:20:28 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:20:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:20:52 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:20:53 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:20:53 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:20:56 - [debug] : JobId for Updating the Date "85eaf1e6"[39m
+[34m26/09/2021 15:21:48 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:21:48 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:21:48 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:21:49 - [debug] : JobId for Updating the Date "85eaf1e6"[39m
+[34m26/09/2021 15:25:16 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:25:16 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:25:19 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:25:20 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:25:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:25:40 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:25:40 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:25:44 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:25:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:25:49 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:25:49 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:25:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:25:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:26:01 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:26:01 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:26:08 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:26:08 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:26:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:26:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:26:37 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:26:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:26:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:26:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:12 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:24 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:27 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:33 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:43 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:43 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:27:47 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:27:47 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:28:19 - [debug] : JobId for Updating the Date "85eaf1e6"[39m
+[34m26/09/2021 15:28:58 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:28:58 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:14 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:21 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:21 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:29 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:32 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:38 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:38 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:29:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:29:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:30:37 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:30:37 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:30:44 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:30:44 - [info] : Mongoose server listening[39m
+[35m26/09/2021 15:30:48 - [debug] : JobId for Updating the Date "85eaf1e6"[39m
+[35m26/09/2021 15:30:48 - [debug] : jobId  85eaf1e6[39m
+[35m26/09/2021 15:30:48 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":1,"ok":1}[39m
+[34m26/09/2021 15:55:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:55:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:55:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:55:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:55:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:55:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:55:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:55:57 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:57:34 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:57:34 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:57:39 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:57:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:57:46 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:57:46 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:58:06 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:58:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:58:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:58:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:58:14 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:58:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 15:58:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 15:58:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:00:18 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:00:18 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:00:22 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:00:22 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:00:26 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:00:26 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:00:32 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:00:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:00:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:00:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:01:28 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:01:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:04:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:04:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:04:21 - [info] : User Validation Success[39m
+[35m26/09/2021 16:04:21 - [debug] : JOB ID IS ....�|[39m
+[35m26/09/2021 16:04:21 - [debug] : Email is scheduled for jobId  �|[39m
+[35m26/09/2021 16:04:21 - [debug] : User with around same date exist { _id: 6150259cbea388fa3c853d05 }[39m
+[31m26/09/2021 16:04:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[34m26/09/2021 16:04:41 - [info] : User Validation Success[39m
+[35m26/09/2021 16:04:41 - [debug] : JOB ID IS ....kJ)_[39m
+[35m26/09/2021 16:04:41 - [debug] : Email is scheduled for jobId  kJ)_[39m
+[35m26/09/2021 16:04:41 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 16:04:41 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m26/09/2021 16:04:59 - [debug] : JobId for Updating the Date "kJ)_"[39m
+[35m26/09/2021 16:04:59 - [debug] : jobId  kJ)_[39m
+[35m26/09/2021 16:04:59 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":1,"ok":1}[39m
+[34m26/09/2021 16:05:29 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:05:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:06:36 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:06:36 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:06:44 - [info] : User Validation Success[39m
+[35m26/09/2021 16:06:44 - [debug] : JOB ID IS ....38f0193b[39m
+[35m26/09/2021 16:06:44 - [debug] : Email is scheduled for jobId  38f0193b[39m
+[35m26/09/2021 16:06:44 - [debug] : User with around same date exist { _id: 6150259cbea388fa3c853d05 }[39m
+[31m26/09/2021 16:06:44 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[34m26/09/2021 16:07:48 - [info] : User Validation Success[39m
+[35m26/09/2021 16:07:48 - [debug] : JOB ID IS ....7dec718c[39m
+[35m26/09/2021 16:07:48 - [debug] : Email is scheduled for jobId  7dec718c[39m
+[35m26/09/2021 16:07:48 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 16:07:48 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61504d7cbea388fa3c85487d"}],"nModified":0,"ok":1}[39m
+[35m26/09/2021 16:08:11 - [debug] : JobId for Updating the Date "7dec718c"[39m
+[35m26/09/2021 16:08:11 - [debug] : jobId  7dec718c[39m
+[35m26/09/2021 16:08:11 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":1,"ok":1}[39m
+[34m26/09/2021 16:08:28 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:08:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:10:03 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:10:03 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:11:38 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:11:38 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:11:41 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:11:41 - [info] : Mongoose server listening[39m
+[35m26/09/2021 16:11:46 - [debug] : JobId for Updating the Date "7dec718c"[39m
+[34m26/09/2021 16:12:29 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:12:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:12:44 - [info] : User Validation Success[39m
+[35m26/09/2021 16:12:44 - [debug] : JOB ID IS ....7805ecfa[39m
+[35m26/09/2021 16:12:44 - [debug] : Email is scheduled for jobId  7805ecfa[39m
+[35m26/09/2021 16:12:44 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 16:12:44 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m26/09/2021 16:13:04 - [debug] : JobId for Updating the Date "7805ecfa"[39m
+[35m26/09/2021 16:13:04 - [debug] : jobId  7805ecfa[39m
+[35m26/09/2021 16:13:04 - [debug] : User date updated successfully[39m
+[34m26/09/2021 16:14:16 - [info] : User Validation Success[39m
+[35m26/09/2021 16:14:16 - [debug] : JOB ID IS ....48dd8a2a[39m
+[35m26/09/2021 16:14:16 - [debug] : Email is scheduled for jobId  48dd8a2a[39m
+[35m26/09/2021 16:14:17 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 16:14:17 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61504f01bea388fa3c854931"}],"nModified":0,"ok":1}[39m
+[35m26/09/2021 16:14:50 - [debug] : JobId for Updating the Date "48dd8a2a"[39m
+[35m26/09/2021 16:14:50 - [debug] : jobId  48dd8a2a[39m
+[35m26/09/2021 16:14:50 - [debug] : User date updated successfully[39m
+[35m26/09/2021 16:15:29 - [debug] : scheduler is running at 2021-09-26T22:19:59[39m
+[34m26/09/2021 16:15:37 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m26/09/2021 16:16:54 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:16:54 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:17:25 - [info] : User Validation Success[39m
+[35m26/09/2021 16:17:25 - [debug] : JOB ID IS ....34e648d6[39m
+[35m26/09/2021 16:17:25 - [debug] : Email is scheduled for jobId  34e648d6[39m
+[35m26/09/2021 16:17:25 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 16:17:25 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61504fbdbea388fa3c85498a"}],"nModified":0,"ok":1}[39m
+[35m26/09/2021 16:17:51 - [debug] : JobId for Updating the Date "34e648d6"[39m
+[35m26/09/2021 16:17:51 - [debug] : jobId  34e648d6[39m
+[35m26/09/2021 16:17:51 - [debug] : User date updated successfully[39m
+[35m26/09/2021 16:19:46 - [debug] : JobId for Updating the Date "34e648d6"[39m
+[35m26/09/2021 16:19:46 - [debug] : jobId  34e648d6[39m
+[35m26/09/2021 16:19:46 - [debug] : User date updated successfully[39m
+[35m26/09/2021 16:20:59 - [debug] : JobId for Updating the Date "34e648d6"[39m
+[35m26/09/2021 16:20:59 - [debug] : jobId  34e648d6[39m
+[35m26/09/2021 16:20:59 - [debug] : User date updated successfully[39m
+[35m26/09/2021 16:21:29 - [debug] : scheduler is running at 2021-09-26T18:19:59[39m
+[34m26/09/2021 16:21:40 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m26/09/2021 16:39:59 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:39:59 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:05 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:05 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:17 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:17 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:20 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:26 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:26 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:29 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:32 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:40 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:40 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:40:50 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:40:50 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:41:14 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:41:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:41:44 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:41:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:41:54 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:41:54 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:42:04 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:42:04 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:42:07 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:42:07 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:42:53 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:42:53 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:42:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:42:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:43:28 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:43:28 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:44:13 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:44:13 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:44:31 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:44:32 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:45:02 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:45:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:45:12 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:45:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:46:04 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:46:04 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:46:06 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:46:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:46:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:46:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:47:09 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:47:09 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:47:12 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:47:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:47:38 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:47:38 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:47:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:47:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:48:44 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:48:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:49:05 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:49:05 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:50:11 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:50:11 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:50:17 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:50:17 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:50:23 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:50:23 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:50:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:50:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:50:35 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:50:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:50:55 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:50:55 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:51:25 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:51:25 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:51:30 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:51:30 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:51:34 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:51:34 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:51:44 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:51:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:51:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:51:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:52:00 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:52:00 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:52:07 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:52:07 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:52:10 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:52:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:52:17 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:52:17 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:53:21 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:53:21 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:53:27 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:53:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:53:40 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:53:40 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:53:52 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:53:52 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:54:09 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:54:09 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:54:21 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:54:21 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:54:27 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:54:27 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:54:39 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:54:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:54:43 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:54:43 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:54:46 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:54:46 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:02 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:02 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:10 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:10 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:14 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:14 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:20 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:35 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:35 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:39 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:39 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:44 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:44 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:55:54 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:55:54 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:56:24 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 16:56:24 - [info] : Mongoose server listening[39m
+[34m26/09/2021 16:59:22 - [info] : User Validation Success[39m
+[35m26/09/2021 16:59:22 - [debug] : JOB ID IS ....7fd4b3cf[39m
+[35m26/09/2021 16:59:22 - [debug] : Email is scheduled for jobId  7fd4b3cf[39m
+[35m26/09/2021 16:59:22 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 16:59:22 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61505992bea388fa3c854d93"}],"nModified":0,"ok":1}[39m
+[35m26/09/2021 16:59:45 - [debug] : JobId for Updating the Date "7fd4b3cf"[39m
+[35m26/09/2021 16:59:45 - [debug] : RescheduleJob for JOB ID ...7fd4b3cf[39m
+[35m26/09/2021 16:59:45 - [debug] : jobId  7fd4b3cf[39m
+[35m26/09/2021 16:59:45 - [debug] : User date updated successfully[39m
+[34m26/09/2021 17:00:12 - [info] : User Validation Success[39m
+[35m26/09/2021 17:00:12 - [debug] : JOB ID IS ....aca4def0[39m
+[35m26/09/2021 17:00:12 - [debug] : Email is scheduled for jobId  aca4def0[39m
+[35m26/09/2021 17:00:12 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 17:00:12 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m26/09/2021 17:00:43 - [debug] : JobId for Updating the Date "aca4def0"[39m
+[35m26/09/2021 17:00:43 - [debug] : RescheduleJob for JOB ID ...aca4def0[39m
+[35m26/09/2021 17:00:43 - [debug] : jobId  aca4def0[39m
+[35m26/09/2021 17:00:43 - [debug] : User date updated successfully[39m
+[35m26/09/2021 17:01:19 - [debug] : scheduler is running at 2021-09-26T17:02:59[39m
+[34m26/09/2021 17:01:28 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m26/09/2021 17:01:28 - [debug] : User Email Sent Status changed to 1[39m
+[34m26/09/2021 17:02:20 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:02:20 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:04:29 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:04:29 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:04:33 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:04:33 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:04:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:04:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:05:32 - [info] : User Validation Success[39m
+[35m26/09/2021 17:05:32 - [debug] : JOB ID IS ....e1db647c[39m
+[35m26/09/2021 17:05:32 - [debug] : Email is scheduled for jobId  e1db647c[39m
+[35m26/09/2021 17:05:32 - [debug] : User with around same date exist { _id: 61505992bea388fa3c854d93 }[39m
+[31m26/09/2021 17:05:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[34m26/09/2021 17:05:37 - [info] : User Validation Success[39m
+[35m26/09/2021 17:05:37 - [debug] : JOB ID IS ....993eb45b[39m
+[35m26/09/2021 17:05:37 - [debug] : Email is scheduled for jobId  993eb45b[39m
+[35m26/09/2021 17:05:37 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 17:05:37 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[34m26/09/2021 17:06:19 - [info] : User Validation Success[39m
+[35m26/09/2021 17:06:19 - [debug] : JOB ID IS ....abbb9bfc[39m
+[35m26/09/2021 17:06:19 - [debug] : Email is scheduled for jobId  abbb9bfc[39m
+[35m26/09/2021 17:06:19 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 17:06:19 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61505b33bea388fa3c854e51"}],"nModified":0,"ok":1}[39m
+[31m26/09/2021 17:06:43 - [error] : User Validation Error ValidationError: "prevDate" is not allowed[39m
+[35m26/09/2021 17:06:59 - [debug] : scheduler is running at 2021-09-26T17:06:59[39m
+[34m26/09/2021 17:07:07 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m26/09/2021 17:07:08 - [debug] : User Email Sent Status changed to 1[39m
+[34m26/09/2021 17:15:25 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:15:25 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:19:15 - [info] : User Validation Success[39m
+[35m26/09/2021 17:19:15 - [debug] : JOB ID IS ....f352f842[39m
+[35m26/09/2021 17:19:15 - [debug] : Email is scheduled for jobId  f352f842[39m
+[35m26/09/2021 17:19:15 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 17:19:15 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61505e3bbea388fa3c854f38"}],"nModified":0,"ok":1}[39m
+[34m26/09/2021 17:19:39 - [info] : User Update Request Validation Success[39m
+[35m26/09/2021 17:19:40 - [debug] : JobId for Updating the Date "f352f842"[39m
+[35m26/09/2021 17:19:40 - [debug] : RescheduleJob for JOB ID ...f352f842[39m
+[35m26/09/2021 17:19:40 - [debug] : jobId  f352f842[39m
+[35m26/09/2021 17:19:40 - [debug] : User date updated successfully[39m
+[35m26/09/2021 17:21:59 - [debug] : scheduler is running at 2021-09-26T17:20:59[39m
+[34m26/09/2021 17:22:07 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m26/09/2021 17:22:07 - [debug] : User Email Sent Status changed to 1[39m
+[31m26/09/2021 17:22:38 - [error] : User Update Request Validation Error ValidationError: "prevDate" must be greater than "2021-09-26T11:52:38.434Z"[39m
+[34m26/09/2021 17:27:09 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:27:09 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:27:51 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:27:51 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:27:56 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:27:56 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:28:06 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:28:06 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:28:12 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:28:12 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:28:15 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:28:15 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:28:56 - [info] : User Validation Success[39m
+[35m26/09/2021 17:28:56 - [debug] : JOB ID IS ....4efa553a[39m
+[35m26/09/2021 17:28:56 - [debug] : Email is scheduled for jobId  4efa553a[39m
+[35m26/09/2021 17:28:56 - [debug] : User with around same date exist null[39m
+[35m26/09/2021 17:28:56 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m26/09/2021 17:40:59 - [debug] : scheduler is running at 2021-09-26T17:40:59[39m
+[34m26/09/2021 17:41:06 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m26/09/2021 17:41:06 - [debug] : User Email Sent Status changed to 1[39m
+[34m26/09/2021 17:42:42 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:42:42 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:42:48 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:42:48 - [info] : Mongoose server listening[39m
+[34m26/09/2021 17:43:00 - [info] : Server is runnin on port 6000[39m
+[34m26/09/2021 17:43:00 - [info] : Mongoose server listening[39m

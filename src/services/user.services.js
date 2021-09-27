@@ -4,6 +4,11 @@ const createError = require("http-errors");
 require("../config/conn");
 const logger = require("../config/logger");
 
+exports.fetchInfo = async (req, res, next) => {
+  
+  var {email,jobId}
+
+}
 exports.createUser = async (userData, jobId) => {
   var { name, email, date, description } = userData;
   var originalDate1 = new Date(date);
@@ -58,6 +63,38 @@ exports.getJobId = async (body) => {
   const jobId = result.job[0].jobId;
   console.log("job result "+result.job[0].jobId);
   logger.debug("JobId for Updating the Date "+JSON.stringify(jobId));
-  return jobId;
+  return jobId.toString();
+
+}
+
+exports.updateDate = async (jobIdNum, userDate) => {
+  const jobId = jobIdNum.toString();
+  logger.debug("jobId  "+jobId)
+  const dateUpdated =await userSchema.updateOne({ email: userDate.email, "job.jobId": jobId, "job.status":false }, { "$set": { "job.$.date": userDate.date } })
+  if (dateUpdated.n && dateUpdated.nModified) {
+    logger.debug("User date updated successfully")
+    return true;
+  }
+  logger.debug("Date can not updated, Something went wrong"+JSON.stringify(dateUpdated));
+  throw createError(500, "Something went wrong");
+
+
+}
+
+exports.updateDbStatus = async (email, jobId) => {
+  try {
+    const result = await userSchema.updateOne({ email, "job.jobId": jobId }, { "job.$.status": 1 });
+    if (result.n && result.nModified) {
+      logger.debug("User Email Sent Status changed to 1");
+      return true;
+    }
+     logger.debug("User Email Sent Status can't  change to 1"+JSON.stringify(result));
+      return true;
+
+  }
+  catch (err) {
+    debug.error("Email Status changing to 1 error " + err);
+    return false;
+  }
 
 }
