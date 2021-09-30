@@ -3,16 +3,16 @@ const logger = require("../config/logger");
 const createError = require("http-errors");
 const { sendEmail } = require("./mailer.services");
 const { updateDbStatus } = require("./user.services")
-const Job = require("../utils/genId");
+const genId = require("../utils/generator");
 exports.schedulingJob = async (user) => {
   const date = new Date(user.date);
-  const jobId = await Job.genId(8);
+  const jobId = await genId.value(8);
 
   logger.debug("JOB ID IS ...." + jobId);
   
   schedule.scheduleJob(jobId, date, async () => {
     logger.debug("scheduler is running at " + user.date);
-    await sendEmail(user.email, user.description);
+    await sendEmail(user.email, user.description, "This is Email Reminder");
     await updateDbStatus(user.email, jobId);
 
     schedule.cancelJob(jobId);

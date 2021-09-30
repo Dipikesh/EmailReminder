@@ -13,7 +13,7 @@ exports.userData = async (req, res, next) => {
     }
     catch (err) {
             logger.error("User Validation Error " + err);
-            next(err);
+            next(createError(422, err));
     }
 
 }
@@ -28,7 +28,7 @@ exports.userPrevData = async (req, res, next) => {
     }
     catch (err) {
             logger.error("User Update Request Validation Error " + err);
-            next(err);
+            next(createError(422, err));
     }
 
 }

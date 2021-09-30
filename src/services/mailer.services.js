@@ -20,7 +20,7 @@ const oAuth2Client = new google.auth.OAuth2(
 oAuth2Client.setCredentials({ refresh_token: REFRESH_TOKEN });
 
 
-exports.sendEmail =(receiverEmail,body) => {
+exports.sendEmail =(receiverEmail,body,subject) => {
   return new Promise(async (resolve, reject) => {
     try {
       
@@ -39,7 +39,6 @@ exports.sendEmail =(receiverEmail,body) => {
         },
         tls: { rejectUnauthorized: false },
       });
-const subject = "This is a reminder Email Client";
 
       const mailOptions = {
         from: "orvide.com ✉ <initiatetenet@gmail.com>",

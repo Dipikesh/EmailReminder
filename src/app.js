@@ -6,6 +6,7 @@ require(`dotenv`).config();
 const app = express();
 const logger = require("./config/logger");
 const httpLogger = require("./config/httpLogger");
+const route = require('./routes')
 require("./config/conn");
 
 app.use(helmet());
@@ -14,7 +15,7 @@ app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use("/reminder", require("./routes"));
+app.use("/", route);
 
 //Adding Swagger
 

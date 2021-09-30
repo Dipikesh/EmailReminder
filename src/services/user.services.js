@@ -6,7 +6,8 @@ const logger = require("../config/logger");
 
 exports.fetchInfo = async (req, res, next) => {
   
-  var {email,jobId}
+  // var {email,jobId}
+  return true;
 
 }
 exports.createUser = async (userData, jobId) => {

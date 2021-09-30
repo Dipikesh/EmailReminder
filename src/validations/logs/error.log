@@ -1,5 +1,0 @@
-[31m24/09/2021 13:53:32 - [error] : validation errorValidationError: "name" length must be at least 3 characters long[39m
-[31m24/09/2021 13:53:45 - [error] : validation errorValidationError: "description" length must be at least 3 characters long[39m
-[31m24/09/2021 13:54:20 - [error] : validation errorValidationError: "date" must be a valid date[39m
-[31m24/09/2021 13:54:59 - [error] : validation errorValidationError: "date" must be a valid date[39m
-[31m24/09/2021 13:55:28 - [error] : validation errorValidationError: "date" must be a valid date[39m

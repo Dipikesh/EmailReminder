@@ -6120,3 +6120,1268 @@
 [34m26/09/2021 17:42:48 - [info] : Mongoose server listening[39m
 [34m26/09/2021 17:43:00 - [info] : Server is runnin on port 6000[39m
 [34m26/09/2021 17:43:00 - [info] : Mongoose server listening[39m
+[34m27/09/2021 19:31:39 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:32:09 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 19:32:09 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 19:32:11 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:32:26 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:32:51 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:33:21 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 19:33:21 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 19:33:28 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:33:32 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:33:34 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:33:42 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:35:32 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:41:55 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:42:25 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 19:42:25 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 19:44:44 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:45:10 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:45:13 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:45:38 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:45:42 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:46:34 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:46:42 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:46:44 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:46:50 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:14 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:18 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:25 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:31 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:36 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:39 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:47:55 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:48:05 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:48:15 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:48:18 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:48:20 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:48:36 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:49:30 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:49:37 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:49:47 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:04 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:10 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:16 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:46 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:49 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:51 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:50:56 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:51:01 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:51:09 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:51:24 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:51:35 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:51:46 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:52:01 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:52:07 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:52:41 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:52:49 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:52:54 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:53:00 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:53:02 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:53:32 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 19:53:32 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 19:53:47 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:53:50 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:53:52 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:54:04 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:54:07 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:54:18 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:54:48 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 19:54:48 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 19:54:57 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:55:09 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:55:39 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 19:55:39 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 19:56:21 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:56:21 - [info] : Mongoose server listening[39m
+[31m27/09/2021 19:56:26 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-27T14:26:26.252Z"[39m
+[34m27/09/2021 19:56:31 - [info] : User Validation Success[39m
+[35m27/09/2021 19:56:31 - [debug] : JOB ID IS ....26824d3b[39m
+[35m27/09/2021 19:56:31 - [debug] : Email is scheduled for jobId  26824d3b[39m
+[35m27/09/2021 19:56:31 - [debug] : User with around same date exist null[39m
+[35m27/09/2021 19:56:31 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[31m27/09/2021 19:56:42 - [error] : User Update Request Validation Error ValidationError: "date" must be greater than "2021-09-27T14:26:42.391Z"[39m
+[34m27/09/2021 19:56:53 - [info] : User Update Request Validation Success[39m
+[35m27/09/2021 19:56:53 - [debug] : JobId for Updating the Date "26824d3b"[39m
+[35m27/09/2021 19:56:53 - [debug] : RescheduleJob for JOB ID ...26824d3b[39m
+[35m27/09/2021 19:56:53 - [debug] : jobId  26824d3b[39m
+[35m27/09/2021 19:56:53 - [debug] : User date updated successfully[39m
+[34m27/09/2021 19:57:00 - [info] : Mongoose connection is disconnected.[39m
+[34m27/09/2021 19:57:31 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:57:47 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:17 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:19 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:22 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:24 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:28 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:36 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:40 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:42 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:48 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:51 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:58:58 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:59:04 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:59:07 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 19:59:11 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:01:31 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:01:34 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:01:49 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:01:57 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:01:59 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:02:09 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:02:22 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:03:12 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:03:20 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:03:23 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:03:38 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:03:54 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:03:57 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:04:09 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:04:23 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:04:36 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:04:44 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:04:47 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:05:24 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:05:27 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:05:57 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 20:05:57 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m27/09/2021 20:19:16 - [info] : Server is runnin on port 6000[39m
+[34m27/09/2021 20:19:46 - [info] : Mongoose connection is disconnected.[39m
+[31m27/09/2021 20:19:46 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m28/09/2021 14:08:22 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:08:46 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:15:09 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:15:09 - [info] : Mongoose server listening[39m
+[31m28/09/2021 14:15:27 - [error] : Error During AuthenticationTypeError: regSchema is not a constructor[39m
+[34m28/09/2021 14:15:43 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:15:43 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:15:46 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:15:46 - [info] : Mongoose server listening[39m
+[31m28/09/2021 14:15:47 - [error] : Error During AuthenticationTypeError: regSchema is not a constructor[39m
+[34m28/09/2021 14:16:36 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:16:36 - [info] : Mongoose server listening[39m
+[31m28/09/2021 14:16:41 - [error] : Error During AuthenticationTypeError: regSchema is not a constructor[39m
+[34m28/09/2021 14:17:01 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:17:01 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:17:04 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:17:04 - [info] : Mongoose server listening[39m
+[31m28/09/2021 14:17:06 - [error] : Error During AuthenticationReferenceError: logger is not defined[39m
+[34m28/09/2021 14:18:20 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:18:20 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:18:29 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:18:29 - [info] : Mongoose server listening[39m
+[35m28/09/2021 14:18:32 - [debug] : Register User Successfully Dipikesh[39m
+[31m28/09/2021 14:18:36 - [error] : Mailer  No recipients defined[39m
+[31m28/09/2021 14:18:36 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m28/09/2021 14:27:05 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:05 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:27:08 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:08 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:27:12 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:12 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:27:15 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:15 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:27:27 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:27 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:27:35 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:35 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:27:47 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:27:47 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:28:03 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:28:03 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:28:06 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:28:06 - [info] : Mongoose server listening[39m
+[34m28/09/2021 14:28:09 - [info] : Server is runnin on port 6000[39m
+[34m28/09/2021 14:28:09 - [info] : Mongoose server listening[39m
+[35m28/09/2021 14:29:39 - [debug] : Register User Successfully Dipikesh[39m
+[31m28/09/2021 14:29:43 - [error] : Mailer  No recipients defined[39m
+[31m28/09/2021 14:29:43 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[35m29/09/2021 09:54:33 - [debug] : Register User Successfully Dipikesh[39m
+[31m29/09/2021 09:54:33 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m29/09/2021 09:54:33 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m29/09/2021 09:55:57 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:55:57 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:56:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:56:02 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:56:05 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:56:05 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:56:09 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:56:09 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:56:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:56:11 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:56:17 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:56:17 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:56:19 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:56:19 - [info] : Mongoose server listening[39m
+[35m29/09/2021 09:56:21 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153eaed8eb2cac92ca839f6,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '72ccee56',[39m
+[35m  __v: 0 }[39m
+[31m29/09/2021 09:56:21 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m29/09/2021 09:56:21 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m29/09/2021 09:58:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:58:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:58:57 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:58:57 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:58:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:58:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 09:59:22 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 09:59:22 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:00:05 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:00:05 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:00:06 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:00:06 - [info] : Mongoose server listening[39m
+[35m29/09/2021 10:01:29 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153ec21cbecfbce0677d2f0,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: 'a9dd57',[39m
+[35m  __v: 0 }[39m
+[31m29/09/2021 10:01:36 - [error] : Mailer  No recipients defined[39m
+[31m29/09/2021 10:01:36 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m29/09/2021 10:02:12 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:02:12 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:02:19 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:02:19 - [info] : Mongoose server listening[39m
+[35m29/09/2021 10:02:41 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153ec695701e3d0ac410e1f,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '89ea47',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 10:02:50 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m29/09/2021 10:06:42 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153ed5a5701e3d0ac410e21,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '5618ca',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 10:06:50 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m29/09/2021 10:07:20 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153ed805701e3d0ac410e23,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '8b01f9',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 10:07:28 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 10:11:58 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:11:58 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:12:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:12:02 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:12:10 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:12:10 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:14:17 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:14:17 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:14:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:14:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:15:23 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:15:23 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:15:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:15:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:15:57 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:15:57 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:15:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:15:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:16:04 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:16:04 - [info] : Mongoose server listening[39m
+[35m29/09/2021 10:16:16 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153ef983b60d2d99efd32d4,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '10b530',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 10:16:25 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m29/09/2021 10:16:27 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153efa33b60d2d99efd32d6,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: 'db61e4',[39m
+[35m  __v: 0 }[39m
+[35m29/09/2021 10:16:30 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153efa63b60d2d99efd32d8,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: 'b956dc',[39m
+[35m  __v: 0 }[39m
+[35m29/09/2021 10:16:31 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153efa73b60d2d99efd32da,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '020056',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 10:16:33 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m29/09/2021 10:16:34 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153efaa3b60d2d99efd32dc,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '150c50',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 10:16:35 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 10:16:35 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 10:16:38 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 10:23:37 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:23:37 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:23:42 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:23:42 - [info] : Mongoose server listening[39m
+[34m29/09/2021 10:23:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 10:23:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:06:05 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:06:05 - [info] : Mongoose server listening[39m
+[35m29/09/2021 11:06:26 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fb5ae91c3ce6c6c329d6,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '479e06',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 11:06:33 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m29/09/2021 11:09:08 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fbfce91c3ce6c6c329d8,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: 'db2626',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 11:09:14 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m29/09/2021 11:09:44 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fc20e91c3ce6c6c329da,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '4ff551',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 11:09:49 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 11:10:07 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:10:07 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:10:10 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:10:10 - [info] : Mongoose server listening[39m
+[35m29/09/2021 11:10:16 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fc40c790e8e8e949cf21,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '34d9c2',[39m
+[35m  __v: 0 }[39m
+[35m29/09/2021 11:10:17 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fc41c790e8e8e949cf23,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '21d601',[39m
+[35m  __v: 0 }[39m
+[35m29/09/2021 11:10:18 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fc42c790e8e8e949cf25,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '0f4d45',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 11:10:22 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 11:10:22 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 11:10:23 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m29/09/2021 11:14:50 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:14:50 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:15:51 - [info] : Mongoose connection is disconnected.[39m
+[34m29/09/2021 11:16:19 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:16:19 - [info] : Mongoose server listening[39m
+[35m29/09/2021 11:16:28 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 6153fdb4b90eb9eba7a65739,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh.singh.915@gmail.com',[39m
+[35m  password: 'Dipikesh@123',[39m
+[35m  otp: '605389',[39m
+[35m  __v: 0 }[39m
+[34m29/09/2021 11:16:33 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[31m29/09/2021 11:17:08 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[34m29/09/2021 11:19:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:19:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:19:22 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:19:22 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:19:29 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[34m29/09/2021 11:19:55 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:19:55 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:21:34 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:21:34 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:21:38 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:21:38 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:30:43 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:30:43 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:30:51 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:30:51 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:30:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:30:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:31:05 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:31:05 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:31:14 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:31:14 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:31:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:31:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:31:35 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:31:35 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:31:42 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[34m29/09/2021 11:32:15 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:32:15 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:32:21 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:32:21 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:32:23 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[34m29/09/2021 11:32:43 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:32:43 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:32:47 - [error] : Error During AuthenticationReferenceError: E11000 is not defined[39m
+[34m29/09/2021 11:33:04 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:33:04 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:33:07 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[34m29/09/2021 11:35:24 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:35:24 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:35:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:35:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:35:38 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:35:38 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:35:39 - [error] : Error During AuthenticationReferenceError: E11000 is not defined[39m
+[34m29/09/2021 11:35:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:35:48 - [info] : Mongoose server listening[39m
+[31m29/09/2021 11:35:49 - [error] : Error During AuthenticationBadRequestError: Email already exists[39m
+[34m29/09/2021 11:37:21 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:37:21 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:41:24 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:41:24 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:41:37 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:41:37 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:42:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:42:11 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:42:15 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:42:15 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:42:24 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:42:25 - [info] : Mongoose server listening[39m
+[34m29/09/2021 11:43:13 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 11:43:13 - [info] : Mongoose server listening[39m
+[34m29/09/2021 12:35:09 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 12:35:09 - [info] : Mongoose server listening[39m
+[35m29/09/2021 12:35:13 - [debug] : Register User Successfully { isVerified: false,[39m
+[35m  _id: 615410299ddb73100405b38a,[39m
+[35m  name: 'Dipikesh',[39m
+[35m  email: 'dipikesh2001@gmail.com',[39m
+[35m  password:[39m
+[35m   '$2b$10$.DY9JECxKN5WuFM1j.NI6OobSfk1kDgHnJ3Q7m3M.VRqRaESK6j3C',[39m
+[35m  otp: '47208e',[39m
+[35m  __v: 0 }[39m
+[31m29/09/2021 12:35:20 - [error] : Error During AuthenticationBadRequestError: Email already exists[39m
+[34m29/09/2021 12:35:22 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 13:30:03 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:30:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:30:12 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:30:12 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:30:16 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:30:16 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:30:19 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:30:19 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:31:56 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:31:56 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:31:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:31:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:32:04 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:32:04 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:32:10 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:32:10 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:32:47 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:32:47 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:32:51 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:32:51 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:32:54 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:32:54 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:32:58 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:32:58 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:03 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:06 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:06 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:08 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:08 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:11 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:45 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:45 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:50 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:50 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:33:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:33:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:00 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:00 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:06 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:07 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:09 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:09 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:16 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:16 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:28 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:28 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:34 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:34 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:39 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:39 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:45 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:45 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:34:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:34:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:35:00 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:35:00 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:35:03 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:35:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:35:07 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:35:07 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:35:13 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:35:13 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:37:23 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:37:23 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:37:28 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:37:28 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:37:32 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:37:32 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:37:45 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:37:46 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:38:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:38:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:38:38 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:38:38 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:38:44 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:38:45 - [info] : Mongoose server listening[39m
+[34m29/09/2021 13:38:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 13:38:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:38:44 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:38:44 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:38:47 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:38:47 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:36 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:36 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:40 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:40 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:41 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:41 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:43 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:43 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:54 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:54 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:40:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:40:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:13 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:13 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:19 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:19 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:20 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:21 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:24 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:24 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:32 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:32 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:34 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:34 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:45 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:45 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:50 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:50 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:53 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:53 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:41:57 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:41:57 - [info] : Mongoose server listening[39m
+[34m29/09/2021 17:42:01 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 17:42:01 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:35:07 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:35:07 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:35:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:35:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:35:24 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:35:24 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:35:29 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:35:29 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:35:43 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:35:43 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:35:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:35:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:36:31 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:36:31 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:36:36 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:36:36 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:36:42 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:36:42 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:36:51 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:36:51 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:36:54 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:36:54 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:01 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:01 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:12 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:12 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:16 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:16 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:23 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:23 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:28 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:28 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:34 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:34 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:41 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:41 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:50 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:50 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:37:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:37:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:38:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:38:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:38:07 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:38:07 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:38:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:38:11 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:38:21 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:38:21 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:38:25 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:38:25 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:38:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:38:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:04 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:04 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:06 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:06 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:11 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:16 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:16 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:23 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:24 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:39:35 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:39:35 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:42:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:42:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:42:55 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:42:55 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:42:58 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:42:58 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:43:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:43:02 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:43:10 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:43:10 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:43:34 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:43:34 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:43:38 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:43:38 - [info] : Mongoose server listening[39m
+[34m29/09/2021 19:43:46 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 19:43:46 - [info] : Mongoose server listening[39m
+[34m29/09/2021 21:59:34 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 21:59:34 - [info] : Mongoose server listening[39m
+[34m29/09/2021 21:59:40 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 21:59:40 - [info] : Mongoose server listening[39m
+[34m29/09/2021 21:59:45 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 21:59:45 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:00:19 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:00:19 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:00:22 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:00:22 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:01:08 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:01:08 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:14:27 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:14:28 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:15:39 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:15:39 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:15:53 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:15:53 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:15:57 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:15:57 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:16:14 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:16:14 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:16:35 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:16:35 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:18:23 - [error] : Registeration Validation Error TypeError: reg(...).validate is not a function[39m
+[34m29/09/2021 22:19:47 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:19:47 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:19:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:19:52 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:20:31 - [error] : Registeration Validation Error TypeError: reg(...).validate is not a function[39m
+[34m29/09/2021 22:20:53 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:20:53 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:20:55 - [error] : Registeration Validation Error TypeError: reg(...).validate is not a function[39m
+[34m29/09/2021 22:22:26 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:22:26 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:22:29 - [error] : Registeration Validation Error TypeError: reg(...).validateAsync is not a function[39m
+[34m29/09/2021 22:22:50 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:22:50 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:22:55 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:22:55 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:22:56 - [error] : Registeration Validation Error ValidationError: "email" length must be less than or equal to 20 characters long[39m
+[34m29/09/2021 22:23:27 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:23:27 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:23:28 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:23:28 - [debug] : Register User Successfully [object Object][39m
+[31m29/09/2021 22:23:28 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m29/09/2021 22:23:28 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m29/09/2021 22:25:03 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:25:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:25:25 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:25:25 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:25:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:25:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:25:49 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:25:49 - [debug] : Register User Successfully [object Object][39m
+[34m29/09/2021 22:25:54 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:25:54 - [debug] : Register User Successfully [object Object][39m
+[34m29/09/2021 22:25:58 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:26:02 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:26:55 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:26:55 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:26:57 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:26:57 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:27:05 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:29:31 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:29:31 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:29:54 - [error] : Confirm Registeration  Validation Error TypeError: joi.ref(...).required is not a function[39m
+[34m29/09/2021 22:33:03 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:33:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:33:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:33:11 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:33:13 - [error] : Confirm Registeration  Validation Error TypeError: joi.ref(...).required is not a function[39m
+[34m29/09/2021 22:33:37 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:33:38 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:33:40 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:33:40 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:33:44 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:33:44 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:33:46 - [error] : Confirm Registeration  Validation Error Error: Item cannot come after itself: email[39m
+[34m29/09/2021 22:34:31 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:34:31 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:34:36 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:34:36 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:34:39 - [error] : Confirm Registeration  Validation Error TypeError: Cannot read property 'validate' of undefined[39m
+[34m29/09/2021 22:34:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:34:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:35:31 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:35:31 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:35:39 - [error] : Confirm Registeration  Validation Error TypeError: Cannot read property 'validateAsync' of undefined[39m
+[34m29/09/2021 22:36:10 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:36:10 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:36:14 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:36:14 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:36:16 - [error] : Confirm Registeration  Validation Error ValidationError: "password" with value "Dipikesh@123" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/[39m
+[34m29/09/2021 22:37:41 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:37:41 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:37:56 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:37:56 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:38:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:38:02 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:38:12 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:38:12 - [info] : Mongoose server listening[39m
+[31m29/09/2021 22:38:13 - [error] : Confirm Registeration  Validation Error ValidationError: "password" with value "Dipikesh@123" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/[39m
+[34m29/09/2021 22:38:46 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:38:46 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:38:48 - [info] : Confirm Registeration Validation Success[39m
+[34m29/09/2021 22:39:15 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:39:15 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:39:24 - [info] : Confirm Registeration Validation Success[39m
+[34m29/09/2021 22:40:12 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:40:12 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:40:16 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 22:40:16 - [debug] : User With Wrong Otp ...Failed[39m
+[31m29/09/2021 22:40:16 - [error] : Error in OTP controller  NotFoundError: Email Verification failed[39m
+[34m29/09/2021 22:40:55 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:40:55 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:41:04 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:41:04 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:41:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:41:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:41:42 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:41:42 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:41:47 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:41:47 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:41:56 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:43:03 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 22:43:03 - [debug] : User With Wrong Otp ...Failed[39m
+[31m29/09/2021 22:43:03 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[34m29/09/2021 22:43:27 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:43:27 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:43:33 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:43:33 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:43:58 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:43:58 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:44:09 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:44:09 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:45:10 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:45:10 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:45:14 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:45:14 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:45:21 - [info] : Registration Validation Success[39m
+[31m29/09/2021 22:45:21 - [error] : Error During AuthenticationBadRequestError: Email already exists[39m
+[34m29/09/2021 22:46:22 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:46:22 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:46:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:46:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:46:54 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:46:54 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:47:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:47:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:47:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:47:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:48:42 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:48:42 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:50:23 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:50:23 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:50:49 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:50:49 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:50:54 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:50:54 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:51:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:51:03 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:51:14 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:51:14 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:51:26 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:51:26 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:51:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:51:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:51:43 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:51:43 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:52:02 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:52:02 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:52:07 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:52:07 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:52:11 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:52:11 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:55:15 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:55:15 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:55:32 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:55:32 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:55:43 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:55:43 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:55:45 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:55:45 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:55:46 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:55:46 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:55:47 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:55:47 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:55:50 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:55:51 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:55:51 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:55:52 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:56:27 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 22:56:27 - [debug] : User With Wrong Otp ...Failed[39m
+[31m29/09/2021 22:56:27 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[34m29/09/2021 22:56:53 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:56:53 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:57:12 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 22:57:12 - [debug] : User With Wrong Otp ...Failed[39m
+[31m29/09/2021 22:57:12 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[34m29/09/2021 22:57:17 - [info] : Registration Validation Success[39m
+[35m29/09/2021 22:57:17 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 22:57:26 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 22:57:52 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 22:57:52 - [debug] : User With Wrong Otp ...Failed[39m
+[31m29/09/2021 22:57:52 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[34m29/09/2021 22:59:01 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:01 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:03 - [info] : Confirm Registeration Validation Success[39m
+[34m29/09/2021 22:59:18 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:18 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:30 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:30 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:37 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:37 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:45 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:45 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:52 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:52 - [info] : Mongoose server listening[39m
+[34m29/09/2021 22:59:59 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 22:59:59 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:00:04 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:00:04 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:00:09 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 23:00:09 - [debug] : Users OTP matched  Success[39m
+[34m29/09/2021 23:00:32 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:00:32 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:00:39 - [info] : Registration Validation Success[39m
+[35m29/09/2021 23:00:39 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m29/09/2021 23:00:47 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m29/09/2021 23:01:15 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 23:01:15 - [debug] : Users OTP matched  Success[39m
+[31m29/09/2021 23:01:15 - [error] : Error in OTP controller  ReferenceError: n is not defined[39m
+[34m29/09/2021 23:02:23 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:02:23 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:02:29 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:02:29 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:02:36 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:02:36 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:02:40 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:02:40 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:02:41 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 23:02:41 - [debug] : Users OTP matched  Success[39m
+[35m29/09/2021 23:02:41 - [debug] : Email Verification can not updated[39m
+[31m29/09/2021 23:02:41 - [error] : Error in OTP controller  NotFoundError: Email Not Found[39m
+[34m29/09/2021 23:03:48 - [info] : Server is runnin on port 6000[39m
+[34m29/09/2021 23:03:48 - [info] : Mongoose server listening[39m
+[34m29/09/2021 23:03:49 - [info] : Confirm Registeration Validation Success[39m
+[35m29/09/2021 23:03:49 - [debug] : Users OTP matched  Success[39m
+[35m29/09/2021 23:03:49 - [debug] : Final Registration Success[39m
+[34m30/09/2021 00:36:40 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:36:40 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 00:36:40 - [debug] : Email Verification can not updated[39m
+[31m30/09/2021 00:36:40 - [error] : Error in OTP controller  NotFoundError: Email Not Found[39m
+[34m30/09/2021 00:37:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:37:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:37:49 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:37:49 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:37:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:37:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:38:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:38:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:38:22 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:38:22 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:38:51 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:38:51 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:38:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:38:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:38:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:39:08 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:39:08 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:39:28 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:39:28 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:39:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:39:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:39:46 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:39:46 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:39:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:39:56 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:39:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:39:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:40:37 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:40:37 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:40:45 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:40:45 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 00:40:45 - [debug] : Email Verification can not updated[39m
+[31m30/09/2021 00:40:45 - [error] : Error in OTP controller  NotFoundError: Email is already verified[39m
+[34m30/09/2021 00:41:49 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:41:49 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:42:30 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:42:30 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 00:42:30 - [debug] : Final Registration Success[39m
+[34m30/09/2021 00:42:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:42:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:42:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:42:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:43:09 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:43:09 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 00:43:09 - [debug] : Email id Not found[39m
+[31m30/09/2021 00:43:09 - [error] : Error in OTP controller  NotFoundError: Email Id is not Registered[39m
+[34m30/09/2021 00:43:22 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:43:22 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 00:43:22 - [debug] : Email id Not found[39m
+[31m30/09/2021 00:43:22 - [error] : Error in OTP controller  NotFoundError: Email Id is not Registered[39m
+[34m30/09/2021 00:47:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:47:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:48:15 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:48:15 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:48:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:48:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:48:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:48:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:48:35 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:48:35 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:48:44 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:48:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:48:50 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:48:50 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:50:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:50:05 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:50:40 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:50:40 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:53:29 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:53:29 - [debug] : Users OTP matched  Success[39m
+[31m30/09/2021 00:53:29 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[34m30/09/2021 00:54:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:54:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:54:46 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:54:46 - [debug] : Users OTP matched  Success[39m
+[31m30/09/2021 00:54:46 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[34m30/09/2021 00:54:53 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 00:55:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:55:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:55:07 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:55:07 - [debug] : Users OTP matched  Success[39m
+[31m30/09/2021 00:55:07 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[34m30/09/2021 00:55:37 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:55:37 - [debug] : Users OTP matched  Success[39m
+[31m30/09/2021 00:55:37 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[34m30/09/2021 00:56:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:56:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:56:37 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 00:57:17 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 00:57:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 00:57:29 - [info] : Mongoose server listening[39m
+[34m30/09/2021 00:57:33 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 00:57:33 - [debug] : User With Wrong Otp ...Failed[39m
+[31m30/09/2021 00:57:33 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[34m30/09/2021 00:58:24 - [info] : Registration Validation Success[39m
+[35m30/09/2021 00:58:24 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"6154be583cecfa170762b3c5"}],"nModified":0,"ok":1}[39m
+[31m30/09/2021 00:58:24 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 00:58:24 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m30/09/2021 01:04:03 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:04:03 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[31m30/09/2021 01:04:03 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 01:04:03 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m30/09/2021 01:04:05 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:04:05 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[31m30/09/2021 01:04:05 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 01:04:05 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m30/09/2021 01:04:07 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:04:07 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[31m30/09/2021 01:04:07 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 01:04:07 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[34m30/09/2021 01:05:42 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:05:42 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:05:51 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[34m30/09/2021 01:06:17 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 01:06:17 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 01:06:17 - [debug] : Final Registration Success[39m
+[34m30/09/2021 01:08:24 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:08:24 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:08:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:08:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:08:30 - [info] : Registration Validation Success[39m
+[31m30/09/2021 01:08:30 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[34m30/09/2021 01:09:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:09:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:10:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:10:05 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:10:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:10:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:10:46 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:10:46 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"6154c13e3cecfa170762b4a9"}],"nModified":0,"ok":1}[39m
+[34m30/09/2021 01:10:53 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:11:52 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 01:12:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:12:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:12:16 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:12:16 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:12:24 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:17:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:17:00 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:17:39 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:17:39 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:18:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:18:56 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:19:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:19:01 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:19:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:19:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:19:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:19:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:19:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:19:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:20:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:20:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:20:47 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:20:47 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:20:56 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:23:22 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:23:22 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:23:24 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 01:23:48 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 01:23:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:23:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:23:56 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:23:56 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:24:04 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:24:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:24:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:24:48 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:24:48 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:24:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:24:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:25:04 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:25:04 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:25:31 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 01:25:47 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:25:47 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:25:55 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:27:32 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:27:32 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:27:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:27:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:27:46 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 01:28:14 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:28:14 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:28:22 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:28:27 - [info] : Registration Validation Success[39m
+[35m30/09/2021 01:28:27 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m30/09/2021 01:28:34 - [info] : Email has been successfully sent to dipikesh@gmail.com[39m
+[34m30/09/2021 01:33:04 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:33:04 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:33:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:33:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:33:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:33:56 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:34:36 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 01:34:36 - [debug] : Users OTP matched  Success[39m
+[31m30/09/2021 01:34:36 - [error] : Error in OTP controller  TypeError: this.isModified is not a function[39m
+[34m30/09/2021 01:35:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:35:01 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:35:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 01:35:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 01:35:55 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 01:35:55 - [debug] : Users OTP matched  Success[39m
+[31m30/09/2021 01:35:55 - [error] : Error in OTP controller  Error: data and salt arguments required[39m
+[34m30/09/2021 10:14:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:14:26 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:19:31 - [info] : Registration Validation Success[39m
+[31m30/09/2021 10:19:31 - [error] : Error During AuthenticationReferenceError: crypto is not defined[39m
+[34m30/09/2021 10:19:47 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:19:47 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:21:39 - [info] : Registration Validation Success[39m
+[31m30/09/2021 10:21:39 - [error] : Error During AuthenticationReferenceError: crypto is not defined[39m
+[34m30/09/2021 10:21:55 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:21:55 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:22:05 - [info] : Registration Validation Success[39m
+[31m30/09/2021 10:22:05 - [error] : Error During AuthenticationTypeError [ERR_INVALID_ARG_TYPE]: The "password" argument must be one of type string, Buffer, TypedArray, or DataView. Received type undefined[39m
+[34m30/09/2021 10:25:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:25:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:25:24 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:25:24 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:25:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:25:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:29:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:29:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:29:35 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:29:35 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:29:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:29:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:29:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:29:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:30:08 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:30:08 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:30:59 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:30:59 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:02 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:03 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:03 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:12 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:12 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:31:26 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:31:26 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:33:11 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:33:11 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:33:30 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:33:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:33:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:33:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:33:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:33:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:33:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:33:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:33:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:33:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:34:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:34:00 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:00 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:10 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:10 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:12 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:12 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:23 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:23 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:26 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:26 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:39:42 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:39:42 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:40:03 - [info] : Registration Validation Success[39m
+[35m30/09/2021 10:40:03 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"615546ab4fb2be6150852449"}],"nModified":0,"ok":1}[39m
+[34m30/09/2021 10:40:13 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[34m30/09/2021 10:41:10 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 10:41:10 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 10:41:10 - [debug] : Email id Not found[39m
+[31m30/09/2021 10:41:10 - [error] : Error in OTP controller  NotFoundError: Email Id is not Registered or already verified[39m
+[34m30/09/2021 10:42:44 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:42:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:42:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:42:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:42:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:42:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:43:10 - [info] : Confirm Registeration Validation Success[39m
+[35m30/09/2021 10:43:10 - [debug] : Users OTP matched  Success[39m
+[35m30/09/2021 10:43:10 - [debug] : Final Registration Success[39m
+[34m30/09/2021 10:43:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:43:46 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:43:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:43:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:43:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:43:56 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:51:49 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:51:49 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:51:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:51:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:05 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:24 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:24 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:30 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:30 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:46 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:52:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:52:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:04 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:04 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:05 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:15 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:15 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:17 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:18 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:18 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:20 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:20 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:29 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:34 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:34 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:40 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:40 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:53:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:53:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 10:54:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 10:54:31 - [info] : Mongoose server listening[39m

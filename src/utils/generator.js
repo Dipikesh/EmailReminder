@@ -1,6 +1,6 @@
 const crypto = require('crypto');
 
-exports.genId = async (len) => {
+exports.value = async (len) => {
   return crypto
     .randomBytes(Math.ceil(len / 2))
     .toString('hex') // convert to hexadecimal format
