@@ -41,3 +41,16 @@ exports.remove = async(req, res, next) => {
     res.status(200).send("working");
     
 }
+
+exports.profile = async (req, res, next) => {
+    try {
+        const reminders = await userService.fetchInfo(res.locals.payload);
+        if (reminders) {
+            res.status(200).json({ success: true, message: "User Data", data: reminders });
+        }
+    }
+    catch (err) {
+        logger.error("Error in Profile controller  " + err);
+        next(err)
+    }
+}

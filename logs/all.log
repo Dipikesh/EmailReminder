@@ -7385,3 +7385,891 @@
 [34m30/09/2021 10:53:54 - [info] : Mongoose server listening[39m
 [34m30/09/2021 10:54:31 - [info] : Server is runnin on port 6000[39m
 [34m30/09/2021 10:54:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:00:42 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:00:42 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:00:47 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:00:47 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:01:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:01:01 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:01:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:01:17 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:01:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:01:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:03:46 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:03:46 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:03:55 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:03:55 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:03:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:03:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:03:59 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:03:59 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:08 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:08 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:12 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:12 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:20 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:23 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:23 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:26 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:26 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:34 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:34 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:51 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:51 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:53 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:53 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:04:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:04:56 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:05:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:05:00 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:05:03 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:05:03 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:05:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:05:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:05:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:05:29 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:05:39 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:05:39 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:17 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:26 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:26 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:49 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:49 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:55 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:55 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:06:59 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:06:59 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:07:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:07:02 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:07:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:07:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:07:08 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:07:08 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:22:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:22:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:23:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:23:01 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:23:03 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:23:03 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:23:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:23:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:23:08 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:23:08 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:23:10 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:23:10 - [info] : Mongoose server listening[39m
+[34m30/09/2021 11:23:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 11:23:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:14:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:14:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:14:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:14:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:27:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:27:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:29:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:29:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:29:50 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:29:50 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:29:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:29:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:30:20 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:30:20 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:30:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:30:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:31:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:31:36 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:35:12 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:35:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:35:34 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:35:34 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:35:37 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:35:37 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:35:44 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:35:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:35:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:35:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:35:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:35:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:36:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:36:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:36:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:36:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:36:32 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:36:32 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:36:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:36:36 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:36:42 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:36:42 - [info] : Mongoose server listening[39m
+[31m30/09/2021 12:36:50 - [error] : Login  Validation Error TypeError: login.validateAsync is not a function[39m
+[34m30/09/2021 12:37:24 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:37:24 - [info] : Mongoose server listening[39m
+[31m30/09/2021 12:37:28 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[31m30/09/2021 12:39:33 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[34m30/09/2021 12:40:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:40:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:40:51 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:40:51 - [info] : Mongoose server listening[39m
+[31m30/09/2021 12:41:03 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[34m30/09/2021 12:41:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:41:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:42:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:42:01 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:42:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:42:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:42:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:42:13 - [info] : Mongoose server listening[39m
+[31m30/09/2021 12:42:13 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[35m30/09/2021 12:42:13 - [http] : POST /auth/login 422 84 - 51.981 ms[39m
+[35m[39m
+[34m30/09/2021 12:44:40 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:44:40 - [info] : Mongoose server listening[39m
+[31m30/09/2021 12:44:42 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[35m30/09/2021 12:44:42 - [http] : POST /auth/login 422 84 - 103.995 ms[39m
+[35m[39m
+[34m30/09/2021 12:45:04 - [info] : Login Validation Success[39m
+[31m30/09/2021 12:45:04 - [error] : Programatic Error, Shutting down due to TypeError [ERR_INVALID_ARG_TYPE]: The "salt" argument must be one of type string, Buffer, TypedArray, or DataView. Received type undefined[39m
+[31m    at validateArrayBufferView (internal/crypto/util.js:88:11)[39m
+[31m    at check (internal/crypto/pbkdf2.js:61:10)[39m
+[31m    at Object.pbkdf2Sync (internal/crypto/pbkdf2.js:45:5)[39m
+[31m    at Object.validatePassword (/home/ubuntu/Desktop/web/Reminder/src/utils/hash.js:4:33)[39m
+[31m    at Object.exports.login (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:28:18)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[34m30/09/2021 12:46:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:46:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:46:35 - [info] : Login Validation Success[39m
+[31m30/09/2021 12:46:35 - [error] : Programatic Error, Shutting down due to TypeError: token.signAccessToken is not a function[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:22:41)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[34m30/09/2021 12:47:11 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:47:11 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:47:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:47:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:47:16 - [info] : Login Validation Success[39m
+[31m30/09/2021 12:47:16 - [error] : Programatic Error, Shutting down due to ReferenceError: accessToken is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:29:31)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[34m30/09/2021 12:47:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:47:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:47:36 - [info] : Login Validation Success[39m
+[31m30/09/2021 12:47:36 - [error] : Programatic Error, Shutting down due to ReferenceError: refreshToken is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:29:43)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[34m30/09/2021 12:47:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:47:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:47:52 - [info] : Login Validation Success[39m
+[35m30/09/2021 12:47:52 - [http] : POST /auth/login 200 2 - 101.844 ms[39m
+[35m[39m
+[34m30/09/2021 12:48:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:29 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:48:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:48:38 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:38 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:48:44 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:48:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:48:59 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:48:59 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:49:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:49:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:49:37 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:49:37 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:49:40 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:49:40 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:49:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:49:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:49:51 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:49:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:58:50 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:58:50 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:58:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:58:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:59:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:59:02 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:59:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 12:59:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 12:59:25 - [info] : Login Validation Success[39m
+[35m30/09/2021 12:59:25 - [debug] : Access token successfully signed[39m
+[35m30/09/2021 12:59:25 - [debug] : Refresh token successfully[39m
+[34m30/09/2021 13:00:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:00:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:00:09 - [info] : Login Validation Success[39m
+[35m30/09/2021 13:00:09 - [debug] : Access token successfully signed[39m
+[35m30/09/2021 13:00:09 - [debug] : Refresh token successfully[39m
+[35m30/09/2021 13:00:09 - [http] : POST /auth/login 500 58 - 138.685 ms[39m
+[35m[39m
+[34m30/09/2021 13:07:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:07:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:07:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:07:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:07:30 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:07:30 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:07:33 - [info] : Login Validation Success[39m
+[35m30/09/2021 13:07:33 - [debug] : Access token successfully signedeyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzI5ODc0NTM0MTIsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMyOTg4MDU4MjEyfQ.e57Q5zK8HL1foFAtLQ_cd30jr1iA8KTbr2L3j2awW4CKYu8jIA7U-esEGb8OiPgfOq0NkVUiy5La6JpnRV6sBqEK8tcv5Nnxzhu_2ZxOdaGnyhlO1qB1JgzVvMvXdJEEglYyjTYRgWx0YQweBpomnTaE30w-U831f4q-R-LyBw14YMGonn-bxYSTcs_4tJfGf2vvdrsBjNessNWu-tqhWQaV8mxdhakO_x96vb9ZUF8car5liYNWqAK80rmC7QFSENPEapE0CkHTdB0qf3TYm6ogzGwiSt1Kdpzlcezc5a9-QsyQdG7lK-HsQe9Tkc5cki4DUsjt8k3OjYr5vXNPdgY0Sh0HB68Q5XkJ2OVHbXuERj-YqGIOq7SZljbAGPcDuRd_pYTRtr1eUfNXvykj_gddN7K50EbRQfWz8j-Dc5ywJnY34pZC31wYDEm3sIashkr_k7oYIipuKjUMFSglPrtYINl1XVsPJiPJDGGePYQeNHEniuQXnG0MO8zmqePJG8PTkoW9tIYRYe090GBNS6dVJDepv1Wn_Dg2I-DVShyE0PnNxAIqjTLVP3ppDDygeiCs7O7VS4pYoGXy5LFlcpsRqUtddBJQiIUxSq_gHe3P8uaUCFUj3-m1meAbFRKpUrDSgcrTs6C-fGq1RQlNrCgf8-y0NkwKuaYEuTDF9RM[39m
+[35m30/09/2021 13:07:33 - [debug] : Refresh token successfullyeyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzI5ODc0NTM0MTQsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMyOTg4MDU4MjE0fQ.g3UaMo4e-ZMAFfd2j11JCwiWASjgXU1-G-tOcLdz9E57TSfoAAMUYFv5ZoQnQT7o_3yRnUGhAelRbpYcRFzT5PTmsQ9DMR1rVerhzb66K-yPeITRgPMSUD-GAIAcSBFn88WSWuPvPVIryqn--Hm3m2Xm4_GVkbdXpiUIn6kJbAWJA663W-wJHOl6AVMXwhx-5cAbnzCufKO4h1jwRdOmAbu_IvlyKMEyUD0qNZPrtZPQymMyuqmkQViIHuT8NM6RFNFwM4TRWfocNBlTyt-Yzxeohsu6I6A5-y5Gji1-onjIzdTjuN06-ZmTNfcl_8Cpe-tLgeFfVlkqbZdKeitmUZCx-5QZ9JKhB9M2gjNKdPDofu5koGuWl7Z-NFPkcaT2ISicSsLO2hyTcpQ41rq5oAqaOYVz3Mxt8MFeqm2TSc_BsxZ9z9ZKnCFbGyznZ2f0BZrva_EkokMHQDbeu_chh5-1DsCEnFNZHjFQ-b6oNR3SFzcA4AjHCUZTp9WqdfyxnRZjQblu53-QZzArAUwCJ58ppxdPPwyyFF1JcVSZnyglNRkjRuaCZif5eLMbZKoH7-UorhYzpV5HtsU4gh4N1mJ1bFyvxrvzPAPq9w_6G6TvqE0j8Iw7uULRvdX6iK7ci3YMrRWNDoN18vSfD4mB4YhQ9icm1g0Q_ZSfh0jhjfg[39m
+[35m30/09/2021 13:07:33 - [http] : POST /auth/login 500 58 - 128.170 ms[39m
+[35m[39m
+[34m30/09/2021 13:07:55 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:07:55 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:08:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:08:02 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:08:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:08:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:08:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 13:08:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 13:29:24 - [info] : Login Validation Success[39m
+[35m30/09/2021 13:29:24 - [debug] : Access token successfully signed   undefined[39m
+[35m30/09/2021 13:29:24 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzI5ODg3NjQ0ODUsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMyOTg5MzY5Mjg1fQ.i_J_vlOB8qHjUwrExZ4Wo4mh37wRNVnqqODnbCABGlwRvsrMBPFRejTRNEXJ2_HHFDTpW-CfTCqpjfMG1ZW8wELFSu8_Ct5iO1w7puOimGYmvaHqu0zz9RzNnxTi1IHHqMBXW8BrGlMlDyz9uojpe-bVvBNcBYsRexhR_lPdqosWb7x_D5YyWV7PSd7P0hq-HFi5Mp-NSptDRrpMgeetVcbpaTZezV9KLtSiEh2mFvTRf_lJGjNKJHuPVx9C_GA7vSvxtM8U4aqQkV3WG5V0fhMKXBQFGDbgN2q_81IRPUSBDeFO14feCpp-kadLYsK4MO8UkF_ltqMP7ip7lseeQQhtQykqoxGaNppG5mLm8uRK3joty1x_zHmk744IZPyx73E-ayl7cQ0CnBtMco5CdtnLO6dncbv3NKCjjtEKu5i63xHvdwTY55kmkW2d9eaeSowFgIAKscdizxg6OjSOc_j9RVBSDBHvji8ZnSmOtOk8HLF6-YEtnkUkpb5IExhPE1UbAw1MtjF-uCPIip_J8gKLTWG01TzMR5HYVhQ_PQcltAoQCxH8gzv-tyR6IFDY3CUnF3MdGevdXlA0GP1mokHdYGDylWRNZU-TFc_Fx09a9dkD6fNqx4iqPM9NOJIH66LpnD0i1Mxb1FR0TjxnahTn0IvO44-kelqbXRotZtE[39m
+[35m30/09/2021 13:29:24 - [http] : POST /auth/login 500 58 - 197.295 ms[39m
+[35m[39m
+[34m30/09/2021 14:56:53 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 18:31:26 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 18:31:34 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 18:31:38 - [info] : Login Validation Success[39m
+[31m30/09/2021 18:31:48 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.setTimeout (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at ontimeout (timers.js:436:11)[39m
+[31m    at tryOnTimeout (timers.js:300:5)[39m
+[31m    at listOnTimeout (timers.js:263:5)[39m
+[31m    at Timer.processTimers (timers.js:223:10)[39m
+[34m30/09/2021 18:32:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 18:32:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 18:32:21 - [info] : Login Validation Success[39m
+[35m30/09/2021 18:32:21 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDY5NDE2NTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDA3NTQ2NDUxfQ.wAL8btKtKfdVI0HUvUuV9M2WTyWvHGJ9VmGrGn5nC0bpWWojWNeUHbpSRnAjFWwPh-23QV31wVL385xqEGws4bpLKXEVh4gU3twu34Atuqy3qmAVTmkS_9eAYEfvrdFDDgRDsncH2x1iPasAc0IwKItmwpYQ6QX6Zf5ugNG10yv7zJoYa1cpckOw1ET9QvfNxSisFfKQ_UGo4uV1LePveYE2LgNhgabyqHEdppfmgjALF56NO3obs1uru6WyOg1lvA96mIdj48fvn-sOehAOx5-ckzYHz-73QfLslmIL677KUm7c0IkDMWoZfYuFa-jxeo6jZ978eDyCHwiGPY3lRzl5u2eLJHcvlTAYSaFcywHuRAKJ0MQAm2v9NHfBnqyM_AN5omg38AifOqe6WQJ9TcKGV-x4I0abQ-7r0xHtkeg_jDTyE8JkemFrkajCNc1Wb4ETOWt9f1Ar8mbg95UdjU6wvF_7T9xEW0SB8Qf6-NuCTl7HtiFhGllOglw35OMt3mI4JKJ8ndfVBA2gwsU-Y2Y4eDLNk-wYN1VNxaldqJQo_-OYZwi6z9qhEjYTYXubTiDn28mtwbt4dakKMwhK82WIVxJkQ78n8EVwTtG3sJdnVBPwE4l66I0vGhiUq7CdTNnlCJmOIkWo4KZApDP1R8Tzb2CiKcMIzdfA57_X9Hg[39m
+[35m30/09/2021 18:32:21 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDY5NDE2NjcsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDA3NTQ2NDY3fQ.fOOqJ3Mz0ycboX11lRCYTod44H72Rn_o0O-UtneGZJhaO95zHqpjivr_BHcYNvKpUCPSNyQaF6gKX1F1mWHAOBCGaiLfbvXFcOO7oHEmSUBlPipmeBbNiKQU55YpjxT0_Qb7CFqI6Nswp9rSwWszOz3kpw3t1wYvCcybgp738v11xv9YM2dchekSyGnOLGheRfoVNR-A6uv9X9-kjgQ7fE5sD4fIeh87HaS3dmIvGjLEuKnIzJWvAuo4APLv4AmVokzn7T778j2C4ZqpeyBeiFt1wxetQTvOIBNI1P7Xrjxx34t1KEw35iRLTR4R-LeqqIldU9SWnaUcVYsfEVu_Q1f6r3P7mT_xj6daikYtAKsTw1vE82-jDzORwNJ-Ln8xvkEVX17LdxY-VGY0aDuf7umxPf6I-hW-atxO6NQNMQymd1IIR2ni3-EiwsT-EtbgEYo_HmyT6RiBkeLQgm-bw6XQ0yghAF24kaWwnPRjl0jj44p2SEjK9FI5-NNVJTtgDvJrqDrCloG0YDO2Brj-gw8LnmZ2fOkjP_eHz_bjzo8m9IyUdgOluESwLUr34zjecHJX2lTmjQpoOGyEy0bxbaqewxK4OtFD2K1n2XEUC1QaTpkGQgA3N0GAvQIJIweZdT19ThjiXkT4c-bwtEo-Bhy8p4unqYAgIypaFI55N-8[39m
+[35m30/09/2021 18:32:21 - [http] : POST /auth/login 500 58 - 205.513 ms[39m
+[35m[39m
+[34m30/09/2021 19:12:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:12:02 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:12:08 - [info] : Login Validation Success[39m
+[35m30/09/2021 19:12:08 - [debug] : Access token successfully signed   undefined[39m
+[35m30/09/2021 19:12:08 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDkzMjg3NDgsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDA5OTMzNTQ4fQ.bl-hrUOQcVgXgLWuPuGBzz7fNpxFzqZJpzkOCPFIgu_Zn51pdwamxz1I_GQxWkePmBr1FVDY6j7h-fATtWjnK2yQXlORz7TZf0LGYpSMdRmocxliA7jp7UHOhGQJzQIyl1XqiYfB49UfP-sE0ni8fiSjPGaVQEkXz9rUGSadCZOENp6ekjue2w8Mkt1exxmAKyw52b9k17FgwdPukNyVNtQofABMJFi6pQnzUiVUlFZXmjqIgnlGL5SmGDy91bwmOZfaBpVoVLnqg6K_50e8Mm0yQybHhlaBojNS1o2ByGaeAZPejQvmY4v3edtoUoCsZ9mI2n9IwW4PqIZdx4ht14_4Rd1XBm3pDBbyVGpWCq6DcsP2GucyudVaojL6eaY2bAgCV8uA9zMol4N-pbQ5D64QaU3gjzYhnsZHmI1a8Ho9KYUo0fqZ33w1LQXDuZI6HQXeg_dyjlt-FcpGAPuSkxSc5Sh6AYMuEAvz97r2m83YxMZL8P-PMc0nbdiOwC93LS3gr-mdXcDAcTYazN9tfBpajV0dIvYc_kXcK8dVPNYxtcQVmtzKEjNCquAPitCu1gJ7Qi23E9LFfFjcAdqiELBSlPlmlIf2wMFW0TDKyRRTllqwbn_ryKDE9oQl1Um5ecaLfwHU2Anr7tHVSI3j-hGzzACQ5nLWPH5HYLwSuT0[39m
+[35m30/09/2021 19:12:08 - [http] : POST /auth/login 500 58 - 189.657 ms[39m
+[35m[39m
+[34m30/09/2021 19:12:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:12:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:12:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:12:29 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:12:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:12:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:12:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:12:36 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:12:50 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:12:50 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:12:51 - [info] : Login Validation Success[39m
+[35m30/09/2021 19:12:52 - [debug] : Access token successfully signed   undefinedundefined[39m
+[35m30/09/2021 19:12:52 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDkzNzIwMzksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDA5OTc2ODM5fQ.GNhrRGcmZzyynHdMn1pXrkI33-QNVRHMMDVuBxc1jKdPF3CxrptJC4wSQrABypaKFpk5kTdbwKRM8dNpBQTXn20Y0O_en2qgxGC31OGwXE_7WE5L1M60f8ADDrC7nFHxzgHke3nNF0rOmbItNnhbBBaGW1HCsA8qlIWfpdDd-OmL_2DrLbHyFtL71iJjXhASS_uUxFRH4KfwiJfM0i8jbeyc-E-Yqxlf7XJGvr9vbeWnAn7c-5P6L5r9M17bH1MTm7PLflvSAUxXMNtlWhxLNwSe7p7DR62UlnpKoR41bOMOtxV9PERzN0yWzBqWVMDhBDy6kLuwjk6tOdFj7taBliYhsFby_OeooDifIeOFq-RjmqkM6O_DSq4L-i6gkF0hE6G5Tfz43i8lJPDRqq-QclO6HaxKkdM-Tzz9ogfOKMAMySnF2SBSZWN6BRL6ruJBxRkeHShy3NEIY7bvOFVOGRsghkxyxvAPb0ojygvOF3ijcU3s10JS-8aZQhOGIAhjYfUn2PH8bMEgA_8TGwS7wHhv-fT0GfDToHJ1KOHmWv7uk0KjrY4dvOsZfW1bVbcJIRjcyk1EHENbWCnlrZ8CyNd5yXWxiOsqhNTPas1UdBrN0r3x8UerhjgcRxGhQgd8UNSTNx9YmqhQBKUUL9TJp1weNa9bWIpRPiT2-Ok1Kpo[39m
+[35m30/09/2021 19:12:52 - [http] : POST /auth/login 500 58 - 130.042 ms[39m
+[35m[39m
+[34m30/09/2021 19:14:42 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:14:42 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:14:53 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:14:53 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:15:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:15:03 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:15:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:15:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:15:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:15:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:15:15 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:15:15 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:18:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:18:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:18:32 - [info] : Login Validation Success[39m
+[31m30/09/2021 19:18:32 - [error] : Programatic Error, Shutting down due to ReferenceError: err is not defined[39m
+[31m    at Promise (/home/ubuntu/Desktop/web/Reminder/src/config/token.js:33:5)[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at Object.exports.signAccessToken (/home/ubuntu/Desktop/web/Reminder/src/config/token.js:15:10)[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:23:41)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[34m30/09/2021 19:18:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:18:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:19:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:19:05 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:19:18 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:19:18 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:19:22 - [info] : Login Validation Success[39m
+[35m30/09/2021 19:19:22 - [debug] : Access token successfully signed   undefined[39m
+[35m30/09/2021 19:19:22 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDk3NjI1MDEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDEwMzY3MzAxfQ.AIwCKUBowKdclEH_PjK1VGMApZJJ3rsPALhODT-qFrf2x_PwDJVeZELGih5L71TLT0YJ5BpYrk27SKdhiOkWixD3D5L9p6FX8kJShYBFPrP8iEWVb8H5ZN1jRAkOdDimi8T1rMKfTN18l8Joc5EpfHV_fXLgU57rkPdo1GKGDLN_Cb9KcpVPfF7-nbBeaZ2VS_74sviXd0jhOy5OK-NaeMEkhshxW4Cyyhz29U3UpijC0li4GgZuvA6opdpqsSW0VcNgb7668TT--wWJxPcAH8_ubCcSegJBtHLLo-jKvpWxEvW4BrIFm2GV0bGA9hzJelj6NinvE5_tqIRAcJwDa5LwZg-IiMkiWB6Vu5OG8uh12P2sMTe4LVFp97JGaUdCp4qJVxo78WCtUXO9pFSLPz6HbJMxbF7c0LVlhEoVGKO-C2FSkvDOBtTDZT2z5C8r-bmQx7SA2xsvdt3VOFuOUzeShY5A0uG6c2tEywnjmLigu5okkdniV-1RUviVXTc8DaQ0KOcbEx8n3K9TIYEBpl1zLFC8iqu1BrrsuLwGRzGKhg69Lr_e4UC-sRgGr4rAkJV9VbFHVCvBrQ_mYFjAJLCZvrkGpsFkrNV9C31U_XkBeUZgn29jwIrle5u3eXFUuHy8Zk3L2RLhCkXrGKn2GBh8RIeTj_qiQUmzScNGeX8[39m
+[35m30/09/2021 19:19:22 - [http] : POST /auth/login 500 58 - 186.847 ms[39m
+[35m[39m
+[34m30/09/2021 19:19:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:19:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:20:04 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:20:04 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:20:35 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:20:35 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:22:15 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:22:15 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:22:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 19:22:32 - [info] : Mongoose server listening[39m
+[34m30/09/2021 19:22:38 - [info] : Login Validation Success[39m
+[35m30/09/2021 19:22:38 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDk5NTg2NjMsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDEwMTMxNDYzfQ.DYfHPsrkooSddsFKlAjYMmJXjs4hA4DjCYF0E77h8TQjakfNP-1Ud0Vp41Q3psr1lz7nNRXdEcK3gbccdVbsIyGe_LqCsyQpBl22pEtYmlpXMYyaKFDtHe4TXnXUAAx-b6yvfOlTZqm7hauiMhkW_0TA7eEp2GjzBmoMpyGw-dRYJL4t2I9HHtzTlOHbPGT0wK4Wc-Jd7E7bXedHilrO75SsLv5YAeg2DrWrmxHqRcNgQWwL5kWR6KYybHmSVFvf6fbmrPIoU3L9GlGCrso0Rhj-UfCSn3YqmG9kWiWWe2UdDsPFxf62q6l6jZBlcsr5qv4vC2Q_HO0Ehz38pUx9InacPwRvHdFwzg5-pJCjGnik7vd9-6P7_0wowFNlAe3ysE3PqGZimpZrUU5nRoRBDYFtT1QXr-ZaeY5IAqmhxwo4ZKK2mbAqLQjVkmq3its0i5sc8UFjche8TwtZFS6EjDSrXguZtld-h5XvRYWC8mSTZH7o2JIWhizQ4sc9RH5ewhq0dmWB1WT0w3uMvu_XKYevsFdCli4jAq9hStPPNBQnFxXEXdG1z1NwxxWEIO-Ir7_xQvjvmcbzwkC4req0g1QktTxFiFXCnbiz45COoaI2V0sU2aXMTt0EuIQvypWQBElQ5rqxAhBKyY7kONkVe8iYnSyZB9F0W_MiIp5uZBs[39m
+[35m30/09/2021 19:22:38 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMDk5NTg2NzksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDExNjg2Njc5fQ.CZr18Ya-qzaDMQ-pWDDwtD7Jke_tzyOlvbTqxw-025gMV6qHbWOQyR_sGYwNw_KMWBVj4C_qzYPirt5-iOh8Fre80Ge08MRrlANyziylJy-_36Nm-eJHUUgdmRMqHzgo5uNw88Mo31mYxq0dLz5zkz72D9QLR-vkg2_lwfn3rR5r5yiJHN6Xs00IFi_WmY-UaQyjLtjwSEj9I0OGNnYk-rgs7H69em_KFeUL5nA5utH3_X6_mgH9Wl6zkBJSnzBPI_maQ0sFHrOhS3TyLNHPNFtG2P3Je8xo0iww6QfP9AwFR4zibAMeBY-jTG4PMfu1Qu3tFN8h3QXlNh_ql12niIENp_IefqGC5e6w4DpxHhtqb_nq8crPGCBwjz_n_jdNXI6wp0jIRGi0_ZdRxZDpT40HPjFGfny_I_8vgtz1YR8USf10YjqLFPPm26KgqUjX2Ki2m2RqrlXS1_qHe8A0x_Hrt6I9MTa6qDjOYdXIhyraLaMjkivv37YbrRYtoNNzbMcW5BcJf3cDqDAdJ0FzdzRAYENvgm4XkBjhhj7aDYXFVvgZjLbXlX8tNnd-VCcAtSDZGR5N9WG4jTI1DH8I7luNvnW11XLNxRScaCna_szZ_gwiRtcVKOcgvFPvZaQM00IWnFmYSzNBgW6IBtyv5ldi7pbqRgTI6rqoaEUjRZc[39m
+[35m30/09/2021 19:22:38 - [http] : POST /auth/login 200 1778 - 289.454 ms[39m
+[35m[39m
+[34m30/09/2021 20:36:28 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:36:28 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:36:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:36:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:36:38 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:36:38 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:36:44 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:36:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:37:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:37:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:37:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:37:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:37:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:37:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:37:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:37:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:38:23 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:38:23 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:38:43 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:38:43 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ1MjM2MzAsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE0Njk2NDMwfQ.WJ3TpnGfORL71Ns-FkGSs6Rut0bhoLqZKIH8ogaU__YM5di-vybnF9aHGf9B2ouJcEmqYdPdMRlxNSUiCVQdU6VtWO9LjPfH3DKtWvGK3dccf_CRWicPcEdcMQ5QKXBegKoMCvc0gbpCFM8WPcPnA-RzVCqFpRtoqox_X12zyUOsFn7lFlrUsdnmloJVb4roQsKlALHfh-k3hUOxl3qn-n1axUzoXLTosaMpcqeYIsK8Hg9Bo17ORNKa1MM0FZJU6Q9CqKPnmA8rEHW0dmvQfpc85MDUDbt8RYDELbBV-48Kv1pDyYWToJKtcJ-8C4KLX0Xc-I_EdGW-AmOds4Z-feQK58B1bUln-0-YJNNotj8ELTZnpSxtbQwO_2kDJ60FK3xMGEJb7S31xmsxBslUo79ckbHjJN9uG_K4HR74R_FVUNVhK_F7DXKtnH5-xgTU-rApqyj6pc35TwYFQpjapbRUO009YuA28ul6OjDIDQ8CuzCjPwhyIfHbj7GxbBg7mYlwZWEcdmd3Ym2eQCTvV-CtWG8c6rjoah2dXm5OqaAnEkUovmn4qlcNt6UVYmoihkAQmAfhjuQezBbQZbruOx8vunNpUhMPe9WGfKq3N82GDKOvGlvs63cCdUujWlawIAypr3qsYSH0R2ixmClZZpYOEKMGlIf_yl396gVQWB8[39m
+[35m30/09/2021 20:38:43 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ1MjM2NDYsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2MjUxNjQ2fQ.TRHNQ8xEKo9L3aB5ECsHTvxNbGIp19eBFE0ss-RVGAKdDX63wVIjoFouLdc0_G9gPkXE4ZMTkl-Kw63iSnz-LMRc0fEehubxz_zG4HNbo-lHenYHWAD-CdZEuINbrJyNfEyzRmh6nOPT949QTYSa6cFsofbvoc2MzqRQ3r_l6fa1ZBwQlgnX9ksetceW43QjXt-G5tAYByWUcGDZEC05dm0AXtyx_zFbsBkmyx-om_SvLXWAmLkWm687woyZ9wODwHKiJjXMvKF8BcMpQXTueUb4tZemVkn-gHXJJSU11-XuHrfamywAkteDEth_X2CoGsyBqTovANubS772kblzUuTyIdgCYlHpDtLwwO8aGmPVJS5b3SAP_KpVYg5X2crOfoWNlmD67-QYvQvVinrQ3KKOPPOhkAaZIlYPKHr6jDdpjDfx8fHf5DU3bvo7dCE3HtbBTis38HyanlQKsefp3KleqAhL_bsxzYw5GGv4MD_OR61r-I2O_6SPXfzKpLL_9zsYlzwMuo2GY-h_3xrtYYUDBqrR-3CspcNMDmHzZbDu1-qgKGxuN_AMie7IeIQtBosffoA1MeWyqtk6sZ3899WeE9cMO0MrkK5K1KcTpyBj9mWG62t28llwSobUIcVHHkPhUVdrJ7UkCnqX31VPA9BtWn4Pko4rVObVTRb0Dvo[39m
+[35m30/09/2021 20:38:43 - [http] : POST /auth/login 200 1778 - 132.033 ms[39m
+[35m[39m
+[35m30/09/2021 20:40:56 - [http] : POST /reminder/auth/login 404 46 - 3.923 ms[39m
+[35m[39m
+[34m30/09/2021 20:41:06 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:41:06 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ2NjY2MjcsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE0ODM5NDI3fQ.rf6RLGKXYlBu6C9tjf4AMYc3A6aB24bwaZAjML5e-Wi8mKhsh2szS_zwq35QFHgEuxPVQfSl4Lz7yJzxfoDzVogUJkvFr5NMF4Hg0WO9WffUnALYB3fJQtifEwbUejGkyC6FGaXN0iX6CAOx07KMTddz4UayeOecmmI3t-z08hPZZF-XCkHIEQ8BgJRmzcGBCqHFno9d9-ACCtJZFuZoQJSD45Z1MUL5tPbjxAtI8w_YSSl_T7dzqG5mEBq6pbFR7NASwMS24XI51ohytdE-ubMkxGlN5U0V77zcaO3sCXw7AypVWesoCMkJjNC99GHjGIT-XsR_sla4mqgPMQUTvzAoPOFoUMWOQkwviaPmB1_HJzvQZoOL-g6VyExJMuiwaJddXM_SsAsg_k9_kyvbukIDEC60yvkrH60qfCywxWAfjQcTAFBLjY-RP6p3XJOj0TRNxEB4X-qJi1CGWFvfBDUtJM-mmlaB1yqMs0tOMtbOwBM6kXVxOdJ0Uze1cTVG_Y3l2jiHnYnfmntb7uXanTtN9rieeMrXHjF1_Rw19t2UuUc1G_0FcmynedKbI5r8RaNfRcx8rTt99pc2ij9mYm84NPio8K6ZHINmg5E45puxRNOqXjakpm2m_f3MIeec1Va8WQxiqm5u5ViLMQeCMo7BcwN0oa3vlYsEu8KIQf0[39m
+[35m30/09/2021 20:41:06 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ2NjY2MzksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2Mzk0NjM5fQ.aw-wLVm-syn7piawc-QMqACAUxE-qEgXd84nEgCJZzCN36FuS39BNW1Sr2MPT3uJoSueAkdrJI6YAI95O-_fh5DtZ7j4iGiw6oldF1EU0THR659olItwU71oqK8FSYsLFgtuFbGA2E-FoRhA4F9d3dh4U6QLXEnjeD6LjrXjndMyRYZx6PjKDVbxiIW9ldw2ruE6vreY2oyPbfv0kzJtyZxj3nF2EuYwS0-T-pN5TbwhjaEoysg9_lylnUu3W3cdZA6vkjyHp-EOEd2nWY4w1VThldIzNGdolqDM3g4Vr9sV7uf-3tidDHudZF5xYeiHrB7EKke8Labb6hm4c7qrbtMevgaN5IplYMs6CzhQPteYZ4HWaG1n3ZjfKD2xBU_JO_QT7hY73syjjpQF1U3BXOUCQvWnmBzYta8FckRYN0J5WuG6z5GrgPHTCjD5AZ7TmZjmIHUai3PSbjwHfWfiAbbSXZZzAPEN4f7dODx_1gUXvH5gzIXJRBCEFxlOFJpIfUVqzH-jCZ5qivjs8TH9lKhUy99cIck2DeHUwWUs-BdeVzaX_hGx-rm4n5VC7yLCaZh18ScvtLSRniyz33JjgEFqRtHMuqEaL2HpZWuMcaePyTpEbwIYSxA_R0a307gZHPPA0U6SSES46oJd14gQTITHEpUYMp4KwePPOjYTlec[39m
+[35m30/09/2021 20:41:06 - [http] : POST /auth/login 200 1778 - 46.178 ms[39m
+[35m[39m
+[34m30/09/2021 20:42:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:42:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:42:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:42:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:43:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:43:06 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:43:22 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:43:22 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:43:38 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:43:38 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:43:49 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:43:49 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ4Mjk4MzcsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1MDAyNjM3fQ.HtcoFQVe6Q129tJ6YanqvOXYKtfTIlnH-71IM64uLsxExHxpb9jHwYWuLGFy1BDyiYtcoiONNGfup0rce-p5-dK8IIYfqowHcmS66YwUsjKnEt4Vx6-rZI-nd-YC-UHo1QcvGvRrUKWFWvpgNjWCkX-R_PArr3ohlOUVIVeuhY8YJatUAk9oVhHVfzeQyZUvRO5F8uKN6A0w4jsQxNBIOeYLX52-cNeZ4m2LxS7WuujKpG7v0IVj0lDPpuCAvslbBK7LCoC3KWRmOFsPRiIxhw4zuym10otQexS30l68cq0nGgTV2Ya1Ig-9sUUs8KC2BpCYVFJR2dN6Yo83ii_Ou2E9xfNR1ipFgieOV4m6_kZtc_p4vBBOzQxmKl-PBQUT2ZHz0skkstl3--NBOHr0ag84J3saOmRUfDF1N8sw9AFGPmGAFpfaAt5hx6Kig79yd0UGuLapgwB6Tiva_B9cTyd4f80FhB0BwQl2kaz1O9Gph5z3QwzCqUtiagVISgfTPQ7Y4E9N35CdP9S6E4mI8zfkjaZs3_yI50_mF_DdANARuX9xvljQ_LWnTuck5vWqZHOX13VVkTJa5yODcDcrW3-ZBFs2HcD1R3S7QsboDgYl08XUCUXwe1iLnjX79tPqtcTlhdXob1sJhho7oicdjcmZd60Yb2yCseXaQ_Nq6gY[39m
+[35m30/09/2021 20:43:49 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ4Mjk4NTUsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2NTU3ODU1fQ.uMCFNfoohXbxwQ7dgw8uUuIX2OUQg7sBrhKQayKneTizhoG1ZFafkNFwWMxzO__IyyNhf39DLLZj1r_nenqzrcUxnpn3zShysrYGZZg3aDoqwW7MEeTg9NuHFhQi2n3Eivm6R75HSR1awZYrA_Wg7-ItRmELnyUvjW_Awbdz6MuTC4Dr4JgEcSDK9wxo3xHGNOrXZ-Onlj2DC2FcQq_2zR9OS3yvEEbII4GOwada4xGQ_l7SzDGaj-kVH66PqRjRJ5Xmnov7MUBFRnu0_4T4bWms3wVRY0QKWhSMxU6ydbRbd928NZFUFSLIw5adQsPGWEiFMg0M50ZEhR-6IE3Y_nOclP79ySHeKLuDsZuEXgHZ8k0ezZy7-0ONjf73IhCQQqnCuWuc3Je3nCKIcM45xbVfKvwpcVp1l78Djs0bC4g68ClakRqJvDnJ-JoaKidYYJy2wKmTvSAJ7rp-X6vGrlldzLUKL1Aa8WDYKGY5KVKJqksjWXIOa1x3DnoxvM1dmSR-Waff8YyThw0V_RwnoExfGYwnxSE_CYheIzLN_7scAyuF5C9PjQ75nQj3pYsP7xeTGsDqKj_J2e0blrqIhbuSiIXybArcLfkMmrbnCKOC0FUNxZpjsTJ2Z9E_wXHUaEQoL6NQM2nLvZrp8zJNL1ATMbmw0MUHQAUr-dqN-Do[39m
+[35m30/09/2021 20:43:49 - [http] : POST /auth/login 200 1778 - 128.953 ms[39m
+[35m[39m
+[34m30/09/2021 20:44:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:44:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:45:06 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:45:06 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ5MDYwNDksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1MDc4ODQ5fQ.AbW3PzQ8Rdg4bFJLMWtkGBuaqg00tV_AvrW7ATt_yeorfziPp17gLAUIGkn4ZpmGLPRgykqFVJGWDm6CbKxy8zBLsMx5IWdIF0X1hXO9dwRfOB9keYsP7yGCp9XU8rO_xTChZH6DSBXMvM3szi_dvDzPzeKKEBQOGunlRR4GPrU1UMPXwfbbbqDn6Z2OCwKrKgXyIHc1vqXAe16PLkr__W8Fnku84KoNgTXujKYnqThFS5NAe5C9OJpDaWVj3Jp8Y6LUqL8qZUM5ifj8ctTtMZJ-F6kH_IJkKZuz_vRbRyzMwD_4BJ42JMDRIgoSp-w7xxqZckbNM465puzQP48QUVzlbOv1Yz-6-xSSd32cdcm8YneH6RrTVa4v7syrIQy65_443Ng8gxKgaqIQRNZniMqeuXZ6EHG3tYXWPmYXBg4rXQQO8U70lfVBb86LixDa68JbkG5y42NMW4_iBpj5sBQB8QBMqYjy7OeVBCmhMuIHAaVDRdrcNDGo98176m-Ob3VyIPnJ4dbwB0A28-Az4EB7VqYgYxwr7MMZr_hvZGtLFviBLgjITR_2rlc88JJQu7hdcdYfSshuL8_IQNxQHzTY7omqTqezFSz-xVkQA-42qZ_mpqke-rgrTc2WgKGwJg7mO4lA9pIrysAEVYrtV4bqhNh9eQ53gRA5vlOTSgs[39m
+[35m30/09/2021 20:45:06 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ5MDYwNjMsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2NjM0MDYzfQ.l2jm8BMZXpMkJQEfK4qc0GQz49kUr57JvqRusTmTtzAdMc6VS2OQmuCBPXB9c_QfnDZyo3YCT5p3wLMJLYOGe1uX3MKWtZCyPKaOeuQq4NbfjK0DtcN0RysF2p-VTMBd9fhRqsigDAD0Ygr7GWny4gurq9MrtKhpCJ9P0aTeKQIEdQnVDaojQwz3HMhgFdbROcK58XPup-Rb4XvnI7FgGEfdVayc-lZVsPoCu0FwrqgakP1TAGdqfgIPcUQ0qexGuX5n7ckBJlR7y_FhIR7Iyz-gjZba-1YwRbvRnqfAOk0TaAleHV-IEXuYP6V_G1J15-t-C7-mEj2KvuhMBGIHpgaLNW-9nWAB7btC87ca-AUjJ6nuqc2OnBXeK4JzQiY3cP6RTArxfwJcAlrFJ6So4i9gxtOgNo7Oi-DcUNH_9J_7dVAvjJg0Pgm4_G0PpWeSTgTfIC2LkiRtse3Cue3K6sfFVV0gM98UmJznxSyyagfwRezwKHQ2LflEu9po9SdTz-L1LeyM0-5pd_LVwVNvA96HeQ0iJHFXRhuJuPpajUnEkT858m0V83BlezaVAsRgY8aw8RAxIAKF1idsl8gtjxBgVwiSyuRY2INXYY-eZChnF9g27dhysGRwrdYb0_KMGt0GAPn4f3iNEKNs3tWa1JrIpNSqEkeAg9d535xOU2M[39m
+[35m30/09/2021 20:45:06 - [http] : POST /auth/login 200 1778 - 118.513 ms[39m
+[35m[39m
+[34m30/09/2021 20:46:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:46:29 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:46:35 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:46:35 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ5OTUyOTksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1MTY4MDk5fQ.R3Olg-F6_uHv_C92oV7r2S85IhhLkSfVmEZSRGqh5JKcZYvSQn1_JTjnuZtQRw2krSy47SnsrkPEVWcoDcnlpUI2fusUEtKSXT67cykUECc8YDTO0GNc2KRj52UYDsb7qRkPUYcgEciQ3zCNJCYrnxbLkZfUgBm4kRmPSRV2WA4VKAbiEw6qfnAxF4HEU86iux9mkele7LtV23d0t-INm-UrIsKd6lken5P0YgCygfBIObnPwY-LprREp9HADjiSeOyHxdl26U3jl-eN_6w4KCm7vaoU2duYjKSae_dYsgMxww3n11C4cPjjjE7mmxh8jfYyUPTBluQt2AbzUkLI2reZgWZBDQD_vEurpBtlpKCZ-ECxLmaOZz2Np0IUeCBnurC6-xZjidW3ZUcWYZW4O6X8OA_f0__GPWCUoxkIFZBdnXUeBMxbOz6hVsK0tXkQEH3kzsjJnVqcawdTQ1gsvO370uEfcNGW6GaQCh1FZ9DJxDFvjYacFIClDyCgZf7P4SutAkQJqowHJ1BDGyDbUcxwQKDSt572Hh93SxY3RJju_NDVT6OGRjflvGgqJsjAT2LekcXpSQOOoiJCwRDohK-kgAUhbi2uXkGDT_fw8ik2fvc4WK0prlmEZMyO3wRayZcmDZDwlbGVnNu_AGCpvBzYRRA7HCvQyItjgpiGAY8[39m
+[35m30/09/2021 20:46:35 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTQ5OTUzMTQsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2NzIzMzE0fQ.HdCOwbBYBKk3lyFwN_DaqfWLEP84p0Cqtk9rF98Hsd1Nq6wKUnj-VBbI1LrmrrXSKqwKEriIw-wVzKymFhWm3xta4hV40W8bIovPS905gj2XKnSN6dcs2XaoQ01sKTE8YfylcPaAO_3htOX6znt0X_xskNAxWVLC79zNQXXmZ6eRAJaOAKcqkp2xelDnLJsk_jLoIuWYXX31AkGzpGfeIwpcALjf9IojzWRP3f0mFxA1cI9NpFN_6MrIdt4RGVdv_luVYX3O42sTyHNPwmixWb4Vm4VJ9KuwZ2WbvSNncD9vxpUWS_NDJal4pUnZ3DFQ4DFGVfsc5KO10F4Eqy8tiK97PEK76z5Fj4jPHBxicpUf1McEd94KvgAqXJbFHtwGGWOeGGaunkupy_qfFpj3qw9fpFgCgmR6XYrs2s1bE8AdzNpeVbO3h2XVh8R89690LXgsxkPh4AqnuHhEq06Os9yFHo9XoNUFZrarAaOLYnj6g0Fpayej9KyCb0fgUs2JVJQ8T1zU0pvNYz4FuWwztQ9WHNWKls2UX1zFhNDHW497M-m5HqfMVbxF0NXO1gu3WfLOI61rMQHw7WimddlUr2pvhP5t8wBiSEYAXa9HfNhFYxkirgwxsY-D-vuqdpeJrs0wdmKqs3qj09Ou3JaJyUZK9UmfUiB2Meej_8JKjK8[39m
+[35m30/09/2021 20:46:35 - [http] : POST /auth/login 200 1778 - 119.532 ms[39m
+[35m[39m
+[34m30/09/2021 20:47:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:47:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:47:19 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:47:19 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:47:22 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:47:22 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:47:29 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:47:29 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUwNDkzMjgsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1MjIyMTI4fQ.fzO_rTfTdIXwVwAYWbhtw1CYSsBsf4nIrx-92oHh_X5Kp6THCqE9yi-8i84QDadjHIwuHAD0oWqhwN5QOxS2gIXlbroTkfbwQSs2IWWKlvxVz66Yv8UxBQTUvrj-M_Ttt0cAAgV_ikuzBe0tDbbQvUtzJuUgbXnjgOUlVd1HdFDtpDOsLuETFRn5ewDsaA1L7uv_naboEaNLb6_TbTKwDtcdSr-6MmguSI-0mD6XDo05ncn6RZLYrg45X4pfrQdP5i-1Nx_lU5KymjMmWJPd-1NKHPabd67YJy1vs-lUuWu9XytdCeb6xhY9FD45oMfK7xRQHGhLj-dq36mhmE9WSDblfbn9om_SO70bk4hDraHlyqB3eBiWpStxliMTE4ZFDC_SJjvMjtEWfcfr6Epzt-gFOgdudzjOKIOtqXwbD-tw7OOSHdwoysApPr5__ahwwhbOPsPhRTCo0k7QSuMt2zcPmAJgdGwS8vzBNZDnb2sIkMon034IF-nSCfOUdEy9ADS3IHc1wdeVxJ45723Ho4-s2NER4L-oFhu754JLPK10-Z49XbklKy8QHue0H6PeUxEBCOv17PVildhhNBNTtB-PGlCsdgkYdGjWsxKEkis2Dd02-Ox73uvc-HyUp_XNLCPX24VSgB84FqErYqfmYH85K4-T8CvXDj01C_oesZk[39m
+[35m30/09/2021 20:47:29 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUwNDkzNDMsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2Nzc3MzQzfQ.WFUDnEp89Qe_Y486NFsiMlZ109CH9XiWZ889fzGjQz0M-q8xahxkdCy5zF5ArpuIG5yXH9vXagYWhgFI-VWI14dXLZgvvwU4bXwv_d-CfqBmFhk9ypVkm8sd77oB5eCFQh07yuH2I99NZyG7FNTJWw1bb_1h0nm3LvVjVY7NjDAuCH2QtpWxHRDRF7xUgBmci6wtJ05a1QlmN9W4mkvHVzqG6MJCh_-VC-f3MzCZmaz5zFetWEHxC65R7KtjTBnYqG-79lAuC0mjikhjzOMvvSw1Jy2i1r5BFNam0HDzhtU5VFDAV_tsp-AHqm6thhGP7Rmhhatf1zWaiM9FYn0vgryygQH0483CgXRXQ4LNgD4SQ_BaKokfSJoKK2SMG_SDfMMuU-LHPBcmP0uaRZliiUPs1fDnSrev_DkKUQofywgvBq7OgzLK7y3n1coXNgP_kkGvB0dIVDccIKLVbxfKyrVn2LbyEe0pzVHho32KN2uDi0UagqiYO8K06IyVicxP0vcuoaMIidEhzWYfuOiyX6pb7SGS06YRQ79Q3-4ENqeFh6TL-HG8XgrGTHOTEdT6SynUjmU618E9F2qh9Wv5xgdWcsLev8ISR0U3VjbgLQUTzOKuTYdV0E5P6yJeaH982apUkA0vWSvzGZZojPwzD51gEZeMkpleKe3VYzj-mx8[39m
+[35m30/09/2021 20:47:29 - [http] : POST /auth/login 200 1778 - 129.255 ms[39m
+[35m[39m
+[34m30/09/2021 20:48:15 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:48:15 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:48:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:48:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:48:26 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:48:26 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUxMDYwNjksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1Mjc4ODY5fQ.lG-Smc7LaNXKaqx-GKDTdAFloAY-2JcjmAwFrKodocdmOgCJecpiBZu-Hv9tVQrRCnBxLBr1TkhXIzSAfGQN-SSFk1TDGnT4nGVALtrHEYN7oJIh_wC8d9kTHlO3W7BB-mcydaxPh0stnAcV5_qH2IZPAUmYyqgX7oR8fyjxgxMe0DEodu88_ezp9FTLHnzJFUYV9n2PHS4GRnx4QqOLnh4EoIfnCMQb0a8DhHTkglHcZghB_pkjysMviYCON3RtTS0qkYULUnFnCXNdmucgYP-yQKpP-P9w4sc9jCvGsGUATEFTp5NaTSXcdnvk6UtL9PBopPzFBlJ3tTI67zNhsZJ5ThzzJmmkOxZ-pE1eDu6fPXThgHBL835U7gARBblsn0L0J4lYxlhPLiW7A922_cOuPhDpiwY9BtUfK_KfPJTyE67mAU89le3wsu6Iuq6FnE_HVcsvLigbesHhE2hMv2hiy4jwPvum1dyaBD_2aJCcYd7Rcm0bctleSvDNr7qL3mJpngix_P2EJ_cP7gDNNvg4FpoCqQ9UdmH3_sjXuedAYNHDJhattf6S2Ai4oKeHNIXG3plm_zTSo5rBzsjF_4_bPvP0xUm--9LNTmRzd-_cYFCc5EtDUTxmHEcqas04_RQZaza39H42Q8_aMGMHwN66VJv-heGWZuya1Zll_98[39m
+[35m30/09/2021 20:48:26 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUxMDYwODUsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2ODM0MDg1fQ.rn1hvhjh_f_uRa-9WwM9NJ2nbOuLE7VfTUIBp1YoQDgJqzG2NuWC_Q-d8twBvIGW1ZKXrze3XgJZ1qff9b2U8n9vTSdEYwSiMGUeX_rvqLDTSdUBH2fNdUBTeJMByYDERfr5nr7XWVXc3fVAJVWY0oF1L9fe_C9Lyplg0Tac5vCBQQhxml3VG2Av-SRwkFtPR5-kUtKyA2lCbhgZGDz5TPLG3K4wisYaKEayV41QcIG9Q8A5gOLB2xNcP47jDGJPzZW9qKTLrD0OMTbqCSmPiQZ9BGCQlhSoASR9_aIMkg5oyfgtwpoHWpZ5L_oE9FiIx2TrcSMh9b207cfQJEkvR-TZILEHeW29vPM0B1sz2K3aBcC9jNMmBM7QQEyP-jh7BShDQ-AjNU4qlglzAwaZ-04ZbXjaminlVUHqyx67KHRRnCXUGbJObsNsM3Bbc97vvC0bAjqKlj-Wo1daFdiJ__l88F28TfOLuNjhP_atC8Ye9SdziLTFBa__G01f-2Np6mDWRliLZ1x_s70VwjGiiUcjM_wVcJnlnou2Kq2wcLrPKGY4vHF78b6bymoBM1Hhd8fgb61IA2OG5Wwwiajv2xE8v1pZMdFwRTnxUg5P-UebhKM0WzdH1rnLfFvk5HRbn_3c2YBd4Gvi76wfqYOIvmYuPkADp161iVbUd7gMEE4[39m
+[35m30/09/2021 20:48:26 - [http] : POST /auth/login 200 1778 - 136.830 ms[39m
+[35m[39m
+[34m30/09/2021 20:48:34 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:48:34 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUxMTQxMjAsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1Mjg2OTIwfQ.KSFeGdgdgPet-DQ3c0aL5fRlsIzyNCHe2_4RdkYVgULO_zXHn0sBPZ35eyMq3GNPhjuCMvHggQKPNm_isSfGsCZ10kGGSA36v0hMnc1KZLvAsrHpJDMXToIazhRhuFElgwvjqdQtcSvlT_d3anqdeoNPuLa_WVUuweGqh2bFfR01j0g9TOea9VA-RpqZAAFOkBOSOSse4LhaFN6ELL-87Idjub2szS_aIY-vxFSXTBzuflRMh9BXpeuTUNU-JU5BjxMt0WRBL_Xbs5wRqc2MZsetESuOAeg11-ZS1wUDzaK3xl-agzjJZ8wvnWTBnmVVnSD48fC_BuvI1uGb51aa0pDFcv0Pes0Gh7K7-6E1jzQ0pMmyBRLpA28LEbcvqGpovv1A_K6YmEpgvqQmNbH0_43YzAbBf1DillWD5E2p8-eELpyBfAIQNr9dP-MtnA23od2aRecIVCc8oebiw_nc20ZwmpA4Jhw9syU6ycFDyD0JC9Xbr7B0-2taCvzBFU3vSCeINHLxjAdRXrz4NqA-ltibYvqRoc-R-hjg-PkrvpNp67zTYbEQQWwi9UETYHnK9F7LGAVuviEn_1U2hneC8TPh06TBmy4M3E7Rt1lKmwPPCUnktQHO81Pl8_rcna4AbuFwVl7mCJ5NUmLIeRbwYlMeA8AjKrKkA4PfYxbcdgo[39m
+[35m30/09/2021 20:48:34 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUxMTQxMzIsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2ODQyMTMyfQ.BJk6X2NyJ7y-d-7-362r6WKMo7KwKmRq0VVrm6pMIpciUFZTXTsQSBaS9WWLgm08VpLX1RJ4aGjJE6BonS0MZxDYu7j3gxszh3nzhkw-5CplpIjB57h0fqQUOLn9yVRMDnYaUZVgknd5NOKiLrhycnNWjYSyyf1QI6Pa-vUI6qpEDIRMi30SBSv_ZSuBD9Ez-NNjAnhr0AUYX5NUF1rX9aMvmhMxWo3TCJjkyQo5L8DNVqY75srrAh9f79CqI_gcl0jPQk6mPKHP3RQFaC0MO13gDzgX8Tu308_ehT0R7aThZqbHi66mO7GbKAz3SryBXA8KQpqpfDCTEGg0OXs47-MRwSn5nefP9_qZSEuf8TmQ0ocmuHcxxjIgFcbyoLOBDTZ3TtjsSolJJmdwuPSNCkDExDBmCYMaXosx1w6_JcE0R9Lax9H_P5yRPn3PCLpS16sDK87RgWc7hNVe7rDHtw7LYUlqkmDP1-zmSuJF2i1SEpCUhmk785eage2_FUg0qxiO9EP0UimMVWetFWgxUVI8TXSTdz3ZM57-OeHoqwUnG9ACsfskXNvwhV4zbL5Ex_O-3ZvhpPmtdgKJyIyd4pgR4we7Q3mIcbvIVuQi2kihKqP6bthNuyP4xiLjNkXN7kpTKT734Bavwul_giX7YwycKjEShUIktNQajRb5ey4[39m
+[35m30/09/2021 20:48:34 - [http] : POST /auth/login 200 1778 - 47.990 ms[39m
+[35m[39m
+[34m30/09/2021 20:48:42 - [info] : Mongoose connection is disconnected.[39m
+[34m30/09/2021 20:48:48 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:48:48 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:48:51 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:48:51 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUxMzE4NTYsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1MzA0NjU2fQ.d7jwTHWBc60wx6LhJ3MfOCGwD5lseAbvPRVNDBuFHnIDu9avhBYqys20ksKbvZpFRVqxr-NmSvkE6B5vVKFkN6Wc-wjnOZxyK6Rd6dNykreqDqmFss2RvI1Q4TklN7yB9UyFSy9HEyBXxDfOaw5cYtuRpZox4H5WxUSOn9KepG5jKFGcK8IM7O819nNiL7_NShn0YyLt4FiEgGd3g6UQp9iVj1UuU9F5KrpI-uIYXw9LmP00zwI1QZU_7MmPDj4d0b7dH9GxbLitRRmMCv6nwqvKeEF7oBTw39jaG3Ar9uxqzXuCYELB-jdzmxRJQyVKDujueimJLYYghq_Ji233QirJBwHr756x1XrUFO9s9boobslNxO0HcYApVBuSkBzk31rn-YnovsG60JGjksHOthEHePGhIMC8jZDvaDGLoT-1yyz9bz8-r_d0OLisLDkSJS5DbXGWV1piZWoquZxnsvb091GNTIaKC57QNt3ygpyKQ8LzvwfnACsKhadpyFCbo5QBOKwvmOs8sd_Eo0bs4mm_Hf6bNIRyUWgRJxBS7P71CnF9A7PLoRfkM8zdjjLxMGyRSCo53xaqlOf_e_a2QhVlBz4BXL3NB0DJnjGmWyv_twDp37yp2PCBw9EIBQo92xPWU32OJh7JKg68xPfmkxIc_-MAspEynhjdWtWIOQk[39m
+[35m30/09/2021 20:48:51 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUxMzE4NzQsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2ODU5ODc0fQ.QXMC1jp-KDZPW6gnBnE_Xs2_rtQEgcumQ8D1_P5IWxBKGNZeP558QRm5dsAEMQvj6hGmBSDxqjVgKtflC83j1QNRxPjM0avlK9GB5uL8W4a_fapqL_Nr7jPznwKHeetI8RBHV0MKDsf-zx-Bjff9QSJQCCrn3PbbhMv8Gcq6xObxw9fISqidZUFaEWCul34IYTK81c_faQsrmh32h8aX7Faox5MMy9hVnaGHkxoTUvA3AKYxNKUd-8AvFCdE5oz_j_0bDaWZtqTzxOFJIXDA35jqeGHe3gqNvT0LPTDHTwRGFgYdSXsAjTvp_PwWFiD8cdUBf8FGhXZKgo_EFeJqBbUJAB_66h8ZJZWeVYN4b6-idYkFbI_PYB5tlSQCgy-Evk_ZARFFOzJdcTn9SXDq89fT-dJ9FvmsgaAQiLG7cQ_VHRoJ3Jqxv9JMICN95774S64_vgL89rgEsOVHKK08w6UJl_hv0f7Vtvtb34KlF2b1MiDxWkheibCzssU0wJCuyr4JZ51lQE44gQUUM07Bj1a5bXp9TP4OS2J7Nf-HI1XfqOBlfb8G8C-CZZDxNoG9ohNYSEJIlxdNYveVcR570P7FmjZX3t1ebFtgYaC9t6Rm6KfWa3GDjbhkhPvd1HBxYfnPFIhJkLaHkVK97AS6DTXRi7DTfE5TJRoACiik9YQ[39m
+[35m30/09/2021 20:48:51 - [http] : POST /auth/login 200 1778 - 122.514 ms[39m
+[35m[39m
+[34m30/09/2021 20:49:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:49:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:49:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:49:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:49:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:49:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:49:23 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:49:23 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:49:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:49:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:49:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:49:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:50:00 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:50:00 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUyMDAzNTAsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1MzczMTUwfQ.E6LX877WJ-e6VVx7clmNdU3GIVDGfV-nwHmWxmIH5M_-mPMz2DTaJE4PDagTnHbCT9eLLRu5gr-8b-63-gZv-jFKu-tI8BKbNV6mr-PLaAfMKyIYPqFzvMeYuHqkVD7seGb3yY_VcfX8bosB-aVg0OsyGvyfFJZxnKt8J33hgkr8qVDBWcN_9EPFes5q6WLN_8dkph7HaWTbRoRviwyR4vIqGPF0jrtHhRL38tv5aBkQbJEjN28Pz0uhkRdKTn3IQKJLwESkoK5fOS9RWdSmmRyO-3iHGjui8cP8AK4T3qd-O8pWV_IB6kRFFqXMhuJFKRFmA_LOd_zPrVSaaDMpLOHSD95g_pE_KZ6lx91brFcdffvXmfDagJcUWXsJF5Eb-yQmsw3OLSRybot5oSfFRTXM--T7qXxMcjZirxk8bnDJv4QUTJFxy8v1pKxeJ3HXuht-M8zyN4188WsSzbXqKNVRnX6K9zTs3xq743liD2igObwRGRyLHpohFHQ8bcVRHkpZJpwzn68gzgE3DMYrVcvpBCYfF1sdAX7wYH86YYbxkNSE-8PeZ-gKTshTVxQ78LbnommadOLBapb2_iuwKb5gktU8UWi4d_Iq27VGQDfnHqVygl6geukx-mxk3t8FjoRu67P2mVMQxS_CtIvBt6txbVYPQ8RqXnzD1eziZnM[39m
+[35m30/09/2021 20:50:00 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTUyMDAzNjcsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE2OTI4MzY3fQ.UHe8np3B7vb1Ru9INk3Lc0LIE3LV8gckC0IpjkJuksVCBZk6n267QwK8jXLNlzGSxDhMROROlT1Ww5QQzH-Npe5_2NPatmJcXM8JoqhpJUVXVku6C1gSZHWRcPyuocmOUOwJVivaiTPexVLrn9xKokvPK4FJROmgurKUMdh5pjEwg79srMowcUuiNFgQt9ZA9alO7PhFUOubyqzELFEz6GMkJ06n2Scd48bZfErMjBJ4jdp78CjJmRYvtHU0ss8k9Zg3R3pq4cCJZSCV9JX2ThMnUJFcEcCywo_wUhdiq1wkE7cI2bgsw4YX5eAAWTe2rDmqj3DVHiIloNAopE8MneAyQ0TpTWvGZlrUthxrwazACyG2lIFqJpwfBct-IZL2B1nb_yNzQOA0z3dF3Y_qEmH9Xz73MY6sQPASXTlu4zkYx4mHHFQEHJb05i3nzjgMZUiELk4ry792Fo0Dye8yVek0U4OG6hIAIqiS38mtHAQ7ieoSb39nN8uC-pQjDAN1K7ZD720sucLCc9sBrGpf0FVTQysupbaxwlzRhtrvkNgq2Xp0MFNaYbh7YE0BFS5HBzichLarZRfNrJrsLZMLTo9fVPv0LX8S5vIcdzDNQrFXACWaBY_7J73_q_gIyArsKDHcvRu9JTLd408wV3iwxYNAMJqAYZlkqnRrgrwRiHY[39m
+[35m30/09/2021 20:50:00 - [http] : POST /auth/login 200 60 - 136.381 ms[39m
+[35m[39m
+[34m30/09/2021 20:55:52 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:55:52 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:55:56 - [info] : Login Validation Success[39m
+[35m30/09/2021 20:55:56 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTU1NTYxMTksImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE1NzI4OTE5fQ.PfCu1GxPo2J1DtFSpl0VVZlWyVik3heNO3La1rS0PnuE_qoD68qXnvvSgj1-fxwMhwlisHeod_1h69xWQdtPkzE4MLs83v_isvemlQ3qTOWh6d0m-DUo_dn5KANCs0ueCD02YuMF5TgfBKamJPtKoPrhKDLTjVvLdXGdF42KD8a3351365tWP7_EvAVI6lsNx3hAskOv2y2a_dxMbh1Upnn7VS9qwM5aJ4VRpZBGp1E9NljJnD9TI8i9ftPvOE4CQ1s9SiXufAjbF2UxIGcSU4KHrjSuewkWVc0jIebpMKNfwys2okg8SQtsFpJEeGlAr6M_6oF-BRHwbvQW17jSB14cTDIaB5hj-YecNlgeKVp2-QAio_YOQhLhLJtbCAkWpaEhYYsgRseX-aFDQ4EYCt5_5gJ8HmAOfH1ucqEccy2aXjPoUG5ZQHyAjF9VVlexwVwqEJxit_jR-QSJOhoQxG1yPOIkqw2EpdxvZaKYW3Av1JAeJmKn1cMMsKkHFjeQ7K2lUZhXKmfKQKy0p5q1RKrG8oULQcZMcy5Qw-jqLzYPZpZgNaVn_-9u6iaCewu2UFjG6CG2U4FDw_rX3m33YwbbFeuAUkkEz4EU-wYhU6IkGN3F9madpG0s0C0UnP5be3dSHLMA8Yy4wxVTh7601kBGG8srjsyAfL6YbDpxHR8[39m
+[35m30/09/2021 20:55:56 - [debug] : Refresh token successfully   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMTU1NTYxMzQsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDE3Mjg0MTM0fQ.nb4HXnnepfPR_Uyeh5LaIgsbxPAtHJMmvQiaPbPGE3iAmkFuUQCRcuQ4P0O0yS0yy4OughEUojGwASlbEDzoPZReFFRXPom1UzAtOFbHsVM2l8isvPpfC64PYDNxK2PW4YAmgrW99pJLhOVBhxWoK7aGGikQZYQZqK2ySI0jGMfAAceJ2mO5pA98W0pnOrGLgO8pTLK3_btiQfEx3aYzDpdcJTQOT-IauchC5YaS2ypfov37XPmWh6GkCK5qSc2r9hJogJU7tOJ-P6xjdDDONtbCfsoMGbXMtKBGL-uCSNypIn7X5kUzr7QwU44IILQ-k34yJDWM3thFycOpmQ1tDNnMoRT3yD4ogUuXJjxWIgitWm85V_-n1kHrUJXqZ2NtJhKghn3Lkkoh7L2NgAWcFwm0uR05_yoxvKkDyv0tQ2yfZyUYKwnkypX3VYYeQ4a3YlEUH_X2i2nRkUHmECP4WBpAXgQ3gwkqEawkjJUmX8OBriVwyyVkOSpjWNgTpoGY1SEnr5oPWOPuVNfBI5IU2oXpW_nQOgeF4wzX1jAvqLlvpxjrJ9arlEg-DSWGLrQcYztMQBZbQqN5L7Gm6NtMC2jFs0RFC5lYiAB9pr3IR77lijpkq1kslL3mMsnKUlNP1rXip3Mzt1N56gTc1PXNRp0g69-VjG1RxdFRzSOclYk[39m
+[35m30/09/2021 20:55:56 - [http] : POST /auth/login 200 60 - 127.769 ms[39m
+[35m[39m
+[34m30/09/2021 20:56:10 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:56:10 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:56:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:56:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 20:56:32 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 20:56:32 - [info] : Mongoose server listening[39m
+[34m30/09/2021 21:40:59 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 21:40:59 - [info] : Mongoose server listening[39m
+[34m30/09/2021 21:41:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 21:41:05 - [info] : Mongoose server listening[39m
+[34m30/09/2021 21:41:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 21:41:07 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:06:22 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:06:22 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:06:29 - [info] : Login Validation Success[39m
+[31m30/09/2021 22:06:29 - [error] : error:0909006C:PEM routines:get_name:no start line[39m
+[35m30/09/2021 22:06:29 - [http] : POST /auth/login 500 58 - 81.260 ms[39m
+[35m[39m
+[34m30/09/2021 22:07:01 - [info] : Login Validation Success[39m
+[31m30/09/2021 22:07:01 - [error] : error:0909006C:PEM routines:get_name:no start line[39m
+[35m30/09/2021 22:07:01 - [http] : POST /auth/login 500 58 - 27.184 ms[39m
+[35m[39m
+[34m30/09/2021 22:10:15 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:10:15 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:10:18 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:10:18 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:11:26 - [info] : Login Validation Success[39m
+[35m30/09/2021 22:11:26 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjAwODYzMTQsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIwMjU5MTE0fQ.uaHwaQCPH9qEkUMtiGE4hGwFHPnQwi_7ftpWZVQ44-jvcaM26WWRkigLq7aee31kRx6Oi3evPNZNhcqe_YKS-qhAuQIma0RB5h7-YxHEilzoGIokSTPLxRg-1PoNNq334UhO5fSBdFvT_m1_zmr6HEtiWSejyfHvAc_V2G5WHvsavi61pdZecaS_m3YorS88Ny2mUS_crT8PVp3q3iCCMhdwVIepcFJJVMwFTn1pMMmy6tlricoDHpIpViRiXMyQPVhYvUKWPNPbRiF2sepX3KdX203YIkbF2OLd2UVHU1U1XYYRCN1PNrty9esHTXjqEl8cRaSDnYlNE55qQZ3iZJ27_0VLEKlAcj8dhlfVQVbxcsPDS5Fy70ui2lTHs9EuQNjdJtxmeAmVmwedMJbTr-VoPfyg0JgDEtGPB5GY84rymNtxQseSoTwWzdSrxQNkHDrnVwfomdFUBP5b5MQGw8CBfLG676qr2tscI-DvOerQd0s95D78U2RbTxmbCqtqfs6o-W8eLcctV8KpXMvkdMOueW4ctLGFozBXwvB9voeggE_2-vm6U7V8NYZd9R-P6ChwRPoSz5vRjcwY71Bfvo51D0RiKEAZAsED93fNGTmm5riYiH5dsNfimh8Rbbbe0eyzDqc0sjKpPxUmpMROSZW9lIeJDa-r5dKNZpNP-xQ[39m
+[35m30/09/2021 22:11:26 - [http] : POST /auth/login 200 60 - 102.205 ms[39m
+[35m[39m
+[34m30/09/2021 22:12:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:12:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:14:47 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:14:47 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:24:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:24:17 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:24:48 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:24:48 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:24:51 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:24:51 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:25:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:25:14 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:25:24 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:25:24 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:25:27 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:25:27 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:29:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:29:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:29:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:29:36 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:29:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:29:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:29:46 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:29:46 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:02 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:02 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:16 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:16 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:23 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:23 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:26 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:26 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:30 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:30 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:30:59 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:30:59 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:39:47 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:39:47 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:39:51 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:39:51 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:40:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:40:17 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:50:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 22:50:17 - [info] : Mongoose server listening[39m
+[34m30/09/2021 22:50:48 - [info] : Login Validation Success[39m
+[35m30/09/2021 22:50:49 - [debug] : Access token successfully signed   eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 22:50:49 - [http] : POST /auth/login 200 60 - 182.772 ms[39m
+[35m[39m
+[35m30/09/2021 22:51:21 - [http] : GET /auth 404 46 - 1.963 ms[39m
+[35m[39m
+[35m30/09/2021 22:51:29 - [http] : POST /auth 404 46 - 2.019 ms[39m
+[35m[39m
+[31m30/09/2021 22:51:42 - [error] : Programatic Error, Shutting down due to TypeError: Cannot read property 'split' of undefined[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:61:70)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at urlencodedParser (/home/ubuntu/Desktop/web/Reminder/node_modules/body-parser/lib/types/urlencoded.js:82:7)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[34m30/09/2021 23:15:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:15:13 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:15:18 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:15:18 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:15:23 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:15:23 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:15:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:15:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:15:35 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:15:35 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:16:00 - [http] : POST /reminder 401 58 - 65.670 ms[39m
+[35m[39m
+[35m30/09/2021 23:18:50 - [http] : POST /reminder 401 58 - 5.596 ms[39m
+[35m[39m
+[34m30/09/2021 23:20:55 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:20:55 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:22:53 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:22:53 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:24:19 - [info] : Mongoose connection is disconnected.[39m
+[35m30/09/2021 23:25:38 - [http] : POST /reminder 401 58 - 32.921 ms[39m
+[35m[39m
+[34m30/09/2021 23:26:03 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:26:03 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:26:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:26:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:26:17 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:26:17 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:26:21 - [http] : POST /reminder 401 58 - 60.348 ms[39m
+[35m[39m
+[35m30/09/2021 23:26:28 - [http] : POST /reminder 401 58 - 3.145 ms[39m
+[35m[39m
+[34m30/09/2021 23:27:14 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:27:14 - [info] : Mongoose server listening[39m
+[31m30/09/2021 23:27:15 - [error] : Programatic Error, Shutting down due to TypeError: Cannot read property 'split' of undefined[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:63:50)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at urlencodedParser (/home/ubuntu/Desktop/web/Reminder/node_modules/body-parser/lib/types/urlencoded.js:82:7)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[34m30/09/2021 23:27:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:27:36 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:27:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:27:41 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:27:44 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:28:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:28:02 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:28:09 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:28:34 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:28:34 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:28:37 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:28:37 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:28:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:28:43 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:29:38 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:29:38 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:29:45 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:30:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:30:07 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:30:08 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:30:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:30:25 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:30:27 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:30:45 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:30:45 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:31:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:31:00 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:31:00 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:31:00 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:31:00 - [http] : POST /reminder 404 46 - 39.517 ms[39m
+[35m[39m
+[35m30/09/2021 23:31:58 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:31:58 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:31:58 - [http] : POST /reminder 404 46 - 24.950 ms[39m
+[35m[39m
+[34m30/09/2021 23:33:06 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:33:06 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:33:15 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:33:15 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:33:15 - [http] : POST /reminder 404 46 - 28.240 ms[39m
+[35m[39m
+[34m30/09/2021 23:33:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:33:36 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:33:39 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:33:39 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:33:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:33:41 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:33:42 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:33:42 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:33:42 - [http] : POST /reminder 404 46 - 53.595 ms[39m
+[35m[39m
+[34m30/09/2021 23:34:58 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:34:58 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:35:01 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:35:01 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:35:02 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:35:02 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:35:02 - [http] : POST /reminder 404 46 - 36.136 ms[39m
+[35m[39m
+[34m30/09/2021 23:35:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:35:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:35:47 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:35:47 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:35:53 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:35:53 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:35:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:35:56 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:35:57 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:35:57 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:35:57 - [http] : POST /reminder 404 46 - 34.577 ms[39m
+[35m[39m
+[34m30/09/2021 23:37:37 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:37:37 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:37:44 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:37:44 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:38:07 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:38:07 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:38:17 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:38:17 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:38:17 - [http] : POST /reminder 404 46 - 62.452 ms[39m
+[35m[39m
+[35m30/09/2021 23:39:56 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:39:56 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:39:56 - [http] : POST /reminder/ 404 46 - 12.952 ms[39m
+[35m[39m
+[34m30/09/2021 23:40:29 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:40:29 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:40:29 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:40:29 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:40:29 - [http] : POST /reminder/info 404 46 - 29.040 ms[39m
+[35m[39m
+[34m30/09/2021 23:41:21 - [info] : Mongoose connection is disconnected.[39m
+[35m30/09/2021 23:42:32 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:42:32 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:42:32 - [http] : GET /reminder 404 46 - 13.458 ms[39m
+[35m[39m
+[35m30/09/2021 23:43:00 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:43:00 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:43:00 - [http] : GET /reminder 404 46 - 6.600 ms[39m
+[35m[39m
+[35m30/09/2021 23:43:01 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:43:01 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:43:01 - [http] : GET /reminder 404 46 - 5.966 ms[39m
+[35m[39m
+[35m30/09/2021 23:43:02 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:43:02 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:43:02 - [http] : GET /reminder 404 46 - 4.908 ms[39m
+[35m[39m
+[35m30/09/2021 23:43:51 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:43:51 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:43:51 - [debug] : profile[39m
+[35m30/09/2021 23:43:51 - [http] : GET /reminder/info 200 50 - 6.813 ms[39m
+[35m[39m
+[34m30/09/2021 23:45:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:45:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:45:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:45:33 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:45:38 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:45:38 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:45:41 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:45:41 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:45:48 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:45:48 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:45:57 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:45:57 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:46:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:46:00 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:46:05 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:46:05 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:46:10 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:46:10 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:46:10 - [debug] : profile id 615546ab4fb2be6150852449[39m
+[35m30/09/2021 23:46:10 - [http] : GET /reminder/info 200 50 - 70.663 ms[39m
+[35m[39m
+[34m30/09/2021 23:47:21 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:47:21 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:47:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:47:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:47:34 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:47:34 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:47:47 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:47:47 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:47:49 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:47:49 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:47:54 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:47:54 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:48:00 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:48:00 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:48:00 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:48:00 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:48:00 - [debug] : profile id 615546ab4fb2be6150852449[39m
+[35m30/09/2021 23:48:00 - [debug] : reminders [][39m
+[35m30/09/2021 23:48:00 - [http] : GET /reminder/info 200 48 - 39.144 ms[39m
+[35m[39m
+[34m30/09/2021 23:49:16 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:49:16 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:49:25 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:49:25 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:49:31 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:49:31 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:49:36 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:49:36 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:49:36 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:49:36 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:49:36 - [debug] : profile id 615546ab4fb2be6150852449[39m
+[35m30/09/2021 23:49:36 - [debug] : reminders [][39m
+[35m30/09/2021 23:49:36 - [http] : GET /reminder/info 200 48 - 39.966 ms[39m
+[35m[39m
+[34m30/09/2021 23:49:56 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:49:56 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:50:13 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:50:13 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:50:14 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:50:14 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:50:14 - [debug] : profile id 615546ab4fb2be6150852449[39m
+[35m30/09/2021 23:50:14 - [debug] : reminders null[39m
+[35m30/09/2021 23:51:00 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:51:00 - [debug] : JWT Token is Verified Successfully[39m
+[31m30/09/2021 23:51:00 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-30T18:21:00.596Z"[39m
+[35m30/09/2021 23:51:00 - [http] : POST /reminder/create 422 95 - 120.680 ms[39m
+[35m[39m
+[35m30/09/2021 23:51:25 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:51:25 - [debug] : JWT Token is Verified Successfully[39m
+[34m30/09/2021 23:51:25 - [info] : User Validation Success[39m
+[35m30/09/2021 23:51:25 - [debug] : JOB ID IS ....2e9451ce[39m
+[35m30/09/2021 23:51:25 - [debug] : Email is scheduled for jobId  2e9451ce[39m
+[35m30/09/2021 23:51:25 - [debug] : User with around same date exist null[39m
+[35m30/09/2021 23:51:25 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61560025d3850c3df40d27d3"}],"nModified":0,"ok":1}[39m
+[35m30/09/2021 23:51:25 - [http] : POST /reminder/create 200 99 - 150.973 ms[39m
+[35m[39m
+[35m30/09/2021 23:51:37 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:51:37 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:51:37 - [debug] : profile id 615546ab4fb2be6150852449[39m
+[35m30/09/2021 23:51:37 - [debug] : reminders null[39m
+[35m30/09/2021 23:52:14 - [http] : GET /reminder/info - - - - ms[39m
+[35m[39m
+[35m30/09/2021 23:53:37 - [http] : GET /reminder/info - - - - ms[39m
+[35m[39m
+[34m30/09/2021 23:53:43 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:53:43 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:53:45 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:54:24 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:54:24 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:54:28 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:54:28 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:54:33 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:54:33 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:54:34 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m30/09/2021 23:56:12 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:56:12 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:56:12 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m30/09/2021 23:56:12 - [debug] : JWT Token is Verified Successfully[39m
+[35m30/09/2021 23:56:12 - [debug] : profile id 615546ab4fb2be6150852449[39m
+[35m30/09/2021 23:56:12 - [debug] : reminders {"_id":"61560025d3850c3df40d27d3","email":"dipikesh.singh.915@gmail.com","__v":0,"job":[{"status":false,"_id":"61560025307dfc15c8a846eb","date":"2021-09-30T18:27:59.000Z","jobId":"2e9451ce","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m30/09/2021 23:56:12 - [http] : GET /reminder/info 200 300 - 51.699 ms[39m
+[35m[39m
+[34m30/09/2021 23:57:03 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:57:03 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:57:09 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:57:09 - [info] : Mongoose server listening[39m
+[34m30/09/2021 23:57:16 - [info] : Server is runnin on port 6000[39m
+[34m30/09/2021 23:57:16 - [info] : Mongoose server listening[39m
+[35m30/09/2021 23:57:37 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[34m01/10/2021 00:04:25 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:04:26 - [info] : Mongoose server listening[39m
+[34m01/10/2021 00:04:35 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:04:35 - [info] : Mongoose server listening[39m
+[34m01/10/2021 00:04:42 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:04:42 - [info] : Mongoose server listening[39m
+[34m01/10/2021 00:04:48 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:04:48 - [info] : Mongoose server listening[39m
+[35m01/10/2021 00:04:52 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m01/10/2021 00:04:52 - [debug] : JWT Token is Verified Successfully[39m
+[35m01/10/2021 00:04:52 - [debug] : profile id [object Object][39m
+[35m01/10/2021 00:04:52 - [debug] : reminders null[39m
+[34m01/10/2021 00:05:34 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:05:34 - [info] : Mongoose server listening[39m
+[34m01/10/2021 00:05:50 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:05:50 - [info] : Mongoose server listening[39m
+[34m01/10/2021 00:05:57 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:05:57 - [info] : Mongoose server listening[39m
+[34m01/10/2021 00:06:11 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:06:11 - [info] : Mongoose server listening[39m
+[35m01/10/2021 00:06:23 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m01/10/2021 00:06:23 - [debug] : JWT Token is Verified Successfully[39m
+[35m01/10/2021 00:06:23 - [debug] : profile id {"sub":"615546ab4fb2be6150852449","iat":1633022449011,"iss":"emailReminder.com","type":"at","exp":1633022621811}[39m
+[35m01/10/2021 00:06:23 - [debug] : reminders null[39m
+[34m01/10/2021 00:07:50 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:07:50 - [info] : Mongoose server listening[39m
+[35m01/10/2021 00:07:53 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m01/10/2021 00:07:53 - [debug] : JWT Token is Verified Successfully[39m
+[35m01/10/2021 00:07:53 - [debug] : profile id {"sub":"615546ab4fb2be6150852449","iat":1633022449011,"iss":"emailReminder.com","type":"at","exp":1633022621811}[39m
+[35m01/10/2021 00:07:53 - [debug] : reminders null[39m
+[34m01/10/2021 00:08:05 - [info] : Server is runnin on port 6000[39m
+[34m01/10/2021 00:08:05 - [info] : Mongoose server listening[39m
+[35m01/10/2021 00:08:06 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m01/10/2021 00:08:06 - [debug] : JWT Token is Verified Successfully[39m
+[35m01/10/2021 00:08:06 - [debug] : profile id {"sub":"615546ab4fb2be6150852449","iat":1633022449011,"iss":"emailReminder.com","type":"at","exp":1633022621811}[39m
+[35m01/10/2021 00:08:06 - [debug] : reminders {"_id":"61560025d3850c3df40d27d3","email":"dipikesh.singh.915@gmail.com","__v":0,"job":[{"status":false,"_id":"61560025307dfc15c8a846eb","date":"2021-09-30T18:27:59.000Z","jobId":"2e9451ce","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m01/10/2021 00:08:06 - [http] : GET /reminder/info 200 300 - 110.403 ms[39m
+[35m[39m
+[35m01/10/2021 00:12:17 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m01/10/2021 00:12:17 - [debug] : JWT Token is Verified Successfully[39m
+[34m01/10/2021 00:12:18 - [info] : User Validation Success[39m
+[35m01/10/2021 00:12:18 - [debug] : JOB ID IS ....ff25c179[39m
+[35m01/10/2021 00:12:18 - [debug] : Email is scheduled for jobId  ff25c179[39m
+[35m01/10/2021 00:12:18 - [debug] : User with around same date exist null[39m
+[35m01/10/2021 00:12:18 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m01/10/2021 00:12:18 - [http] : POST /reminder/create 200 99 - 156.063 ms[39m
+[35m[39m
+[35m01/10/2021 00:12:28 - [debug] : Authentication Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs[39m
+[35m01/10/2021 00:12:28 - [debug] : JWT Token is Verified Successfully[39m
+[35m01/10/2021 00:12:28 - [debug] : profile id {"sub":"615546ab4fb2be6150852449","iat":1633022449011,"iss":"emailReminder.com","type":"at","exp":1633022621811}[39m
+[35m01/10/2021 00:12:28 - [debug] : reminders {"_id":"61560025d3850c3df40d27d3","email":"dipikesh.singh.915@gmail.com","__v":0,"job":[{"status":false,"_id":"61560025307dfc15c8a846eb","date":"2021-09-30T18:27:59.000Z","jobId":"2e9451ce","name":"Meeting","description":"I have to meet Rohan at 1 pm"},{"status":false,"_id":"6156050a219ee94bc2051f38","date":"2021-09-30T19:27:59.000Z","jobId":"ff25c179","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m01/10/2021 00:12:28 - [http] : GET /reminder/info 200 465 - 22.374 ms[39m
+[35m[39m
+[31m01/10/2021 00:12:51 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[35m01/10/2021 00:12:51 - [http] : POST /reminder/create 401 58 - 5.085 ms[39m
+[35m[39m

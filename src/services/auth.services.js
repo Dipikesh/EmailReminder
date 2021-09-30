@@ -21,7 +21,13 @@ exports.register = async (user, otp) => {
 }
 
 exports.login = async (user) => {
-    return true;
+    const { email, password } = user;
+    const doc = await regSchema.findOne({ email, isVerified: true},{password:1});
+    if (!doc) throw createError(404, "Email is not registered");
+    const {hash, salt} = doc.password;
+    if (!hashing.validatePassword(password, hash, salt))
+        throw createError(401, "Password is not correct");
+    return doc;
 }
 
 exports.verifyOtp = async (body) => {

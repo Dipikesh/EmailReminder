@@ -5,13 +5,15 @@ const helmet = require("helmet");
 require(`dotenv`).config();
 const app = express();
 const logger = require("./config/logger");
-const httpLogger = require("./config/httpLogger");
+const httpLogger  = require("./config/httpLogger");
 const route = require('./routes')
+const cookieParser = require(`cookie-parser`);
 require("./config/conn");
 
-app.use(helmet());
+app.use(httpLogger);
 app.use(helmet());
 
+app.use(cookieParser())
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

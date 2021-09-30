@@ -1,6 +1,8 @@
 const { authService, mailerService } = require('../services')
 const genOtp = require('../utils/generator');
 const logger = require('../config/logger')
+const token = require('../config/token')
+const createError = require('http-errors');
 
 exports.register = async (req, res, next) => {
     try {
@@ -16,8 +18,21 @@ exports.register = async (req, res, next) => {
 }
 
 exports.login = async (req, res, next) => {
-    
-    res.status(200).send("working");
+    try {
+        const user = await authService.login(req.body);
+        const accessToken = await token.signAccessToken(user._id);
+        // const refreshToken = await token.signRefreshToken(user._id)
+        if (!accessToken)
+            throw createError(500, "Internal Server Error");
+        res.cookie('Authorization', accessToken, {
+            maxAge: 1000 * 60 * 60 * 24 * 1, //Currently valid for one day // TODO: Change this!
+        httpOnly: true,
+        })
+        res.status(200).json({status:"success",message:"User logged in successfully"});
+    }
+    catch (err) {
+        next(err);
+    }
 }
 
 exports.cnfrmRegister = async (req, res, next) => {

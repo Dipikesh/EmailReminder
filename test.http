@@ -5,7 +5,7 @@ Content-Type: application/json
 {
     "name": "Meeting",
     "description":"I have to meet Rohan at 1 pm",
-    "date":"2021-09-28T17:40:59",
+    "date":"2021-10-01T00:57:59",
     "email":"dipikesh.singh.915@gmail.com"
 }
 
@@ -53,10 +53,18 @@ Content-Type: application/json
 ###
 
 POST http://localhost:6000/auth/login HTTP/1.1
-
 Content-Type: application/json
 
 {
     "email":"dipikesh.singh.915@gmail.com",
     "password":"Dipikesh@123"
+}
+
+###
+GET http://localhost:6000/reminder/info HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MTU1NDZhYjRmYjJiZTYxNTA4NTI0NDkiLCJpYXQiOjE2MzMwMjI0NDkwMTEsImlzcyI6ImVtYWlsUmVtaW5kZXIuY29tIiwidHlwZSI6ImF0IiwiZXhwIjoxNjMzMDIyNjIxODExfQ.JNNjnJLmdkL2NFz9hBSsQvisE3Zc09uCufGqHzAjoWWxSThVZZmVnWYIjpQ9kHJukeAxpIfpeH8-PM__5mUlk71NOpPtjbdDU6A4ImivJCfye9dA5cWWkNv2j0POmVtOh3tut28syF-zm8hIxTt7dvclaJBDp49Ny5Qpeaz_2osFbYx9AL6Gv5Aw8DwAjioHcWQBv7Hpa3dte_75y4g8GV1nv8fy1ULya-Otbe22t0gP0xlwlE7h-xse4vXxjo6gLTX6GCqVndA8z5pVIjQ0aELroF5IvbbRfun8yB1S04FBZ7tqI_s21PWCffiGw0UW1PbRRAeCzGTKpT7y1uQp6jiiB1YPK88i2FSO5YKS3Wcka8iZTEmecwiv1onLh0d30-PiVqapkTqNQyqUppQuNgy3bn3grG5HABj62B595ZMID7tvY6sjUZhbVXvRcDuQJTGXmjukLji3-MkMSfGvV73yohxnApHXogjSHA8ok2S83jN5HFw5xFqDWY7PoRZ9e4o-zchR14E4q3Z-sxZLdaCriU93XpF3Qh8q_E6khErsSHlC7r-Sk5g2ZvZ1G-jOkw7kC7fxswd0Nx3AF2nJuaARs9QzMr8KvTMNm9JXqQ3vbpoA2r5fOKR0VvWYPTePZT2pf_UvsZUOCOZ4tvDsIMnrt55_-Orvb-j7Ra4ktzs
+
+{
+   
 }

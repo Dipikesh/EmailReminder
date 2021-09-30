@@ -4,7 +4,11 @@ const createError = require("http-errors");
 require("../config/conn");
 const logger = require("../config/logger");
 
-exports.fetchInfo = async (req, res, next) => {
+exports.fetchInfo = async (user) => {
+  logger.debug("profile id "+ JSON.stringify(user));
+  const reminders = await userSchema.findOne({id:user.id });
+  logger.debug("reminders " + JSON.stringify(reminders));
+  return reminders;
   
   // var {email,jobId}
   return true;
