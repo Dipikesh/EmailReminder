@@ -4,7 +4,7 @@ const createError = require("http-errors");
 const { sendEmail } = require("./mailer.services");
 const { updateDbStatus } = require("./user.services")
 const genId = require("../utils/generator");
-exports.schedulingJob = async (user) => {
+exports.schedulingJob = async (user,email) => {
   const date = new Date(user.date);
   const jobId = await genId.value(8);
 
@@ -12,8 +12,8 @@ exports.schedulingJob = async (user) => {
   
   schedule.scheduleJob(jobId, date, async () => {
     logger.debug("scheduler is running at " + user.date);
-    await sendEmail(user.email, user.description, "This is Email Reminder");
-    await updateDbStatus(user.email, jobId);
+    await sendEmail(email, user.description, "This is Email Reminder");
+    await updateDbStatus(email, jobId);
 
     schedule.cancelJob(jobId);
   });

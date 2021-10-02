@@ -750,3 +750,89 @@
 [31m02/10/2021 17:51:03 - [error] : Error in Profile controller  NotFoundError: User not found[39m
 [31m02/10/2021 18:05:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
 [31m02/10/2021 18:22:44 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m02/10/2021 18:26:35 - [error] : create Controller  Cannot read property 'payload' of undefined[39m
+[31m02/10/2021 18:26:55 - [error] : UnhandledRejectionNotFoundError: Email not found[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:113:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 18:27:12 - [error] : UnhandledRejectionNotFoundError: Email not found[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:113:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 18:28:09 - [error] : UnhandledRejectionNotFoundError: Email not found[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:115:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 18:28:34 - [error] : create Controller  Email not found[39m
+[31m02/10/2021 18:31:03 - [error] : create Controller  Email not found[39m
+[31m02/10/2021 18:32:57 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 18:33:20 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 19:08:27 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 19:49:45 - [error] : Error in Profile controller  TypeError: Cannot read property 'payload' of undefined[39m
+[31m02/10/2021 19:50:03 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 19:55:08 - [error] : Error in Profile controller  ReferenceError: user is not defined[39m
+[31m02/10/2021 19:55:08 - [error] : Programatic Error, Shutting down due to ReferenceError: user is not defined[39m
+[31m    at Object.exports.fetchInfo (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:100:46)[39m
+[31m    at exports.profile (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:49:45)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:55:24 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:55:24 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:56:07 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:56:07 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:56:19 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:56:19 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:58:04 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:58:04 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:00:42 - [error] : User Validation Error ValidationError: "email" is required. "name" is not allowed[39m
+[31m02/10/2021 20:02:13 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 20:02:13 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:08:29 - [error] : create Controller  Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 20:08:29 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:11:01 - [error] : create Controller  Cast to string failed for value "{ _id: 61586f53a2de8dfd7807dc00,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 20:11:01 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586f53a2de8dfd7807dc00,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:11:55 - [error] : create Controller  email is not defined[39m
+[31m02/10/2021 20:11:55 - [error] : Programatic Error, Shutting down due to ReferenceError: email is not defined[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:149:35)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:12:58 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 20:13:11 - [error] : UnhandledRejectionReferenceError: email is not defined[39m
+[31m    at Object.exports.getJobId (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:53:44)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:34:37)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 20:13:29 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:27:12)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m

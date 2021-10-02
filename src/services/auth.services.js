@@ -142,3 +142,13 @@ exports.updateTokenExpiry = async (newPayload, prevPayload) => {
   logger.debug("User not found");
   throw createError(404, "user not found");
 };
+
+exports.fetchEmail = async (id) => {
+  const result = await regSchema.findOne({_id:id}, { email: 1 });
+  if (result) {
+    logger.debug("email found " + result.email);
+    return result.email;
+  }
+
+  throw createError(404, "Email not found");
+}

@@ -1,4 +1,4 @@
-const { jobService, userService, mailerService} = require('../services');
+const { jobService, userService, mailerService, authService } = require('../services');
 const createError = require('http-errors')
 const logger = require('../config/logger');
 
@@ -13,10 +13,10 @@ exports.userInfo = async (req, res, next) => {
 exports.create = async(req, res, next) => {
     
     try {
-        // const email = userService.fetchEmail(req.locals.payload.sub);
-        const jobId = await jobService.schedulingJob(req.body);
+        const email = await authService.fetchEmail(res.locals.payload.sub);
+        const jobId = await jobService.schedulingJob(req.body,email);
         logger.debug(`Email is scheduled for jobId  `+jobId);
-        const user = await userService.createUser(req.body, jobId);
+        const user = await userService.createUser(req.body,email,jobId);
         if(user)
         res.status(201).json({ success: true, message: `Email is Scheduled at ${req.body.date}`,data:req.body.date });
         }
@@ -30,9 +30,10 @@ exports.create = async(req, res, next) => {
 
 
 exports.update = async (req, res, next) => {
-    const jobId = await userService.getJobId(req.body);
+    const email = await authService.fetchEmail(res.locals.payload.sub);
+    const jobId = await userService.getJobId(req.body,email);
     const rescheduleJob = await jobService.reschedulingJob(jobId, req.body);
-    const updateDate = await userService.updateDate(jobId,req.body);
+    const updateDate = await userService.updateDate(jobId,email,req.body);
     res.status(200).json({ success: true, message:`Date is updated to ${req.body.date}`,data:req.body.date });
 
 }
@@ -45,7 +46,8 @@ exports.remove = async(req, res, next) => {
 
 exports.profile = async (req, res, next) => {
     try {
-        const reminders = await userService.fetchInfo(res.locals.payload);
+        const email = await authService.fetchEmail(res.locals.payload.sub)
+        const reminders = await userService.fetchInfo(email);
 
         res.status(200).json({ success: true, message: "User Data", data: reminders });
     }

@@ -1,12 +1,13 @@
 const mongoose = require("mongoose");
 const userSchema = require("../schemas/user.schemas");
+const regSchema = require("../schemas/reg.schemas");
 const createError = require("http-errors");
 require("../config/conn");
 const logger = require("../config/logger");
 
 
-exports.createUser = async (userData, jobId) => {
-  var { name, email, date, description } = userData;
+exports.createUser = async (userData,email, jobId) => {
+  var { name, date, description } = userData;
   var originalDate1 = new Date(date);
   var originalDate2 = new Date(date);
   originalDate1.setMinutes(originalDate1.getMinutes() - 5);
@@ -44,8 +45,8 @@ exports.createUser = async (userData, jobId) => {
 };
 
 
-exports.getJobId = async (body) => {
-  var { date, prevDate, email } = body;
+exports.getJobId = async (body,email) => {
+  var { date, prevDate } = body;
   date = new Date(date);
   prevDate = new Date(prevDate);
 
@@ -63,10 +64,10 @@ exports.getJobId = async (body) => {
 
 }
 
-exports.updateDate = async (jobIdNum, userDate) => {
+exports.updateDate = async (jobIdNum,email, userDate) => {
   const jobId = jobIdNum.toString();
   logger.debug("jobId  "+jobId)
-  const dateUpdated =await userSchema.updateOne({ email: userDate.email, "job.jobId": jobId, "job.status":false }, { "$set": { "job.$.date": userDate.date } })
+  const dateUpdated =await userSchema.updateOne({ email, "job.jobId": jobId, "job.status":false }, { "$set": { "job.$.date": userDate.date } })
   if (dateUpdated.n && dateUpdated.nModified) {
     logger.debug("User date updated successfully")
     return true;
@@ -95,20 +96,14 @@ exports.updateDbStatus = async (email, jobId) => {
 
 }
 
-exports.fetchInfo = async (user) => {
-  logger.debug("profile id "+ JSON.stringify(user));
-  const reminders = await userSchema.findOne({ id: user.sub }, { job: 1 });
+exports.fetchInfo = async (email) => {
+  
+  const reminders = await userSchema.findOne({ email });
   if (reminders) {
-    logger.debug("reminders " + JSON.stringify(reminders));
+    logger.debug("reminders " +reminders);
     return reminders;
   }
   throw createError(404, "User not found");
 }
 
-exports.fetchEmail = async (id) => {
-  const email = await userSchema.findOne({ id }, { email: 1 });
-  if (email) 
-    return email;
 
-  throw createError(404, "Email not found");
-}
