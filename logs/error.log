@@ -430,3 +430,323 @@
 [31m30/09/2021 23:54:34 - [error] : Error in Profile controller  CastError: Cast to ObjectId failed for value "ObjectId($id)" (type string) at path "_id" for model "User"[39m
 [31m30/09/2021 23:57:37 - [error] : Error in Profile controller  ReferenceError: ObjectId is not defined[39m
 [31m01/10/2021 00:12:51 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m01/10/2021 00:18:58 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 12:32:26 - [error] : Confirm Registeration  Validation Error ValidationError: "name" is required[39m
+[31m01/10/2021 12:34:35 - [error] : Error During AuthenticationMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m01/10/2021 12:37:47 - [error] : Error During AuthenticationMongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m01/10/2021 12:46:05 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m01/10/2021 13:13:35 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m01/10/2021 13:14:32 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.setTimeout (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at ontimeout (timers.js:436:11)[39m
+[31m    at tryOnTimeout (timers.js:300:5)[39m
+[31m    at listOnTimeout (timers.js:263:5)[39m
+[31m    at Timer.processTimers (timers.js:223:10)[39m
+[31m01/10/2021 13:17:44 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-10-01T07:47:44.340Z"[39m
+[31m01/10/2021 13:19:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:20:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:39:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:39:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:44:50 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:18:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:20:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:20:46 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:20:47 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:32:14 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:20 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:20 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 15:30:37 - [error] : Authentication Token Error TokenExpiredError: jwt expired[39m
+[31m01/10/2021 15:30:37 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m01/10/2021 15:31:34 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 15:31:43 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 15:32:32 - [error] : Authentication Token Error TokenExpiredError: jwt expired[39m
+[31m01/10/2021 15:32:32 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m01/10/2021 15:34:15 - [error] : Authentication Token Error TokenExpiredError: jwt expired[39m
+[31m01/10/2021 15:34:15 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m01/10/2021 15:51:17 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:08:57 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:10:12 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:13:17 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:13:37 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:14:55 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:15:31 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:16:07 - [error] : Authentication Error ReferenceError: JOSN is not defined[39m
+[31m01/10/2021 17:16:23 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:32:40 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:39:54 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:40:48 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:42:11 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:43:35 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:43:54 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:51:12 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:52:01 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:55:08 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:56:36 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:59:33 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:06:08 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:08:42 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:09:23 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:09:24 - [error] : UnhandledRejectionMongoError: Unknown modifier: $addToset. Expected a valid update modifier or pipeline-style update specified as an array[39m
+[31m    at Function.create (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/error.js:57:12)[39m
+[31m    at toError (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/utils.js:130:22)[39m
+[31m    at coll.s.topology.update (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/operations/common_functions.js:384:39)[39m
+[31m    at handler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/topology.js:953:24)[39m
+[31m    at fn (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection_pool.js:350:13)[39m
+[31m    at handleOperationResult (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/server.js:565:5)[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:281:5)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)reason[object Promise][39m
+[31m01/10/2021 19:10:24 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:10:24 - [error] : UnhandledRejectionMongoError: Unknown modifier: $addToset. Expected a valid update modifier or pipeline-style update specified as an array[39m
+[31m    at Function.create (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/error.js:57:12)[39m
+[31m    at toError (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/utils.js:130:22)[39m
+[31m    at coll.s.topology.update (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/operations/common_functions.js:384:39)[39m
+[31m    at handler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/topology.js:953:24)[39m
+[31m    at fn (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection_pool.js:350:13)[39m
+[31m    at handleOperationResult (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/server.js:565:5)[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:281:5)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)reason[object Promise][39m
+[31m01/10/2021 19:10:51 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:13:26 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:13:26 - [error] : UnhandledRejectionBadRequestError: Something went wrong[39m
+[31m    at Object.exports.saveTokenExp (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:76:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m01/10/2021 19:17:01 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:17:01 - [error] : Auth Service ....BadRequestError: Something went wrong[39m
+[31m01/10/2021 19:19:48 - [error] : Authentication Error TypeError: Cannot read property 'name' of null[39m
+[31m01/10/2021 19:21:35 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwOTYxOTAsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA5NjEzMDgzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ZELy6CEsuUNmHuYrEvW_zFVQCjBzevAbuybJtXNuNGytiei3RjdZrtH-2GxlUVNeFhjppx0TMc2eizxygRa6vKWpoCHH4P5lbLml0EcKR45eKfiVKi2P0d8msjnf3Ww2w2OcMVljpu-zFv_YvrD-AzwRTZdmmLB9VtS1dpYXWFjmnEtNE2CXUWLytMcSRsZ6ZmfLuxE9TYjSjTHTgmL68rJTtEyBPo63eXkYttB4Y3pQD8janZr59Mzt8l9EPRaltMsspsVgyXdx09q2Z0MLzowznGMZ-Gycx2kMBTC7fhcpqkrD87DJ-D3jJbNy3DekwkNq0L03Tl7EewAbS5A9N_gSugE4Hqxw4x5elY945GQSYrFRUDd4ggBfenfENeP9ba_DtHiW-1cNwuTIshkwrrPUixoUQ7_3GNE8ic5quqeA2Ui5JCJ223T9bER0Qp6sBUbRPa8EK0KYvBiCqoDAMW__cRd0hXnJBvJ-D4vsRxGr8jjlOwQuTueWyUZmhJv00DKu84HfBva677T1upNBfBWQe1J12mAiEKXvFKpaTnhromCqBkXpWpmLnI5FUiDNXT9TMp_mEyhhQ9UUUE17ctnW5t83i6wTQstOWl-pazlPNmVC1pLx1yDZGsoWJixfELCuDz3bwb6J1GHoyUNCLnuDC4XSBxCVom_sz38Pa00[39m
+[31m01/10/2021 22:07:57 - [error] : Programatic Error, Shutting down due to ReferenceError: accessToken is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:26:37)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m01/10/2021 22:11:28 - [error] : Programatic Error, Shutting down due to ReferenceError: token is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:23:42)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m01/10/2021 22:12:10 - [error] : Auth Service ....MongoError: Cannot create field 't' in element {exp: [ "1633082527", "1633096190" ]}[39m
+[31m01/10/2021 23:09:32 - [error] : Auth Service ....MongoError: Cannot create field 't' in element {exp: [ "1633082527", "1633096190" ]}[39m
+[31m01/10/2021 23:15:54 - [error] : Auth Service ....BadRequestError: Something went wrong[39m
+[31m01/10/2021 23:17:44 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:19:23 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:22:11 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:23:55 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:28:19 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:28:46 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:29:23 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:30:00 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:30:26 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:31:46 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:32:12 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m02/10/2021 00:32:59 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m02/10/2021 00:36:37 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:36:53 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:37:00 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:37:54 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:37:54 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 00:47:56 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:48:43 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:48:53 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:49:31 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:49:31 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 01:05:46 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 01:05:46 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 01:11:53 - [error] : Authentication Token Error  jwt expired[39m
+[31m02/10/2021 01:11:53 - [error] : UnhandledRejectionBadRequestError: Something went wrong[39m
+[31m    at Object.exports.updateTokenExpiry (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:97:19)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 01:12:09 - [error] : Authentication Token Error  jwt expired[39m
+[31m02/10/2021 01:12:09 - [error] : UnhandledRejectionBadRequestError: Something went wrong[39m
+[31m    at Object.exports.updateTokenExpiry (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:97:19)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 01:22:17 - [error] : Authentication Error ReferenceError: PUB_KEY is not defined[39m
+[31m02/10/2021 01:23:36 - [error] : Authentication Error ReferenceError: prevPayload is not defined[39m
+[31m02/10/2021 01:26:55 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:30:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:31:31 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:34:12 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:35:21 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:35:26 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:37:40 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:40:00 - [error] : Authentication Error ReferenceError: payload is not defined[39m
+[31m02/10/2021 01:42:42 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:44:11 - [error] : Authentication Error ReferenceError: payload is not defined[39m
+[31m02/10/2021 01:47:45 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:57 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:57 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:58 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:07 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:07 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:36 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 02:42:04 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 02:43:27 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 02:50:04 - [error] : Authentication Error ReferenceError: jwt is not defined[39m
+[31m02/10/2021 02:50:04 - [error] : Programatic Error, Shutting down due to ReferenceError: jwt is not defined[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:69:45)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 02:51:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:52:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:53:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:55:19 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:56:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:02:07 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:03:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:06:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:07:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:08:26 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:19:56 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 14:00:51 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m02/10/2021 14:01:04 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m02/10/2021 14:03:50 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 14:04:48 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 14:05:02 - [error] : Authentication Error MongoError: The field 'exp.t.0' must be an array but is of type string in document {_id: ObjectId('615818ddb3eb9e2e56e7ef11')}[39m
+[31m02/10/2021 14:05:55 - [error] : Authentication Error MongoError: The field 'exp.t.0' must be an array but is of type string in document {_id: ObjectId('615818ddb3eb9e2e56e7ef11')}[39m
+[31m02/10/2021 14:09:12 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 14:11:44 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 14:37:05 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m02/10/2021 14:40:19 - [error] : Error in OTP controller  BadRequestError: Email is already registered and verified[39m
+[31m02/10/2021 15:16:35 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m02/10/2021 15:16:40 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:16:40 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:26:08 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:26:08 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:28:01 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:28:01 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:35:47 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:35:47 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:36:19 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:36:51 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:37:04 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:37:13 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:37:13 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:37:41 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:57:04 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 15:58:41 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 16:00:42 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 16:02:42 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 16:04:35 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" is required[39m
+[31m02/10/2021 16:07:23 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 16:10:15 - [error] : Error in OTP controller  ReferenceError: eTme is not defined[39m
+[31m02/10/2021 16:21:02 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 16:36:33 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 17:01:16 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 17:02:16 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 17:37:57 - [error] : Error During AuthenticationReferenceError: etime is not defined[39m
+[31m02/10/2021 17:38:32 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:34 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:35 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:36 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:50 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:51 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:51 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:53 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:53 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:40:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:41:41 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:42:13 - [error] : Error During AuthenticationTypeError: Cannot read property 'isVerified' of null[39m
+[31m02/10/2021 17:43:42 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:43 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:47 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:06 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:11 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:11 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:11 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:14 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:14 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:15 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:15 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:16 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:14 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:26 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:31 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:51:03 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 18:05:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 18:22:44 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m

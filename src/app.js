@@ -57,6 +57,6 @@ process.on("SIGINT", function () {
 
 process.on("unhandledRejection", (error, p) => {
   // Prints "unhandledRejection woops!"
-  console.log(error.stack);
-  // logger.error('UnhandledRejection', error, "reason" ,p);
+  logger.error('UnhandledRejection' + error.stack + "reason" + p);
+  process.exit(1);
 });

@@ -20,10 +20,9 @@ exports.register = async (req, res, next) => {
 exports.login = async (req, res, next) => {
     try {
         const user = await authService.login(req.body);
-        const accessToken = await token.signAccessToken(user._id);
-        // const refreshToken = await token.signRefreshToken(user._id)
-        if (!accessToken)
-            throw createError(500, "Internal Server Error");
+        const { accessToken, payload } = await token.signAccessToken(user._id);
+        const saveExpTime = authService.saveTokenExp(payload);
+
         res.cookie('Authorization', accessToken, {
             maxAge: 1000 * 60 * 60 * 24 * 1, //Currently valid for one day // TODO: Change this!
         httpOnly: true,
@@ -31,16 +30,16 @@ exports.login = async (req, res, next) => {
         res.status(200).json({status:"success",message:"User logged in successfully"});
     }
     catch (err) {
+        logger.debug("Login Controller "+ err)
         next(err);
     }
 }
 
 exports.cnfrmRegister = async (req, res, next) => {
     try {
-        const otp = await authService.verifyOtp(req.body);
-        if (otp) {
-            const cnfrmUserReg = await authService.confirmReg(req.body);
-        }
+        const eTime = await authService.verifyOtp(req.body);
+         const cnfrmUserReg = await authService.confirmReg(req.body);
+
         res.status(201).json({ success: true, message: "User Registered" });
     }
     catch (err) {

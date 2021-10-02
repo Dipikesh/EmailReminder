@@ -2,11 +2,9 @@ const { reg, cnfrmReg ,login } = require('../validations/auth.validations.js')
 const logger = require('../config/logger');
 const createError = require('http-errors');
 const regSchema = require('../schemas/reg.schemas')
-const jwt = require('jsonwebtoken');
-const path = require('path');
-const fs = require('fs');
-const pathToPubKey = path.join(__dirname,'..', "config/key/id_rsa_pub.pem");
-const PUB_KEY = fs.readFileSync(pathToPubKey, "utf8");
+const genToken = require('../config/token')
+const decodeToken = require('../utils/hash');
+const { authService } = require('../services');
 
 
 exports.validateRegister = async (req, res, next) => {
@@ -61,15 +59,27 @@ exports.authenticate = async (req, res, next) => {
         if (!req.headers['authorization'])
             throw createError(401, "Authorizaion Required");
         const token = req.headers['authorization'].split(" ")[1];
-        logger.debug("Authentication Token: " + token);
-        jwt.verify(token, PUB_KEY, (err, payload) => {
-            if (err)
-                throw createError(400, "Authorizaion Required");
+        const validateTokenExp = await genToken.validateAccessToken(token);
+        if (!validateTokenExp) {
+                const prevPayload = await decodeToken.parseJwt(token)
+            let { accessToken, payload } = await genToken.signAccessToken(prevPayload.sub);
+            logger.debug("PAYLOAD ....."+JSON.stringify(prevPayload)+"...."+JSON.stringify(payload))
+                const updateExpiryIfExist = await authService.updateTokenExpiry(payload, prevPayload);
+                logger.debug("jwt is ...save token expiry" + updateExpiryIfExist);
+
+                res.cookie('Authorization', accessToken, {
+                    maxAge: 24 * 60 * 60,
+                    httpOnly: true
+                });
             res.locals.authenticated = true;
             res.locals.payload = payload;
-            logger.debug("JWT Token is Verified Successfully")
-        next();
-        });
+            
+        }
+        
+        res.locals.authenticated = true;
+        res.locals.payload = validateTokenExp;
+                
+    next();
         
     } catch (err) {
         logger.error("Authentication Error " + err);

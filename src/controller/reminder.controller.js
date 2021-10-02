@@ -13,11 +13,12 @@ exports.userInfo = async (req, res, next) => {
 exports.create = async(req, res, next) => {
     
     try {
+        // const email = userService.fetchEmail(req.locals.payload.sub);
         const jobId = await jobService.schedulingJob(req.body);
         logger.debug(`Email is scheduled for jobId  `+jobId);
         const user = await userService.createUser(req.body, jobId);
         if(user)
-        res.status(200).json({ success: true, message: `Email is Scheduled at ${req.body.date}`,data:req.body.date });
+        res.status(201).json({ success: true, message: `Email is Scheduled at ${req.body.date}`,data:req.body.date });
         }
     catch (err) {
         logger.error("create Controller ", err);
@@ -45,9 +46,8 @@ exports.remove = async(req, res, next) => {
 exports.profile = async (req, res, next) => {
     try {
         const reminders = await userService.fetchInfo(res.locals.payload);
-        if (reminders) {
-            res.status(200).json({ success: true, message: "User Data", data: reminders });
-        }
+
+        res.status(200).json({ success: true, message: "User Data", data: reminders });
     }
     catch (err) {
         logger.error("Error in Profile controller  " + err);

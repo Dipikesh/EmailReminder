@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const crypto = require('crypto')
+const createError = require('http-errors')
 
 const registrationSchema = new mongoose.Schema({
     email: {
@@ -8,6 +8,7 @@ const registrationSchema = new mongoose.Schema({
         unique: true,
         required: true,
         lowercase: true,
+        trime: true,
     },
     name: {
         type: mongoose.Schema.Types.String,
@@ -21,7 +22,7 @@ const registrationSchema = new mongoose.Schema({
     },
     otp: {
         type: mongoose.Schema.Types.String,
-      index: { expires: '15' },
+        expires:'10s'
     },
     isVerified: {
         type: mongoose.Schema.Types.Boolean,
@@ -29,11 +30,22 @@ const registrationSchema = new mongoose.Schema({
   },
   etime: {
     type: mongoose.Schema.Types.Date,
-    }
-});
+    default:Date.now()
+  },
+  exp: [{
+    t: mongoose.Schema.Types.String,
+  }]
+  
+},
+{timestamp:true});
 
 
 
+registrationSchema.post('updateOne', (err, doc, next) => {
+  if (err) {
+    next(createError(500,err));
+  }
+})
 
 const regSchema = mongoose.model('auth', registrationSchema);
 

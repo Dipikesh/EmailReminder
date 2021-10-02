@@ -4,16 +4,7 @@ const createError = require("http-errors");
 require("../config/conn");
 const logger = require("../config/logger");
 
-exports.fetchInfo = async (user) => {
-  logger.debug("profile id "+ JSON.stringify(user));
-  const reminders = await userSchema.findOne({id:user.id });
-  logger.debug("reminders " + JSON.stringify(reminders));
-  return reminders;
-  
-  // var {email,jobId}
-  return true;
 
-}
 exports.createUser = async (userData, jobId) => {
   var { name, email, date, description } = userData;
   var originalDate1 = new Date(date);
@@ -24,7 +15,7 @@ exports.createUser = async (userData, jobId) => {
 
   const isDateSame = await userSchema.findOne(
     {
-      email: "dipikesh.singh.915@gmail.com",
+      email: email,
       "job.date": {
         $gte: originalDate1,
         $lte: originalDate2,
@@ -102,4 +93,22 @@ exports.updateDbStatus = async (email, jobId) => {
     return false;
   }
 
+}
+
+exports.fetchInfo = async (user) => {
+  logger.debug("profile id "+ JSON.stringify(user));
+  const reminders = await userSchema.findOne({ id: user.sub }, { job: 1 });
+  if (reminders) {
+    logger.debug("reminders " + JSON.stringify(reminders));
+    return reminders;
+  }
+  throw createError(404, "User not found");
+}
+
+exports.fetchEmail = async (id) => {
+  const email = await userSchema.findOne({ id }, { email: 1 });
+  if (email) 
+    return email;
+
+  throw createError(404, "Email not found");
 }
