@@ -1,23 +1,33 @@
 const express = require(`express`);
 const createError = require(`http-errors`);
-const cors = require("cors");
-const helmet = require("helmet");
-require(`dotenv`).config();
 const app = express();
+const cors = require("cors");
+
 const logger = require("./config/logger");
-const httpLogger  = require("./config/httpLogger");
-const route = require('./routes')
+
+const httpLogger = require("./config/httpLogger");
+
+require(`dotenv`).config();
+
 const cookieParser = require(`cookie-parser`);
 require("./config/conn");
 
-app.use(httpLogger);
-app.use(helmet());
+//To which origin , you want to share your resources
 
-app.use(cookieParser())
+app.use(httpLogger);
+
+app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use("/", route);
+
+app.options(
+  "*",
+  cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 })
+);
+app.use(cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 }));
+
+app.use("/", require('./routes'));
 
 //Adding Swagger
 

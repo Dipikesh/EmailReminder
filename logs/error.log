@@ -836,3 +836,198 @@
 [31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:27:12)[39m
 [31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
 [31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 20:49:41 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:27:12)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 20:51:19 - [error] : RescheduleJob Error Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m02/10/2021 20:51:41 - [error] : RescheduleJob Error Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m02/10/2021 21:24:32 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m02/10/2021 21:24:43 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 21:31:49 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 21:32:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 21:32:25 - [error] : User Update Request Validation Error ValidationError: "prevDate" is required. "id" is not allowed[39m
+[31m02/10/2021 21:33:07 - [error] : User Update Request Validation Error ValidationError: "id" is not allowed[39m
+[31m02/10/2021 21:34:05 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:29:20)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:35:09 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:29:20)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:36:50 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:29:20)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:37:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:37:00 - [error] : UnhandledRejectionInternalServerError: Something went wrong[39m
+[31m    at Object.exports.updateDate (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:76:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:38:24 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m02/10/2021 21:42:18 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m02/10/2021 21:58:48 - [error] : UnhandledRejectionMongoError: As of 4.4, it's illegal to specify positional operator in the middle of a path.Positional projection may only be used at the end, for example: a.b.$. If the query previously used a form like a.b.$.d, remove the parts following the '$' and the results will be equivalent.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 22:51:19 - [error] : create Controller  Email not found[39m
+[31m02/10/2021 22:52:00 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 22:52:35 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 22:54:45 - [error] : UnhandledRejectionTypeError: Cannot read property '0' of undefined[39m
+[31m    at Object.exports.scheduleStatusAndDelete (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:126:20)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 22:59:35 - [error] : UnhandledRejectionTypeError: Cannot read property '0' of undefined[39m
+[31m    at Object.exports.scheduleStatusAndDelete (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:126:20)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 23:12:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:12:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:12:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:12:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:13:19 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 23:14:29 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:16:42 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:17:15 - [error] : UnhandledRejectionBadRequestError: Schedule can not be deleted[39m
+[31m    at Object.exports.removeScheduledJob (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:126:11)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 23:26:07 - [error] : UnhandledRejectionMongoError: As of 4.4, it's illegal to specify positional operator in the middle of a path.Positional projection may only be used at the end, for example: a.b.$. If the query previously used a form like a.b.$.d, remove the parts following the '$' and the results will be equivalent.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:26:45 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:28:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:28:23 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:37:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:39:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:42:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:43:37 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:43:54 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:53:43 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:53:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:31 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:36 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:55:52 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:56:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:56:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:03:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:03:37 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:03:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:15:44 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:16:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m03/10/2021 00:17:25 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:20:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:20:48 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:20:48 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:22:04 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m03/10/2021 00:24:18 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m03/10/2021 00:24:52 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:24:52 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:28:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:29:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:31:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:36:50 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:36:50 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:37:50 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:37:50 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:40:52 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:40:52 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m04/10/2021 01:18:56 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m04/10/2021 01:19:24 - [error] : create Controller  Email not found[39m
+[31m04/10/2021 01:22:21 - [error] : Error During AuthenticationTypeError: authService.regster is not a function[39m
+[31m04/10/2021 23:36:50 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m04/10/2021 23:36:50 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m04/10/2021 23:38:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m04/10/2021 23:38:58 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m04/10/2021 23:39:29 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m07/10/2021 11:41:22 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 11:47:15 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 12:55:13 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:07:04 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:08:44 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:19:07 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:23:26 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 13:33:53 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 13:34:57 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 13:35:23 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:37:55 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 16:30:22 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 16:31:23 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 16:45:12 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 17:07:00 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 17:09:43 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:12:47 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:21:42 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:23:38 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:24:20 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:25:10 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 20:10:27 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 20:15:01 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 11:37:50 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 11:39:54 - [error] : Error During AuthenticationMongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m09/10/2021 12:44:56 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 12:46:24 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 12:48:06 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m

@@ -12320,3 +12320,2077 @@
 [35m02/10/2021 20:15:27 - [debug] : User date updated successfully[39m
 [35m02/10/2021 20:15:27 - [http] : POST /reminder/update 200 96 - 29.901 ms[39m
 [35m[39m
+[35m02/10/2021 20:18:50 - [debug] : Token successfully validated[39m
+[35m02/10/2021 20:18:50 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 20:18:50 - [debug] : reminders { _id: 61586fc1a2de8dfd7807dc2d,[39m
+[35m  email: 'dipikesh.singh.91@gmail.com',[39m
+[35m  __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 61586fc1070b014f1f3f231e,[39m
+[35m       date: 2021-10-15T11:52:59.000Z,[39m
+[35m       jobId: '8100fb94',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 6158707636b2a85c44051f11,[39m
+[35m       date: 2021-10-16T19:27:59.000Z,[39m
+[35m       jobId: '78e555fc',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m02/10/2021 20:18:50 - [http] : GET /reminder/info 200 464 - 28.617 ms[39m
+[35m[39m
+[34m02/10/2021 20:20:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:20:06 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:20:08 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:20:08 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:20:23 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:20:23 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:20:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:20:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:20:58 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:20:58 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:21:04 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:21:04 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:48:53 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:48:53 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:48:59 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:48:59 - [info] : Mongoose server listening[39m
+[35m02/10/2021 20:49:41 - [debug] : Token successfully validated[39m
+[34m02/10/2021 20:49:41 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 20:49:41 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 20:49:41 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[34m02/10/2021 20:50:28 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:28 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:30 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:30 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:33 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:38 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:38 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:41 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:41 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:45 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:45 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:48 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:48 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:49 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:49 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:52 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:52 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:56 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:56 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:50:58 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:50:58 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:51:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:51:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:51:09 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:51:09 - [info] : Mongoose server listening[39m
+[34m02/10/2021 20:51:16 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:51:16 - [info] : Mongoose server listening[39m
+[35m02/10/2021 20:51:18 - [debug] : Token successfully validated[39m
+[34m02/10/2021 20:51:19 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 20:51:19 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 20:51:19 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[34m02/10/2021 20:51:40 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 20:51:40 - [info] : Mongoose server listening[39m
+[35m02/10/2021 20:51:41 - [debug] : Token successfully validated[39m
+[34m02/10/2021 20:51:41 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 20:51:41 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 20:51:41 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[34m02/10/2021 21:23:43 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:23:43 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:23:49 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:23:49 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:24:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:24:06 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:24:32 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 21:24:32 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 21:24:32 - [debug] : PAYLOAD .....{"exp":1633189247,"sub":"61586f53a2de8dfd7807dc00","iat":1633185647930,"iss":"emailReminder.com","type":"at"}....{"exp":1633193672,"sub":"61586f53a2de8dfd7807dc00","iat":1633190072624,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 21:24:32 - [debug] : update token query ....{"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 21:24:32 - [debug] : Token Expiry Time found and updated Successfully[39m
+[35m02/10/2021 21:24:32 - [debug] : jwt is ...save token expirytrue[39m
+[31m02/10/2021 21:24:32 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[35m02/10/2021 21:24:32 - [http] : GET /reminder/info 404 52 - 44.864 ms[39m
+[35m[39m
+[35m02/10/2021 21:24:43 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 21:24:43 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 21:24:43 - [debug] : PAYLOAD .....{"exp":1633189247,"sub":"61586f53a2de8dfd7807dc00","iat":1633185647930,"iss":"emailReminder.com","type":"at"}....{"exp":1633193683,"sub":"61586f53a2de8dfd7807dc00","iat":1633190083393,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 21:24:43 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m02/10/2021 21:24:43 - [debug] : Token Expiry can not be updated[39m
+[31m02/10/2021 21:24:43 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m02/10/2021 21:24:43 - [http] : GET /reminder/info 400 57 - 17.833 ms[39m
+[35m[39m
+[34m02/10/2021 21:24:54 - [info] : Login Validation Success[39m
+[35m02/10/2021 21:24:54 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 21:24:54 - [http] : POST /auth/login 200 60 - 44.665 ms[39m
+[35m[39m
+[35m02/10/2021 21:24:54 - [debug] : Token Expiry Time saved Successfully[39m
+[35m02/10/2021 21:25:07 - [debug] : Token successfully validated[39m
+[35m02/10/2021 21:25:07 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:25:07 - [debug] : reminders { __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 61586fc1070b014f1f3f231e,[39m
+[35m       date: 2021-10-15T11:52:59.000Z,[39m
+[35m       jobId: '8100fb94',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 6158707636b2a85c44051f11,[39m
+[35m       date: 2021-10-16T19:27:59.000Z,[39m
+[35m       jobId: '78e555fc',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m02/10/2021 21:25:07 - [http] : GET /reminder/info 200 393 - 36.204 ms[39m
+[35m[39m
+[34m02/10/2021 21:26:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:26:31 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:26:37 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:26:37 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:26:51 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:26:51 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:26:55 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:26:55 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:27:01 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:27:01 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:27:24 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:27:24 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:27:44 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:27:44 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:27:46 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:27:46 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:27:48 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:27:48 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:28:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:28:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:28:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:28:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:28:05 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:28:05 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:28:19 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:28:19 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:29:12 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:29:12 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:29:23 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:29:23 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:29:26 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:29:26 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:29:29 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:29:29 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:29:38 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:29:38 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:30:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:30:06 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:30:10 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:30:10 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:30:11 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:30:11 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:30:21 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:30:21 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:31:24 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:31:24 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:31:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:31:33 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:31:49 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 21:31:49 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 21:31:49 - [debug] : PAYLOAD .....{"exp":1633189247,"sub":"61586f53a2de8dfd7807dc00","iat":1633185647930,"iss":"emailReminder.com","type":"at"}....{"exp":1633194109,"sub":"61586f53a2de8dfd7807dc00","iat":1633190509440,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 21:31:49 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m02/10/2021 21:31:49 - [debug] : Token Expiry can not be updated[39m
+[31m02/10/2021 21:31:49 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m02/10/2021 21:31:49 - [http] : POST /reminder/update 400 57 - 42.420 ms[39m
+[35m[39m
+[35m02/10/2021 21:32:10 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 21:32:10 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 21:32:10 - [debug] : PAYLOAD .....{"exp":1633189247,"sub":"61586f53a2de8dfd7807dc00","iat":1633185647930,"iss":"emailReminder.com","type":"at"}....{"exp":1633194130,"sub":"61586f53a2de8dfd7807dc00","iat":1633190530512,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 21:32:10 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m02/10/2021 21:32:10 - [debug] : Token Expiry can not be updated[39m
+[31m02/10/2021 21:32:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m02/10/2021 21:32:10 - [http] : POST /reminder/update 400 57 - 32.908 ms[39m
+[35m[39m
+[35m02/10/2021 21:32:25 - [debug] : Token successfully validated[39m
+[31m02/10/2021 21:32:25 - [error] : User Update Request Validation Error ValidationError: "prevDate" is required. "id" is not allowed[39m
+[35m02/10/2021 21:32:25 - [http] : POST /reminder/update 422 84 - 53.293 ms[39m
+[35m[39m
+[34m02/10/2021 21:32:48 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:32:48 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:33:07 - [debug] : Token successfully validated[39m
+[31m02/10/2021 21:33:07 - [error] : User Update Request Validation Error ValidationError: "id" is not allowed[39m
+[35m02/10/2021 21:33:07 - [http] : POST /reminder/update 422 58 - 39.823 ms[39m
+[35m[39m
+[34m02/10/2021 21:33:55 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:33:55 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:33:58 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:33:58 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:34:05 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:34:05 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:34:05 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:34:05 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[34m02/10/2021 21:34:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:34:31 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:34:39 - [debug] : Token successfully validated[39m
+[35m02/10/2021 21:34:39 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:34:39 - [debug] : reminders { __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 61586fc1070b014f1f3f231e,[39m
+[35m       date: 2021-10-15T11:52:59.000Z,[39m
+[35m       jobId: '8100fb94',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 6158707636b2a85c44051f11,[39m
+[35m       date: 2021-10-16T19:27:59.000Z,[39m
+[35m       jobId: '78e555fc',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m02/10/2021 21:34:39 - [http] : GET /reminder/info 200 393 - 54.323 ms[39m
+[35m[39m
+[35m02/10/2021 21:35:08 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:35:09 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:35:09 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:35:09 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[34m02/10/2021 21:36:39 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:36:39 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:36:41 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:36:41 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:36:50 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:36:50 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:36:50 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:36:50 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[35m02/10/2021 21:36:50 - [debug] : jobId  78e555fc[39m
+[35m02/10/2021 21:36:50 - [debug] : User date updated successfully[39m
+[34m02/10/2021 21:36:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:36:57 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:37:00 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:37:00 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:37:00 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:37:00 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[35m02/10/2021 21:37:00 - [debug] : jobId  78e555fc[39m
+[35m02/10/2021 21:37:00 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":0,"ok":1}[39m
+[34m02/10/2021 21:37:50 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:37:50 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:37:54 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:37:54 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:37:56 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:37:56 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:38:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:38:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:38:04 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:38:04 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:38:07 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:38:07 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:38:16 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:38:16 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:38:18 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:38:18 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:38:23 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:38:23 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:38:24 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:38:24 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:38:24 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:38:24 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[35m02/10/2021 21:38:24 - [debug] : jobId  78e555fc[39m
+[35m02/10/2021 21:38:24 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":0,"ok":1}[39m
+[31m02/10/2021 21:38:24 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[35m02/10/2021 21:38:25 - [http] : POST /reminder/update 500 57 - 76.789 ms[39m
+[35m[39m
+[35m02/10/2021 21:42:18 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:42:18 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:42:18 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:42:18 - [debug] : JobId for Updating the Date "78e555fc"[39m
+[35m02/10/2021 21:42:18 - [debug] : jobId  78e555fc[39m
+[35m02/10/2021 21:42:18 - [debug] : User date updated successfully[39m
+[34m02/10/2021 21:44:13 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:44:13 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:44:15 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:44:15 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:44:20 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:44:20 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:44:23 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:44:23 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:44:27 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:44:27 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:44:44 - [info] : Registration Validation Success[39m
+[35m02/10/2021 21:44:44 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"61588574a2de8dfd7807e001"}],"nModified":0,"ok":1}[39m
+[34m02/10/2021 21:44:50 - [info] : Email has been successfully sent to dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:44:50 - [http] : POST /auth/register 201 77 - 6138.903 ms[39m
+[35m[39m
+[34m02/10/2021 21:45:04 - [info] : Confirm Registeration Validation Success[39m
+[35m02/10/2021 21:45:04 - [debug] : Users OTP matched  Success  ...Etime 1633191284   1633191304[39m
+[35m02/10/2021 21:45:05 - [debug] : Final Registration Success[39m
+[35m02/10/2021 21:45:05 - [http] : POST /auth/cnfrm-register 201 44 - 58.127 ms[39m
+[35m[39m
+[34m02/10/2021 21:45:08 - [info] : Login Validation Success[39m
+[35m02/10/2021 21:45:08 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 21:45:08 - [http] : POST /auth/login 200 60 - 23.264 ms[39m
+[35m[39m
+[35m02/10/2021 21:45:08 - [debug] : Token Expiry Time saved Successfully[39m
+[35m02/10/2021 21:45:31 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:45:31 - [info] : User Validation Success[39m
+[35m02/10/2021 21:45:31 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:45:31 - [debug] : JOB ID IS ....3dd6ce9d[39m
+[35m02/10/2021 21:45:31 - [debug] : Email is scheduled for jobId  3dd6ce9d[39m
+[35m02/10/2021 21:45:31 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 21:45:31 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"615885a3a2de8dfd7807e016"}],"nModified":0,"ok":1}[39m
+[35m02/10/2021 21:45:31 - [http] : POST /reminder/create 201 99 - 60.049 ms[39m
+[35m[39m
+[35m02/10/2021 21:45:43 - [debug] : Token successfully validated[39m
+[35m02/10/2021 21:45:43 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:45:43 - [debug] : reminders { __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 615885a38b3e72bb7c34726b,[39m
+[35m       date: 2021-10-16T19:27:59.000Z,[39m
+[35m       jobId: '3dd6ce9d',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m02/10/2021 21:45:43 - [http] : GET /reminder/info 200 228 - 8.862 ms[39m
+[35m[39m
+[35m02/10/2021 21:46:34 - [debug] : Token successfully validated[39m
+[34m02/10/2021 21:46:34 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 21:46:34 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 21:46:34 - [debug] : JobId for Updating the Date "3dd6ce9d"[39m
+[35m02/10/2021 21:46:34 - [debug] : jobId  3dd6ce9d[39m
+[35m02/10/2021 21:46:34 - [debug] : User date updated successfully[39m
+[35m02/10/2021 21:46:34 - [debug] : RescheduleJob for JOB ID ...3dd6ce9d[39m
+[35m02/10/2021 21:46:34 - [http] : POST /reminder/update 200 96 - 10.447 ms[39m
+[35m[39m
+[34m02/10/2021 21:48:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:48:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:48:44 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:48:44 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:48:47 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:48:47 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:48:50 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:48:50 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:48:52 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:48:52 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:48:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:48:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:49:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:49:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:49:23 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:49:23 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:49:25 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:49:25 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:49:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:49:37 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:49:42 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:49:42 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:49:59 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:49:59 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:50:01 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:50:01 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:50:03 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:50:03 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:51:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:51:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:51:03 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:51:03 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:51:51 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:51:51 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:51:53 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:51:53 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:51:56 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:51:56 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:52:01 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:52:01 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:52:29 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:52:29 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:52:32 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:52:32 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:52:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:52:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:52:59 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:52:59 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:53:04 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:53:04 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:53:24 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:53:24 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:53:28 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:53:28 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:53:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:53:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:54:46 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:54:46 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:55:08 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:55:08 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:55:13 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:55:13 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:55:16 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:55:16 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:55:22 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:55:22 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:55:27 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:55:27 - [info] : Mongoose server listening[39m
+[34m02/10/2021 21:56:19 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:56:19 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:57:57 - [debug] : Token successfully validated[39m
+[35m02/10/2021 21:57:57 - [http] : POST /reminder/remove 404 46 - 13.134 ms[39m
+[35m[39m
+[34m02/10/2021 21:58:41 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 21:58:41 - [info] : Mongoose server listening[39m
+[35m02/10/2021 21:58:48 - [debug] : Token successfully validated[39m
+[35m02/10/2021 21:58:48 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[31m02/10/2021 21:58:48 - [error] : UnhandledRejectionMongoError: As of 4.4, it's illegal to specify positional operator in the middle of a path.Positional projection may only be used at the end, for example: a.b.$. If the query previously used a form like a.b.$.d, remove the parts following the '$' and the results will be equivalent.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[34m02/10/2021 22:00:47 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:00:47 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:00:49 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:00:49 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:00:51 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:00:51 - [info] : Mongoose server listening[39m
+[35m02/10/2021 22:00:57 - [debug] : Token successfully validated[39m
+[35m02/10/2021 22:00:57 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:00:57 - [debug] : Schedule Status: {"_id":"615885a3a2de8dfd7807e016","job":[{"status":false}]}[39m
+[35m02/10/2021 22:00:57 - [http] : POST /reminder/remove 200 7 - 31.060 ms[39m
+[35m[39m
+[34m02/10/2021 22:01:29 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:01:29 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:02:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:02:33 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:02:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:02:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:04 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:04 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:13 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:13 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:20 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:20 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:30 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:30 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:45 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:45 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:03:47 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:03:47 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:09 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:09 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:15 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:15 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:20 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:20 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:30 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:31 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:33 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:42 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:42 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:04:45 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:04:45 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:05:39 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:05:39 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:05:55 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:05:55 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:05:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:05:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:06 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:28 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:28 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:34 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:34 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:45 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:45 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:48 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:48 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:50 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:50 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:52 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:52 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:54 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:54 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:06:58 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:06:58 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:07:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:07:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:07:07 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:07:07 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:07:10 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:07:10 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:13:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:13:31 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:13:54 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:13:54 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:14:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:14:31 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:14:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:14:33 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:15:09 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:15:09 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:15:11 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:15:11 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:15:21 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:15:21 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:15:25 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:15:25 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:15:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:15:33 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:15:45 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:15:45 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:20:22 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:20:22 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:20:26 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:20:26 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:20:47 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:20:47 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:21:05 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:21:05 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:21:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:21:06 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:21:10 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:21:10 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:23:25 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:23:25 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:23:54 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:23:54 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:23:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:23:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:24:08 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:24:08 - [info] : Mongoose server listening[39m
+[35m02/10/2021 22:24:09 - [debug] : Token successfully validated[39m
+[35m02/10/2021 22:24:09 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:24:09 - [debug] : Schedule Status: {"_id":"615885a3a2de8dfd7807e016","email":"dipikesh.singh.91@gmail.com","__v":0,"job":[{"status":false,"_id":"615885a38b3e72bb7c34726b","date":"2021-10-22T13:52:59.000Z","jobId":"3dd6ce9d","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m02/10/2021 22:24:09 - [http] : POST /reminder/remove 200 7 - 42.622 ms[39m
+[35m[39m
+[35m02/10/2021 22:25:16 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:25:16 - [info] : User Validation Success[39m
+[35m02/10/2021 22:25:16 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:25:16 - [debug] : JOB ID IS ....d2b4895c[39m
+[35m02/10/2021 22:25:16 - [debug] : Email is scheduled for jobId  d2b4895c[39m
+[35m02/10/2021 22:25:16 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 22:25:16 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61588ef4a2de8dfd7807e29d"}],"nModified":0,"ok":1}[39m
+[35m02/10/2021 22:25:16 - [http] : POST /reminder/create 201 99 - 45.765 ms[39m
+[35m[39m
+[35m02/10/2021 22:25:21 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:25:21 - [info] : User Validation Success[39m
+[35m02/10/2021 22:25:21 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:25:21 - [debug] : JOB ID IS ....3d1808fe[39m
+[35m02/10/2021 22:25:21 - [debug] : Email is scheduled for jobId  3d1808fe[39m
+[35m02/10/2021 22:25:21 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 22:25:21 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 22:25:21 - [http] : POST /reminder/create 201 99 - 23.292 ms[39m
+[35m[39m
+[35m02/10/2021 22:25:28 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:25:28 - [info] : User Validation Success[39m
+[35m02/10/2021 22:25:28 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:25:28 - [debug] : JOB ID IS ....c591e267[39m
+[35m02/10/2021 22:25:28 - [debug] : Email is scheduled for jobId  c591e267[39m
+[35m02/10/2021 22:25:28 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 22:25:28 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 22:25:28 - [http] : POST /reminder/create 201 99 - 24.527 ms[39m
+[35m[39m
+[35m02/10/2021 22:25:38 - [debug] : Token successfully validated[39m
+[35m02/10/2021 22:25:38 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:25:38 - [debug] : reminders { __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 61588ef47057fac1aee478fc,[39m
+[35m       date: 2021-10-16T19:27:59.000Z,[39m
+[35m       jobId: 'd2b4895c',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 61588ef97057fac1aee47900,[39m
+[35m       date: 2021-10-18T19:27:59.000Z,[39m
+[35m       jobId: '3d1808fe',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 61588f007057fac1aee47904,[39m
+[35m       date: 2021-10-22T19:27:59.000Z,[39m
+[35m       jobId: 'c591e267',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m02/10/2021 22:25:38 - [http] : GET /reminder/info 200 558 - 10.282 ms[39m
+[35m[39m
+[35m02/10/2021 22:25:57 - [debug] : Token successfully validated[39m
+[35m02/10/2021 22:25:57 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:25:57 - [debug] : Schedule Status: {"_id":"61588ef4a2de8dfd7807e29d","email":"dipikesh.singh.91@gmail.com","__v":0,"job":[{"status":false,"_id":"61588ef47057fac1aee478fc","date":"2021-10-16T19:27:59.000Z","jobId":"d2b4895c","name":"Meeting","description":"I have to meet Rohan at 1 pm"},{"status":false,"_id":"61588ef97057fac1aee47900","date":"2021-10-18T19:27:59.000Z","jobId":"3d1808fe","name":"Meeting","description":"I have to meet Rohan at 1 pm"},{"status":false,"_id":"61588f007057fac1aee47904","date":"2021-10-22T19:27:59.000Z","jobId":"c591e267","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m02/10/2021 22:25:57 - [http] : POST /reminder/remove 200 7 - 19.049 ms[39m
+[35m[39m
+[35m02/10/2021 22:26:18 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:26:18 - [info] : User Validation Success[39m
+[35m02/10/2021 22:26:18 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:26:18 - [debug] : JOB ID IS ....de2a47cd[39m
+[35m02/10/2021 22:26:18 - [debug] : Email is scheduled for jobId  de2a47cd[39m
+[35m02/10/2021 22:26:18 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 22:26:18 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61588f32a2de8dfd7807e2bb"}],"nModified":0,"ok":1}[39m
+[35m02/10/2021 22:26:18 - [http] : POST /reminder/create 201 99 - 29.159 ms[39m
+[35m[39m
+[34m02/10/2021 22:33:38 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:33:38 - [info] : Mongoose server listening[39m
+[34m02/10/2021 22:51:08 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:51:08 - [info] : Mongoose server listening[39m
+[35m02/10/2021 22:51:19 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 22:51:19 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 22:51:19 - [debug] : PAYLOAD .....{"exp":1633194908,"sub":"61588574a2de8dfd7807e001","iat":1633191308065,"iss":"emailReminder.com","type":"at"}....{"exp":1633198879,"sub":"61588574a2de8dfd7807e001","iat":1633195279235,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 22:51:19 - [debug] : update token query ....{"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 22:51:19 - [debug] : Token Expiry Time found and updated Successfully[39m
+[35m02/10/2021 22:51:19 - [debug] : jwt is ...save token expirytrue[39m
+[34m02/10/2021 22:51:19 - [info] : User Validation Success[39m
+[31m02/10/2021 22:51:19 - [error] : create Controller  Email not found[39m
+[35m02/10/2021 22:51:19 - [http] : POST /reminder/create 404 52 - 186.740 ms[39m
+[35m[39m
+[35m02/10/2021 22:52:00 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 22:52:00 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 22:52:00 - [debug] : PAYLOAD .....{"exp":1633194908,"sub":"61588574a2de8dfd7807e001","iat":1633191308065,"iss":"emailReminder.com","type":"at"}....{"exp":1633198920,"sub":"61588574a2de8dfd7807e001","iat":1633195320516,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 22:52:00 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m02/10/2021 22:52:00 - [debug] : Token Expiry can not be updated[39m
+[31m02/10/2021 22:52:00 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m02/10/2021 22:52:00 - [http] : POST /reminder/create 400 57 - 36.476 ms[39m
+[35m[39m
+[35m02/10/2021 22:52:35 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 22:52:35 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 22:52:35 - [debug] : PAYLOAD .....{"exp":1633194908,"sub":"61588574a2de8dfd7807e001","iat":1633191308065,"iss":"emailReminder.com","type":"at"}....{"exp":1633198955,"sub":"61588574a2de8dfd7807e001","iat":1633195355130,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 22:52:35 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m02/10/2021 22:52:35 - [debug] : Token Expiry can not be updated[39m
+[31m02/10/2021 22:52:35 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m02/10/2021 22:52:35 - [http] : POST /reminder/create 400 57 - 46.329 ms[39m
+[35m[39m
+[34m02/10/2021 22:53:03 - [info] : Login Validation Success[39m
+[35m02/10/2021 22:53:03 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 22:53:03 - [http] : POST /auth/login 200 60 - 73.653 ms[39m
+[35m[39m
+[35m02/10/2021 22:53:03 - [debug] : Token Expiry Time saved Successfully[39m
+[35m02/10/2021 22:53:28 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:53:28 - [info] : User Validation Success[39m
+[35m02/10/2021 22:53:28 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:53:28 - [debug] : JOB ID IS ....d19bbb2e[39m
+[35m02/10/2021 22:53:28 - [debug] : Email is scheduled for jobId  d19bbb2e[39m
+[35m02/10/2021 22:53:28 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 22:53:28 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 22:53:28 - [http] : POST /reminder/create 201 99 - 93.792 ms[39m
+[35m[39m
+[35m02/10/2021 22:53:34 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:53:35 - [info] : User Validation Success[39m
+[35m02/10/2021 22:53:35 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:53:35 - [debug] : JOB ID IS ....d490ed5b[39m
+[35m02/10/2021 22:53:35 - [debug] : Email is scheduled for jobId  d490ed5b[39m
+[35m02/10/2021 22:53:35 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 22:53:35 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 22:53:35 - [http] : POST /reminder/create 201 99 - 30.941 ms[39m
+[35m[39m
+[35m02/10/2021 22:54:15 - [debug] : Token successfully validated[39m
+[34m02/10/2021 22:54:15 - [info] : User Update Request Validation Success[39m
+[35m02/10/2021 22:54:15 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:54:15 - [debug] : JobId for Updating the Date "d19bbb2e"[39m
+[35m02/10/2021 22:54:15 - [debug] : jobId  d19bbb2e[39m
+[35m02/10/2021 22:54:15 - [debug] : User date updated successfully[39m
+[35m02/10/2021 22:54:15 - [debug] : RescheduleJob for JOB ID ...d19bbb2e[39m
+[35m02/10/2021 22:54:15 - [http] : POST /reminder/update 200 96 - 40.938 ms[39m
+[35m[39m
+[35m02/10/2021 22:54:45 - [debug] : Token successfully validated[39m
+[35m02/10/2021 22:54:45 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:54:45 - [debug] : Schedule Status: {"n":1,"nModified":0,"ok":1}[39m
+[34m02/10/2021 22:59:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 22:59:31 - [info] : Mongoose server listening[39m
+[35m02/10/2021 22:59:35 - [debug] : Token successfully validated[39m
+[35m02/10/2021 22:59:35 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 22:59:35 - [debug] : Schedule Status: {"n":1,"nModified":1,"ok":1}[39m
+[34m02/10/2021 23:00:20 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:00:20 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:00:32 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:00:32 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:00:39 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:00:39 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:00:41 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:00:41 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:00:47 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:00:47 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:00:55 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:00:55 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:04 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:04 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:07 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:10 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:10 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:14 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:14 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:19 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:19 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:22 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:22 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:25 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:25 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:28 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:28 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:33 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:33 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:37 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:37 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:01:39 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:01:39 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:02:16 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:02:16 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:02:19 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:02:19 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:02:25 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:02:25 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:02:28 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:02:28 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:02:34 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:02:34 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:02:37 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:02:37 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:03:02 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:03:02 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:03:07 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:03:07 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:03:12 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:03:12 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:03:38 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:03:38 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:03:45 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:03:45 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:04:20 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:04:20 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:04:23 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:04:23 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:04:30 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:04:30 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:04:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:04:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:05:05 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:05:05 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:06:54 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:06:54 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:07:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:07:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:07:04 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:07:04 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:07:17 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:07:17 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:07:26 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:07:26 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:07:48 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:07:48 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:07:56 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:07:56 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:08:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:08:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:08:05 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:08:05 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:08:09 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:08:09 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:08:22 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:08:22 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:08:27 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:08:27 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:09:22 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:09:22 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:09:28 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:09:28 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:09:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:09:31 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:09:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:09:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:09:42 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:09:42 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:09:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:09:58 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:10:10 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:10:10 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:10:58 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:10:58 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:11:09 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:11:09 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:12:03 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:12:04 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:12:18 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:12:18 - [info] : User Validation Success[39m
+[35m02/10/2021 23:12:18 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:12:18 - [debug] : JOB ID IS ....f2d31348[39m
+[35m02/10/2021 23:12:18 - [debug] : Email is scheduled for jobId  f2d31348[39m
+[35m02/10/2021 23:12:18 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:12:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:12:18 - [http] : POST /reminder/create 400 114 - 171.082 ms[39m
+[35m[39m
+[35m02/10/2021 23:12:27 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:12:27 - [info] : User Validation Success[39m
+[35m02/10/2021 23:12:27 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:12:27 - [debug] : JOB ID IS ....4f679c3e[39m
+[35m02/10/2021 23:12:27 - [debug] : Email is scheduled for jobId  4f679c3e[39m
+[35m02/10/2021 23:12:27 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:12:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:12:27 - [http] : POST /reminder/create 400 114 - 39.954 ms[39m
+[35m[39m
+[35m02/10/2021 23:12:32 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:12:32 - [info] : User Validation Success[39m
+[35m02/10/2021 23:12:32 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:12:32 - [debug] : JOB ID IS ....18fdd4d5[39m
+[35m02/10/2021 23:12:32 - [debug] : Email is scheduled for jobId  18fdd4d5[39m
+[35m02/10/2021 23:12:32 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:12:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:12:32 - [http] : POST /reminder/create 400 114 - 13.844 ms[39m
+[35m[39m
+[35m02/10/2021 23:12:40 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:12:40 - [info] : User Validation Success[39m
+[35m02/10/2021 23:12:40 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:12:40 - [debug] : JOB ID IS ....e6d3c4ae[39m
+[35m02/10/2021 23:12:40 - [debug] : Email is scheduled for jobId  e6d3c4ae[39m
+[35m02/10/2021 23:12:40 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:12:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:12:40 - [http] : POST /reminder/create 400 114 - 27.711 ms[39m
+[35m[39m
+[35m02/10/2021 23:12:49 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:12:49 - [info] : User Validation Success[39m
+[35m02/10/2021 23:12:49 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:12:49 - [debug] : JOB ID IS ....ec54052f[39m
+[35m02/10/2021 23:12:49 - [debug] : Email is scheduled for jobId  ec54052f[39m
+[35m02/10/2021 23:12:49 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:12:49 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:12:49 - [http] : POST /reminder/create 201 99 - 60.555 ms[39m
+[35m[39m
+[35m02/10/2021 23:13:13 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:13:13 - [info] : User Validation Success[39m
+[35m02/10/2021 23:13:13 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:13:13 - [debug] : JOB ID IS ....03df4a4b[39m
+[35m02/10/2021 23:13:13 - [debug] : Email is scheduled for jobId  03df4a4b[39m
+[35m02/10/2021 23:13:13 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:13:13 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:13:13 - [http] : POST /reminder/create 201 99 - 30.250 ms[39m
+[35m[39m
+[35m02/10/2021 23:13:19 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m02/10/2021 23:13:19 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 23:13:19 - [debug] : PAYLOAD .....{"exp":1633194908,"sub":"61588574a2de8dfd7807e001","iat":1633191308065,"iss":"emailReminder.com","type":"at"}....{"exp":1633200199,"sub":"61588574a2de8dfd7807e001","iat":1633196599165,"iss":"emailReminder.com","type":"at"}[39m
+[35m02/10/2021 23:13:19 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m02/10/2021 23:13:19 - [debug] : Token Expiry can not be updated[39m
+[31m02/10/2021 23:13:19 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m02/10/2021 23:13:19 - [http] : GET /reminder/info 400 57 - 55.650 ms[39m
+[35m[39m
+[35m02/10/2021 23:13:36 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:13:36 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:13:36 - [debug] : reminders { __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 61588f327057fac1aee4790c,[39m
+[35m       date: 2021-11-22T13:52:59.000Z,[39m
+[35m       jobId: 'de2a47cd',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 61589597d1bbb2272a7e9592,[39m
+[35m       date: 2021-10-24T19:27:59.000Z,[39m
+[35m       jobId: 'd490ed5b',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 61589a19b59acd50c7898a6e,[39m
+[35m       date: 2021-10-21T13:27:59.000Z,[39m
+[35m       jobId: 'ec54052f',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 61589a31b59acd50c7898a72,[39m
+[35m       date: 2021-10-21T07:27:59.000Z,[39m
+[35m       jobId: '03df4a4b',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m02/10/2021 23:13:36 - [http] : GET /reminder/info 200 723 - 27.142 ms[39m
+[35m[39m
+[35m02/10/2021 23:14:29 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:14:29 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[31m02/10/2021 23:14:29 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[34m02/10/2021 23:16:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:16:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:16:40 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:16:41 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:16:42 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:16:42 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[31m02/10/2021 23:16:42 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[34m02/10/2021 23:17:12 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:17:12 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:17:15 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:17:15 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:17:15 - [debug] : Schedule Status: {"_id":"61588f32a2de8dfd7807e2bb","job":[{"status":false,"_id":"61589a31b59acd50c7898a72","date":"2021-10-21T07:27:59.000Z","jobId":"03df4a4b","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m02/10/2021 23:17:15 - [debug] : cancelScheduledJob for JOB ID 03df4a4b[39m
+[35m02/10/2021 23:17:15 - [debug] : Schedule Deleted : {"n":1,"nModified":1,"ok":1}[39m
+[34m02/10/2021 23:19:03 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:19:03 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:19:40 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:19:40 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:19:40 - [debug] : Schedule Status: {"_id":"61588f32a2de8dfd7807e2bb","job":[{"status":false,"_id":"61589a19b59acd50c7898a6e","date":"2021-10-21T13:27:59.000Z","jobId":"ec54052f","name":"Meeting","description":"I have to meet Rohan at 1 pm"}]}[39m
+[35m02/10/2021 23:19:40 - [debug] : cancelScheduledJob for JOB ID ec54052f[39m
+[35m02/10/2021 23:19:40 - [debug] : Schedule Deleted : {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:19:40 - [http] : POST /reminder/remove 200 61 - 135.757 ms[39m
+[35m[39m
+[34m02/10/2021 23:25:12 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:25:12 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:25:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:25:32 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:26:07 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:26:07 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[31m02/10/2021 23:26:07 - [error] : UnhandledRejectionMongoError: As of 4.4, it's illegal to specify positional operator in the middle of a path.Positional projection may only be used at the end, for example: a.b.$. If the query previously used a form like a.b.$.d, remove the parts following the '$' and the results will be equivalent.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[34m02/10/2021 23:26:32 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:26:32 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:26:36 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:26:36 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:26:40 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:26:40 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:26:44 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:26:44 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:26:45 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:26:45 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[31m02/10/2021 23:26:45 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[34m02/10/2021 23:27:16 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:27:16 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:27:22 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:27:22 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:27:38 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:27:38 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:27:40 - [debug] : Token successfully validated[39m
+[35m02/10/2021 23:27:40 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:27:40 - [debug] : Schedule Status: {"_id":"61588f32a2de8dfd7807e2bb","job":[{"status":false,"jobId":"d490ed5b"}]}[39m
+[35m02/10/2021 23:27:40 - [debug] : cancelScheduledJob for JOB ID d490ed5b[39m
+[35m02/10/2021 23:27:40 - [debug] : Schedule Deleted : {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:27:40 - [http] : POST /reminder/remove 200 61 - 138.200 ms[39m
+[35m[39m
+[35m02/10/2021 23:28:09 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:28:09 - [info] : User Validation Success[39m
+[35m02/10/2021 23:28:09 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:28:09 - [debug] : JOB ID IS ....048c3113[39m
+[35m02/10/2021 23:28:09 - [debug] : Email is scheduled for jobId  048c3113[39m
+[35m02/10/2021 23:28:09 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:28:09 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:28:09 - [http] : POST /reminder/create 201 99 - 153.285 ms[39m
+[35m[39m
+[35m02/10/2021 23:28:11 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:28:11 - [info] : User Validation Success[39m
+[35m02/10/2021 23:28:11 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:28:11 - [debug] : JOB ID IS ....7ac68c4d[39m
+[35m02/10/2021 23:28:11 - [debug] : Email is scheduled for jobId  7ac68c4d[39m
+[35m02/10/2021 23:28:11 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:28:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:28:11 - [http] : POST /reminder/create 400 114 - 36.734 ms[39m
+[35m[39m
+[35m02/10/2021 23:28:17 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:28:17 - [info] : User Validation Success[39m
+[35m02/10/2021 23:28:17 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:28:17 - [debug] : JOB ID IS ....39be4e0b[39m
+[35m02/10/2021 23:28:17 - [debug] : Email is scheduled for jobId  39be4e0b[39m
+[35m02/10/2021 23:28:17 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:28:17 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:28:17 - [http] : POST /reminder/create 201 99 - 34.683 ms[39m
+[35m[39m
+[35m02/10/2021 23:28:23 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:28:23 - [info] : User Validation Success[39m
+[35m02/10/2021 23:28:23 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:28:23 - [debug] : JOB ID IS ....36d06f82[39m
+[35m02/10/2021 23:28:23 - [debug] : Email is scheduled for jobId  36d06f82[39m
+[35m02/10/2021 23:28:23 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:28:23 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:28:23 - [http] : POST /reminder/create 400 114 - 23.856 ms[39m
+[35m[39m
+[34m02/10/2021 23:33:00 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:00 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:07 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:07 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:17 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:17 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:20 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:20 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:27 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:27 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:31 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:31 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:38 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:38 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:46 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:46 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:33:54 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:33:54 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:34:14 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:34:14 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:34:21 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:34:21 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:34:43 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:34:43 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:34:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:34:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:35:32 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:35:32 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:35:39 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:35:39 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:35:43 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:35:44 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:35:52 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:35:52 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:35:59 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:35:59 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:36:55 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:36:55 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:36:57 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:36:57 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:37:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:37:06 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:37:18 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:37:18 - [info] : User Validation Success[39m
+[35m02/10/2021 23:37:18 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:37:18 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:37:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:37:18 - [http] : POST /reminder/create 400 114 - 103.373 ms[39m
+[35m[39m
+[34m02/10/2021 23:37:53 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:37:53 - [info] : Mongoose server listening[39m
+[34m02/10/2021 23:38:06 - [info] : Server is runnin on port 6000[39m
+[34m02/10/2021 23:38:06 - [info] : Mongoose server listening[39m
+[35m02/10/2021 23:39:25 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:39:25 - [info] : User Validation Success[39m
+[35m02/10/2021 23:39:25 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:39:25 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:39:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:39:25 - [http] : POST /reminder/create 400 114 - 164.353 ms[39m
+[35m[39m
+[34m02/10/2021 23:41:07 - [info] : Registration Validation Success[39m
+[35m02/10/2021 23:41:07 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m02/10/2021 23:41:14 - [info] : Email has been successfully sent to dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:41:14 - [http] : POST /auth/register 201 77 - 6932.836 ms[39m
+[35m[39m
+[34m02/10/2021 23:42:22 - [info] : Confirm Registeration Validation Success[39m
+[35m02/10/2021 23:42:22 - [debug] : Users OTP matched  Success  ...Etime 1633198267   1633198342[39m
+[35m02/10/2021 23:42:22 - [debug] : Final Registration Success[39m
+[35m02/10/2021 23:42:22 - [http] : POST /auth/cnfrm-register 201 44 - 73.798 ms[39m
+[35m[39m
+[34m02/10/2021 23:42:27 - [info] : Login Validation Success[39m
+[35m02/10/2021 23:42:27 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 23:42:27 - [http] : POST /auth/login 200 60 - 90.271 ms[39m
+[35m[39m
+[35m02/10/2021 23:42:27 - [debug] : Token Expiry Time saved Successfully[39m
+[35m02/10/2021 23:42:48 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:42:48 - [info] : User Validation Success[39m
+[35m02/10/2021 23:42:48 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:42:48 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:42:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:42:48 - [http] : POST /reminder/create 400 114 - 24.531 ms[39m
+[35m[39m
+[35m02/10/2021 23:43:37 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:43:37 - [info] : User Validation Success[39m
+[35m02/10/2021 23:43:37 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:43:37 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:43:37 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:43:37 - [http] : POST /reminder/create 400 114 - 22.464 ms[39m
+[35m[39m
+[35m02/10/2021 23:43:54 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:43:54 - [info] : User Validation Success[39m
+[35m02/10/2021 23:43:54 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:43:54 - [debug] : User with around same date exist { _id: 61588f32a2de8dfd7807e2bb }[39m
+[31m02/10/2021 23:43:54 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:43:54 - [http] : POST /reminder/create 400 114 - 24.035 ms[39m
+[35m[39m
+[34m02/10/2021 23:52:18 - [info] : Registration Validation Success[39m
+[35m02/10/2021 23:52:18 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"6158a35aa2de8dfd7807e708"}],"nModified":0,"ok":1}[39m
+[34m02/10/2021 23:52:23 - [info] : Email has been successfully sent to dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:52:23 - [http] : POST /auth/register 201 77 - 5574.142 ms[39m
+[35m[39m
+[34m02/10/2021 23:52:41 - [info] : Confirm Registeration Validation Success[39m
+[35m02/10/2021 23:52:41 - [debug] : Users OTP matched  Success  ...Etime 1633198938   1633198961[39m
+[35m02/10/2021 23:52:41 - [debug] : Final Registration Success[39m
+[35m02/10/2021 23:52:41 - [http] : POST /auth/cnfrm-register 201 44 - 58.247 ms[39m
+[35m[39m
+[34m02/10/2021 23:52:44 - [info] : Login Validation Success[39m
+[35m02/10/2021 23:52:44 - [debug] : Access token successfully signed [39m
+[35m02/10/2021 23:52:44 - [http] : POST /auth/login 200 60 - 78.110 ms[39m
+[35m[39m
+[35m02/10/2021 23:52:44 - [debug] : Token Expiry Time saved Successfully[39m
+[35m02/10/2021 23:53:11 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:11 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:11 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:11 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:11 - [debug] : JOB ID IS ....ae6c33f6[39m
+[35m02/10/2021 23:53:11 - [debug] : Email is scheduled for jobId  ae6c33f6[39m
+[35m02/10/2021 23:53:11 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"6158a38fa2de8dfd7807e71d"}],"nModified":0,"ok":1}[39m
+[35m02/10/2021 23:53:11 - [http] : POST /reminder/create 201 99 - 103.748 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:19 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:19 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:19 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:19 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:19 - [debug] : JOB ID IS ....8930fcbd[39m
+[35m02/10/2021 23:53:19 - [debug] : Email is scheduled for jobId  8930fcbd[39m
+[35m02/10/2021 23:53:19 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:53:19 - [http] : POST /reminder/create 201 99 - 33.842 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:24 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:24 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:24 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:24 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:24 - [debug] : JOB ID IS ....75f23e12[39m
+[35m02/10/2021 23:53:24 - [debug] : Email is scheduled for jobId  75f23e12[39m
+[35m02/10/2021 23:53:24 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:53:24 - [http] : POST /reminder/create 201 99 - 29.118 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:29 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:29 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:29 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:29 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:29 - [debug] : JOB ID IS ....316545a2[39m
+[35m02/10/2021 23:53:29 - [debug] : Email is scheduled for jobId  316545a2[39m
+[35m02/10/2021 23:53:29 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:53:29 - [http] : POST /reminder/create 201 99 - 26.531 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:35 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:35 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:35 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:35 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:35 - [debug] : JOB ID IS ....302f6f8b[39m
+[35m02/10/2021 23:53:35 - [debug] : Email is scheduled for jobId  302f6f8b[39m
+[35m02/10/2021 23:53:35 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:53:35 - [http] : POST /reminder/create 201 99 - 31.454 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:43 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:43 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:43 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:43 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:53:43 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:53:43 - [http] : POST /reminder/create 400 114 - 24.364 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:48 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:48 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:48 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:48 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:48 - [debug] : JOB ID IS ....ff7bfc69[39m
+[35m02/10/2021 23:53:48 - [debug] : Email is scheduled for jobId  ff7bfc69[39m
+[35m02/10/2021 23:53:48 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:53:48 - [http] : POST /reminder/create 201 99 - 13.265 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:53 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:53 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:53 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:53 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:53:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:53:53 - [http] : POST /reminder/create 400 114 - 22.825 ms[39m
+[35m[39m
+[35m02/10/2021 23:53:58 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:53:58 - [info] : User Validation Success[39m
+[35m02/10/2021 23:53:58 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:53:58 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:53:58 - [debug] : JOB ID IS ....3d235d7f[39m
+[35m02/10/2021 23:53:58 - [debug] : Email is scheduled for jobId  3d235d7f[39m
+[35m02/10/2021 23:53:58 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:53:58 - [http] : POST /reminder/create 201 99 - 30.588 ms[39m
+[35m[39m
+[35m02/10/2021 23:54:16 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:54:16 - [info] : User Validation Success[39m
+[35m02/10/2021 23:54:16 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:54:16 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:54:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:54:16 - [http] : POST /reminder/create 400 114 - 23.726 ms[39m
+[35m[39m
+[35m02/10/2021 23:54:27 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:54:27 - [info] : User Validation Success[39m
+[35m02/10/2021 23:54:27 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:54:27 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:54:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:54:27 - [http] : POST /reminder/create 400 114 - 18.522 ms[39m
+[35m[39m
+[35m02/10/2021 23:54:31 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:54:31 - [info] : User Validation Success[39m
+[35m02/10/2021 23:54:31 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:54:31 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:54:31 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:54:31 - [http] : POST /reminder/create 400 114 - 21.145 ms[39m
+[35m[39m
+[35m02/10/2021 23:54:36 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:54:36 - [info] : User Validation Success[39m
+[35m02/10/2021 23:54:36 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:54:36 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:54:36 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:54:36 - [http] : POST /reminder/create 400 114 - 14.253 ms[39m
+[35m[39m
+[35m02/10/2021 23:54:41 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:54:41 - [info] : User Validation Success[39m
+[35m02/10/2021 23:54:41 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:54:41 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:54:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:54:41 - [http] : POST /reminder/create 400 114 - 8.427 ms[39m
+[35m[39m
+[35m02/10/2021 23:54:52 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:54:52 - [info] : User Validation Success[39m
+[35m02/10/2021 23:54:52 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:54:52 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:54:52 - [debug] : JOB ID IS ....8879075a[39m
+[35m02/10/2021 23:54:52 - [debug] : Email is scheduled for jobId  8879075a[39m
+[35m02/10/2021 23:54:52 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:54:52 - [http] : POST /reminder/create 201 99 - 26.189 ms[39m
+[35m[39m
+[35m02/10/2021 23:55:52 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:55:52 - [info] : User Validation Success[39m
+[35m02/10/2021 23:55:52 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:55:52 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:55:52 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:55:52 - [http] : POST /reminder/create 400 114 - 23.817 ms[39m
+[35m[39m
+[35m02/10/2021 23:56:17 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:56:17 - [info] : User Validation Success[39m
+[35m02/10/2021 23:56:17 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:56:17 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:56:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:56:17 - [http] : POST /reminder/create 400 114 - 21.412 ms[39m
+[35m[39m
+[35m02/10/2021 23:56:21 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:56:21 - [info] : User Validation Success[39m
+[35m02/10/2021 23:56:21 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:56:21 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m02/10/2021 23:56:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m02/10/2021 23:56:21 - [http] : POST /reminder/create 400 114 - 10.617 ms[39m
+[35m[39m
+[35m02/10/2021 23:56:27 - [debug] : Token successfully validated[39m
+[34m02/10/2021 23:56:27 - [info] : User Validation Success[39m
+[35m02/10/2021 23:56:27 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m02/10/2021 23:56:27 - [debug] : User with around same date exist null[39m
+[35m02/10/2021 23:56:27 - [debug] : JOB ID IS ....3b485196[39m
+[35m02/10/2021 23:56:27 - [debug] : Email is scheduled for jobId  3b485196[39m
+[35m02/10/2021 23:56:27 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m02/10/2021 23:56:27 - [http] : POST /reminder/create 201 99 - 27.372 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:09 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:09 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:09 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:09 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m03/10/2021 00:03:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:03:09 - [http] : POST /reminder/create 400 114 - 19.884 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:14 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:14 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:14 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:14 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:03:14 - [debug] : JOB ID IS ....8bf6c240[39m
+[35m03/10/2021 00:03:14 - [debug] : Email is scheduled for jobId  8bf6c240[39m
+[35m03/10/2021 00:03:14 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:03:14 - [http] : POST /reminder/create 201 99 - 26.156 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:20 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:20 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:20 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:20 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:03:20 - [debug] : JOB ID IS ....5021ee6b[39m
+[35m03/10/2021 00:03:20 - [debug] : Email is scheduled for jobId  5021ee6b[39m
+[35m03/10/2021 00:03:20 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:03:20 - [http] : POST /reminder/create 201 99 - 10.805 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:26 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:26 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:26 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:26 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:03:26 - [debug] : JOB ID IS ....1b2f3d67[39m
+[35m03/10/2021 00:03:26 - [debug] : Email is scheduled for jobId  1b2f3d67[39m
+[35m03/10/2021 00:03:26 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:03:26 - [http] : POST /reminder/create 201 99 - 29.750 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:31 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:31 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:31 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:31 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:03:31 - [debug] : JOB ID IS ....0236c8ba[39m
+[35m03/10/2021 00:03:31 - [debug] : Email is scheduled for jobId  0236c8ba[39m
+[35m03/10/2021 00:03:31 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:03:31 - [http] : POST /reminder/create 201 99 - 14.274 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:37 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:37 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:37 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:37 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m03/10/2021 00:03:37 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:03:37 - [http] : POST /reminder/create 400 114 - 20.356 ms[39m
+[35m[39m
+[35m03/10/2021 00:03:48 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:03:48 - [info] : User Validation Success[39m
+[35m03/10/2021 00:03:48 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:03:48 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m03/10/2021 00:03:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:03:48 - [http] : POST /reminder/create 400 114 - 20.365 ms[39m
+[35m[39m
+[34m03/10/2021 00:08:05 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:05 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:07 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:07 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:13 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:13 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:20 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:20 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:24 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:24 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:29 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:29 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:41 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:41 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:08:44 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:08:44 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:00 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:00 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:10 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:10 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:15 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:15 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:21 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:21 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:27 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:27 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:31 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:31 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:35 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:35 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:09:58 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:09:58 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:10:06 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:10:06 - [info] : Mongoose server listening[39m
+[35m03/10/2021 00:15:44 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:15:44 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:15:44 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:15:44 - [debug] : JobId for Updating the Date "0236c8ba"[39m
+[35m03/10/2021 00:15:44 - [debug] : jobId  0236c8ba[39m
+[35m03/10/2021 00:15:44 - [debug] : User date updated successfully[39m
+[34m03/10/2021 00:16:31 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:16:31 - [info] : Mongoose server listening[39m
+[35m03/10/2021 00:16:32 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:16:32 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:16:32 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:16:32 - [debug] : JobId for Updating the Date "0236c8ba"[39m
+[35m03/10/2021 00:16:32 - [debug] : jobId  0236c8ba[39m
+[35m03/10/2021 00:16:32 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":0,"ok":1}[39m
+[31m03/10/2021 00:16:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[35m03/10/2021 00:16:32 - [http] : POST /reminder/update 500 57 - 112.444 ms[39m
+[35m[39m
+[35m03/10/2021 00:17:25 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:17:25 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:17:25 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:17:25 - [debug] : JobId for Updating the Date "0236c8ba"[39m
+[35m03/10/2021 00:17:25 - [debug] : jobId  0236c8ba[39m
+[35m03/10/2021 00:17:25 - [debug] : User date updated successfully[39m
+[34m03/10/2021 00:18:19 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:19 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:18:25 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:25 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:18:36 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:36 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:18:39 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:39 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:18:47 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:47 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:18:53 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:53 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:18:58 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:18:58 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:19:20 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:19:20 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:19:59 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:19:59 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:20:06 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:20:06 - [info] : Mongoose server listening[39m
+[35m03/10/2021 00:20:10 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:20:10 - [info] : User Validation Success[39m
+[35m03/10/2021 00:20:11 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:20:11 - [debug] : User with around same date exist { _id: 6158a38fa2de8dfd7807e71d }[39m
+[31m03/10/2021 00:20:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:20:11 - [http] : POST /reminder/create 400 114 - 110.313 ms[39m
+[35m[39m
+[35m03/10/2021 00:20:48 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:20:48 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:20:48 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:20:48 - [debug] : JobId for Updating the Date "0236c8ba"[39m
+[35m03/10/2021 00:20:48 - [debug] : jobId  0236c8ba[39m
+[35m03/10/2021 00:20:48 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:20:48 - [debug] : RescheduleJob for JOB ID ...0236c8ba[39m
+[31m03/10/2021 00:20:48 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:20:48 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[35m03/10/2021 00:20:48 - [http] : POST /reminder/update 500 58 - 86.449 ms[39m
+[35m[39m
+[35m03/10/2021 00:22:04 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:22:04 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:22:04 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:22:04 - [debug] : JobId for Updating the Date "1b2f3d67"[39m
+[35m03/10/2021 00:22:04 - [debug] : jobId  1b2f3d67[39m
+[35m03/10/2021 00:22:04 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":0,"ok":1}[39m
+[31m03/10/2021 00:22:04 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[35m03/10/2021 00:22:04 - [http] : POST /reminder/update 500 57 - 34.699 ms[39m
+[35m[39m
+[34m03/10/2021 00:24:02 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:24:02 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:24:05 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:24:05 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:24:07 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:24:08 - [info] : Mongoose server listening[39m
+[34m03/10/2021 00:24:13 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:24:13 - [info] : Mongoose server listening[39m
+[35m03/10/2021 00:24:18 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:24:18 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:24:18 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:24:18 - [debug] : JobId for Updating the Date "1b2f3d67"[39m
+[35m03/10/2021 00:24:18 - [debug] : jobId  1b2f3d67[39m
+[35m03/10/2021 00:24:18 - [debug] : Date can not updated, Something went wrong{"n":1,"nModified":0,"ok":1}[39m
+[31m03/10/2021 00:24:18 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[35m03/10/2021 00:24:18 - [http] : POST /reminder/update 500 57 - 150.876 ms[39m
+[35m[39m
+[35m03/10/2021 00:24:52 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:24:52 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:24:52 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:24:52 - [debug] : JobId for Updating the Date "5021ee6b"[39m
+[35m03/10/2021 00:24:52 - [debug] : jobId  5021ee6b[39m
+[35m03/10/2021 00:24:52 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:24:52 - [debug] : RescheduleJob for JOB ID ...5021ee6b[39m
+[31m03/10/2021 00:24:52 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:24:52 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[35m03/10/2021 00:24:52 - [http] : POST /reminder/update 500 58 - 50.024 ms[39m
+[35m[39m
+[34m03/10/2021 00:27:32 - [info] : Registration Validation Success[39m
+[35m03/10/2021 00:27:32 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"6158ab9ca2de8dfd7807e96d"}],"nModified":0,"ok":1}[39m
+[34m03/10/2021 00:27:41 - [info] : Email has been successfully sent to dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:27:41 - [http] : POST /auth/register 201 77 - 9452.198 ms[39m
+[35m[39m
+[34m03/10/2021 00:27:55 - [info] : Confirm Registeration Validation Success[39m
+[35m03/10/2021 00:27:55 - [debug] : Users OTP matched  Success  ...Etime 1633201052   1633201075[39m
+[35m03/10/2021 00:27:55 - [debug] : Final Registration Success[39m
+[35m03/10/2021 00:27:55 - [http] : POST /auth/cnfrm-register 201 44 - 69.009 ms[39m
+[35m[39m
+[34m03/10/2021 00:27:59 - [info] : Login Validation Success[39m
+[35m03/10/2021 00:27:59 - [debug] : Access token successfully signed [39m
+[35m03/10/2021 00:27:59 - [http] : POST /auth/login 200 60 - 80.390 ms[39m
+[35m[39m
+[35m03/10/2021 00:27:59 - [debug] : Token Expiry Time saved Successfully[39m
+[35m03/10/2021 00:28:25 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:28:25 - [info] : User Validation Success[39m
+[35m03/10/2021 00:28:25 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:28:25 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:28:25 - [debug] : JOB ID IS ....675ddddd[39m
+[35m03/10/2021 00:28:25 - [debug] : Email is scheduled for jobId  675ddddd[39m
+[35m03/10/2021 00:28:25 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"6158abd1a2de8dfd7807e984"}],"nModified":0,"ok":1}[39m
+[35m03/10/2021 00:28:25 - [http] : POST /reminder/create 201 99 - 104.573 ms[39m
+[35m[39m
+[35m03/10/2021 00:28:33 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:28:33 - [info] : User Validation Success[39m
+[35m03/10/2021 00:28:33 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:28:33 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:28:33 - [debug] : JOB ID IS ....6951a392[39m
+[35m03/10/2021 00:28:33 - [debug] : Email is scheduled for jobId  6951a392[39m
+[35m03/10/2021 00:28:33 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:28:33 - [http] : POST /reminder/create 201 99 - 36.989 ms[39m
+[35m[39m
+[35m03/10/2021 00:28:38 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:28:38 - [info] : User Validation Success[39m
+[35m03/10/2021 00:28:38 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:28:38 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:28:38 - [debug] : JOB ID IS ....968bdd97[39m
+[35m03/10/2021 00:28:38 - [debug] : Email is scheduled for jobId  968bdd97[39m
+[35m03/10/2021 00:28:38 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:28:38 - [http] : POST /reminder/create 201 99 - 34.206 ms[39m
+[35m[39m
+[35m03/10/2021 00:28:45 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:28:45 - [info] : User Validation Success[39m
+[35m03/10/2021 00:28:45 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:28:45 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:28:45 - [debug] : JOB ID IS ....c5d84d19[39m
+[35m03/10/2021 00:28:45 - [debug] : Email is scheduled for jobId  c5d84d19[39m
+[35m03/10/2021 00:28:45 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:28:45 - [http] : POST /reminder/create 201 99 - 29.953 ms[39m
+[35m[39m
+[35m03/10/2021 00:28:51 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:28:51 - [info] : User Validation Success[39m
+[35m03/10/2021 00:28:51 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:28:51 - [debug] : User with around same date exist { _id: 6158abd1a2de8dfd7807e984 }[39m
+[31m03/10/2021 00:28:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:28:51 - [http] : POST /reminder/create 400 114 - 30.052 ms[39m
+[35m[39m
+[35m03/10/2021 00:29:03 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:29:03 - [info] : User Validation Success[39m
+[35m03/10/2021 00:29:03 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:29:03 - [debug] : User with around same date exist { _id: 6158abd1a2de8dfd7807e984 }[39m
+[31m03/10/2021 00:29:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:29:03 - [http] : POST /reminder/create 400 114 - 26.554 ms[39m
+[35m[39m
+[35m03/10/2021 00:30:00 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:30:00 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:30:00 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:30:00 - [debug] : JobId for Updating the Date "c5d84d19"[39m
+[35m03/10/2021 00:30:00 - [debug] : jobId  c5d84d19[39m
+[35m03/10/2021 00:30:00 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:30:00 - [debug] : RescheduleJob for JOB ID ...c5d84d19[39m
+[35m03/10/2021 00:30:00 - [http] : POST /reminder/update 200 96 - 35.458 ms[39m
+[35m[39m
+[35m03/10/2021 00:30:13 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:30:13 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:30:13 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:30:13 - [debug] : JobId for Updating the Date "c5d84d19"[39m
+[35m03/10/2021 00:30:13 - [debug] : jobId  c5d84d19[39m
+[35m03/10/2021 00:30:14 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:30:14 - [debug] : RescheduleJob for JOB ID ...c5d84d19[39m
+[35m03/10/2021 00:30:14 - [http] : POST /reminder/update 200 96 - 28.301 ms[39m
+[35m[39m
+[35m03/10/2021 00:31:06 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:31:06 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:31:06 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:31:06 - [debug] : JobId for Updating the Date "968bdd97"[39m
+[35m03/10/2021 00:31:06 - [debug] : jobId  968bdd97[39m
+[35m03/10/2021 00:31:06 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:31:06 - [debug] : RescheduleJob for JOB ID ...968bdd97[39m
+[35m03/10/2021 00:31:06 - [http] : POST /reminder/update 200 96 - 34.015 ms[39m
+[35m[39m
+[35m03/10/2021 00:31:20 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:31:20 - [info] : User Validation Success[39m
+[35m03/10/2021 00:31:20 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:31:20 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:31:20 - [debug] : JOB ID IS ....602d8090[39m
+[35m03/10/2021 00:31:20 - [debug] : Email is scheduled for jobId  602d8090[39m
+[35m03/10/2021 00:31:20 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m03/10/2021 00:31:20 - [http] : POST /reminder/create 201 99 - 32.079 ms[39m
+[35m[39m
+[35m03/10/2021 00:31:28 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:31:28 - [info] : User Validation Success[39m
+[35m03/10/2021 00:31:28 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:31:28 - [debug] : User with around same date exist { _id: 6158abd1a2de8dfd7807e984 }[39m
+[31m03/10/2021 00:31:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m03/10/2021 00:31:28 - [http] : POST /reminder/create 400 114 - 22.509 ms[39m
+[35m[39m
+[34m03/10/2021 00:36:08 - [info] : Server is runnin on port 6000[39m
+[34m03/10/2021 00:36:08 - [info] : Mongoose server listening[39m
+[35m03/10/2021 00:36:50 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:36:50 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:36:50 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:36:50 - [debug] : JobId for Updating the Date "968bdd97"[39m
+[35m03/10/2021 00:36:50 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:36:50 - [debug] : jobId  968bdd97[39m
+[35m03/10/2021 00:36:50 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:36:50 - [debug] : RescheduleJob for JOB ID ...968bdd97[39m
+[31m03/10/2021 00:36:50 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:36:50 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[35m03/10/2021 00:36:50 - [http] : POST /reminder/update 500 58 - 186.059 ms[39m
+[35m[39m
+[35m03/10/2021 00:37:50 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:37:50 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:37:50 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:37:50 - [debug] : JobId for Updating the Date "6951a392"[39m
+[35m03/10/2021 00:37:50 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:37:50 - [debug] : jobId  6951a392[39m
+[35m03/10/2021 00:37:50 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:37:50 - [debug] : RescheduleJob for JOB ID ...6951a392[39m
+[31m03/10/2021 00:37:50 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:37:50 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[35m03/10/2021 00:37:50 - [http] : POST /reminder/update 500 58 - 49.336 ms[39m
+[35m[39m
+[35m03/10/2021 00:40:52 - [debug] : Token successfully validated[39m
+[34m03/10/2021 00:40:52 - [info] : User Update Request Validation Success[39m
+[35m03/10/2021 00:40:52 - [debug] : email found dipikesh.singh.91@gmail.com[39m
+[35m03/10/2021 00:40:52 - [debug] : JobId for Updating the Date "675ddddd"[39m
+[35m03/10/2021 00:40:52 - [debug] : User with around same date exist null[39m
+[35m03/10/2021 00:40:52 - [debug] : jobId  675ddddd[39m
+[35m03/10/2021 00:40:52 - [debug] : User date updated successfully[39m
+[35m03/10/2021 00:40:52 - [debug] : RescheduleJob for JOB ID ...675ddddd[39m
+[31m03/10/2021 00:40:52 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:40:52 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[35m03/10/2021 00:40:52 - [http] : POST /reminder/update 500 58 - 39.461 ms[39m
+[35m[39m
+[34m04/10/2021 01:17:42 - [info] : Server is runnin on port 6000[39m
+[34m04/10/2021 01:18:12 - [info] : Mongoose server listening[39m
+[34m04/10/2021 01:18:32 - [info] : Registration Validation Success[39m
+[35m04/10/2021 01:18:33 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"615a091127409663453caa95"}],"nModified":0,"ok":1}[39m
+[34m04/10/2021 01:18:39 - [info] : Email has been successfully sent to dipikesh.91@gmail.com[39m
+[35m04/10/2021 01:18:39 - [http] : POST /auth/register 201 71 - 6217.538 ms[39m
+[35m[39m
+[34m04/10/2021 01:18:55 - [info] : Registration Validation Success[39m
+[35m04/10/2021 01:18:55 - [debug] : Register User Successfully {"n":1,"nModified":1,"ok":1}[39m
+[34m04/10/2021 01:18:56 - [info] : Registration Validation Success[39m
+[31m04/10/2021 01:18:56 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[35m04/10/2021 01:18:56 - [http] : POST /auth/register 400 81 - 22.332 ms[39m
+[35m[39m
+[34m04/10/2021 01:18:59 - [info] : Email has been successfully sent to dipikesh.91@gmail.com[39m
+[35m04/10/2021 01:18:59 - [http] : POST /auth/register 201 71 - 4745.674 ms[39m
+[35m[39m
+[35m04/10/2021 01:19:24 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m04/10/2021 01:19:24 - [debug] : Access token successfully signed [39m
+[35m04/10/2021 01:19:24 - [debug] : PAYLOAD .....{"exp":1633204679,"sub":"6158ab9ca2de8dfd7807e96d","iat":1633201079524,"iss":"emailReminder.com","type":"at"}....{"exp":1633294164,"sub":"6158ab9ca2de8dfd7807e96d","iat":1633290564639,"iss":"emailReminder.com","type":"at"}[39m
+[35m04/10/2021 01:19:24 - [debug] : update token query ....{"n":1,"nModified":1,"ok":1}[39m
+[35m04/10/2021 01:19:24 - [debug] : Token Expiry Time found and updated Successfully[39m
+[35m04/10/2021 01:19:24 - [debug] : jwt is ...save token expirytrue[39m
+[34m04/10/2021 01:19:24 - [info] : User Validation Success[39m
+[31m04/10/2021 01:19:24 - [error] : create Controller  Email not found[39m
+[35m04/10/2021 01:19:24 - [http] : POST /reminder/create 404 52 - 217.238 ms[39m
+[35m[39m
+[34m04/10/2021 01:21:22 - [info] : Server is runnin on port 6000[39m
+[34m04/10/2021 01:21:22 - [info] : Mongoose server listening[39m
+[34m04/10/2021 01:22:21 - [info] : Registration Validation Success[39m
+[34m04/10/2021 01:23:00 - [info] : Server is runnin on port 6000[39m
+[34m04/10/2021 01:23:01 - [info] : Mongoose server listening[39m
+[34m04/10/2021 01:38:56 - [info] : Server is runnin on port 6000[39m
+[34m04/10/2021 01:38:56 - [info] : Mongoose server listening[39m
+[34m04/10/2021 02:02:24 - [info] : Mongoose connection is disconnected.[39m
+[34m04/10/2021 23:35:27 - [info] : Server is runnin on port 6000[39m
+[34m04/10/2021 23:35:37 - [info] : Mongoose server listening[39m
+[34m04/10/2021 23:36:40 - [info] : Registration Validation Success[39m
+[35m04/10/2021 23:36:40 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"615b42b0187a82c48d8862c6"}],"nModified":0,"ok":1}[39m
+[31m04/10/2021 23:36:50 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m04/10/2021 23:36:50 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[35m04/10/2021 23:36:50 - [http] : POST /auth/register 500 58 - 10148.868 ms[39m
+[35m[39m
+[34m04/10/2021 23:37:33 - [info] : Confirm Registeration Validation Success[39m
+[35m04/10/2021 23:37:33 - [debug] : Users OTP matched  Success  ...Etime 1633370800   1633370853[39m
+[35m04/10/2021 23:37:34 - [debug] : Final Registration Success[39m
+[35m04/10/2021 23:37:34 - [http] : POST /auth/cnfrm-register 201 44 - 144.741 ms[39m
+[35m[39m
+[34m04/10/2021 23:37:48 - [info] : Login Validation Success[39m
+[35m04/10/2021 23:37:48 - [debug] : Access token successfully signed [39m
+[35m04/10/2021 23:37:48 - [http] : POST /auth/login 200 60 - 115.001 ms[39m
+[35m[39m
+[35m04/10/2021 23:37:48 - [debug] : Token Expiry Time saved Successfully[39m
+[35m04/10/2021 23:38:16 - [debug] : Token  Error JsonWebTokenError: invalid token[39m
+[31m04/10/2021 23:38:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[35m04/10/2021 23:38:16 - [http] : POST /reminder/create 400 58 - 11.030 ms[39m
+[35m[39m
+[35m04/10/2021 23:38:26 - [debug] : Token successfully validated[39m
+[34m04/10/2021 23:38:26 - [info] : User Validation Success[39m
+[35m04/10/2021 23:38:26 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m04/10/2021 23:38:26 - [debug] : User with around same date exist null[39m
+[35m04/10/2021 23:38:26 - [debug] : JOB ID IS ....f5885fae[39m
+[35m04/10/2021 23:38:26 - [debug] : Email is scheduled for jobId  f5885fae[39m
+[35m04/10/2021 23:38:26 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"615b431a187a82c48d8862e5"}],"nModified":0,"ok":1}[39m
+[35m04/10/2021 23:38:26 - [http] : POST /reminder/create 201 99 - 137.726 ms[39m
+[35m[39m
+[35m04/10/2021 23:38:38 - [debug] : Token successfully validated[39m
+[34m04/10/2021 23:38:38 - [info] : User Validation Success[39m
+[35m04/10/2021 23:38:38 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m04/10/2021 23:38:38 - [debug] : User with around same date exist null[39m
+[35m04/10/2021 23:38:38 - [debug] : JOB ID IS ....96b65943[39m
+[35m04/10/2021 23:38:38 - [debug] : Email is scheduled for jobId  96b65943[39m
+[35m04/10/2021 23:38:38 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m04/10/2021 23:38:38 - [http] : POST /reminder/create 201 99 - 19.334 ms[39m
+[35m[39m
+[35m04/10/2021 23:38:46 - [debug] : Token successfully validated[39m
+[34m04/10/2021 23:38:46 - [info] : User Validation Success[39m
+[35m04/10/2021 23:38:46 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m04/10/2021 23:38:46 - [debug] : User with around same date exist null[39m
+[35m04/10/2021 23:38:46 - [debug] : JOB ID IS ....6c277a5f[39m
+[35m04/10/2021 23:38:46 - [debug] : Email is scheduled for jobId  6c277a5f[39m
+[35m04/10/2021 23:38:46 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m04/10/2021 23:38:46 - [http] : POST /reminder/create 201 99 - 15.233 ms[39m
+[35m[39m
+[35m04/10/2021 23:38:58 - [debug] : Token  Error JsonWebTokenError: invalid token[39m
+[31m04/10/2021 23:38:58 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[35m04/10/2021 23:38:58 - [http] : GET /reminder/info 400 58 - 3.291 ms[39m
+[35m[39m
+[35m04/10/2021 23:39:03 - [debug] : Token successfully validated[39m
+[35m04/10/2021 23:39:03 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m04/10/2021 23:39:03 - [debug] : reminders { __v: 0,[39m
+[35m  job:[39m
+[35m   [ { status: false,[39m
+[35m       _id: 615b431ab60188010ea159d8,[39m
+[35m       date: 2021-10-23T04:27:59.000Z,[39m
+[35m       jobId: 'f5885fae',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 615b4326b60188010ea159dc,[39m
+[35m       date: 2021-10-24T04:27:59.000Z,[39m
+[35m       jobId: '96b65943',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' },[39m
+[35m     { status: false,[39m
+[35m       _id: 615b432eb60188010ea159e0,[39m
+[35m       date: 2021-10-24T07:27:59.000Z,[39m
+[35m       jobId: '6c277a5f',[39m
+[35m       name: 'Meeting',[39m
+[35m       description: 'I have to meet Rohan at 1 pm' } ] }[39m
+[35m04/10/2021 23:39:03 - [http] : GET /reminder/info 200 558 - 17.225 ms[39m
+[35m[39m
+[35m04/10/2021 23:39:28 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m04/10/2021 23:39:29 - [debug] : Access token successfully signed [39m
+[35m04/10/2021 23:39:29 - [debug] : PAYLOAD .....{"exp":1633204679,"sub":"6158ab9ca2de8dfd7807e96d","iat":1633201079524,"iss":"emailReminder.com","type":"at"}....{"exp":1633374568,"sub":"6158ab9ca2de8dfd7807e96d","iat":1633370968981,"iss":"emailReminder.com","type":"at"}[39m
+[35m04/10/2021 23:39:29 - [debug] : update token query ....{"n":0,"nModified":0,"ok":1}[39m
+[35m04/10/2021 23:39:29 - [debug] : Token Expiry can not be updated[39m
+[31m04/10/2021 23:39:29 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[35m04/10/2021 23:39:29 - [http] : POST /reminder/update 400 57 - 62.810 ms[39m
+[35m[39m
+[35m04/10/2021 23:39:56 - [debug] : Token successfully validated[39m
+[34m04/10/2021 23:39:56 - [info] : User Update Request Validation Success[39m
+[35m04/10/2021 23:39:56 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m04/10/2021 23:39:56 - [debug] : JobId for Updating the Date "f5885fae"[39m
+[35m04/10/2021 23:39:56 - [debug] : User with around same date exist null[39m
+[35m04/10/2021 23:39:56 - [debug] : jobId  f5885fae[39m
+[35m04/10/2021 23:39:56 - [debug] : User date updated successfully[39m
+[35m04/10/2021 23:39:56 - [debug] : RescheduleJob for JOB ID ...f5885fae[39m
+[35m04/10/2021 23:39:56 - [http] : POST /reminder/update 200 96 - 25.439 ms[39m
+[35m[39m
+[35m04/10/2021 23:40:20 - [debug] : Token successfully validated[39m
+[35m04/10/2021 23:40:20 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m04/10/2021 23:40:20 - [debug] : Schedule Status: {"_id":"615b431a187a82c48d8862e5","job":[{"status":false,"jobId":"f5885fae"}]}[39m
+[35m04/10/2021 23:40:20 - [debug] : cancelScheduledJob for JOB ID f5885fae[39m
+[35m04/10/2021 23:40:20 - [debug] : Schedule Deleted : {"n":1,"nModified":1,"ok":1}[39m
+[35m04/10/2021 23:40:20 - [http] : POST /reminder/remove 200 61 - 14.560 ms[39m
+[35m[39m
+[34m05/10/2021 01:43:26 - [info] : Server is runnin on port 6000[39m
+[34m05/10/2021 01:43:26 - [info] : Mongoose server listening[39m
+[34m05/10/2021 01:43:29 - [info] : Mongoose connection is disconnected.[39m
+[34m06/10/2021 23:55:05 - [info] : Server is runnin on port 6000[39m
+[34m06/10/2021 23:55:16 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:40:52 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:41:22 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 11:41:22 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 11:46:29 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:46:32 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:46:35 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:46:39 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:46:45 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:47:15 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 11:47:15 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 11:51:30 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:51:40 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:52:18 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:52:18 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:52:23 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:52:23 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:52:28 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:52:28 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:54:03 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:54:03 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:54:08 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:54:08 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:54:10 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:54:10 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:54:15 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:54:15 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:56:16 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:56:16 - [info] : Mongoose server listening[39m
+[34m07/10/2021 11:56:24 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 11:56:24 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:00:48 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:00:48 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:00:50 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:00:50 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:03:36 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:03:36 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:07:01 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:07:01 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:07:13 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:07:13 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:07:30 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:07:30 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:25:05 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:25:05 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:25:09 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:25:09 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:25:17 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:25:17 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:25:22 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:25:22 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:26:33 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:26:33 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:26:38 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:26:38 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:26:41 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:26:41 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:26:45 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:26:45 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:26:48 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:26:48 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:26:51 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:26:51 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:27:10 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:27:10 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:27:32 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:27:32 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:29:20 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:29:20 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:29:27 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:29:31 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:29:31 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:29:37 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:29:37 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:30:46 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:30:46 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:30:52 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:30:52 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:31:56 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:31:56 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:35:21 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:35:21 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:35:26 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:35:26 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:38:12 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:38:12 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:38:14 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:38:14 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:38:17 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:38:17 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:40:03 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:40:03 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:40:06 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:40:06 - [info] : Mongoose server listening[39m
+[34m07/10/2021 12:40:09 - [info] : Mongoose connection is disconnected.[39m
+[34m07/10/2021 12:54:36 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:54:39 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:54:43 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 12:55:13 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 12:55:13 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 13:06:34 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:07:04 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 13:07:04 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 13:07:51 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:07:56 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:08:14 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:08:44 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 13:08:44 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 13:18:02 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:18:10 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:18:22 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:18:28 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:18:37 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:19:07 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 13:19:07 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:23:26 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[35m07/10/2021 13:23:27 - [http] : POST /auth/register 422 64 - 37.786 ms[39m
+[35m[39m
+[31m07/10/2021 13:33:53 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[35m07/10/2021 13:33:53 - [http] : POST /auth/register 422 64 - 3.328 ms[39m
+[35m[39m
+[34m07/10/2021 13:34:53 - [info] : Server is runnin on port 6000[39m
+[31m07/10/2021 13:34:57 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[35m07/10/2021 13:34:57 - [http] : POST /auth/register 422 64 - 37.332 ms[39m
+[35m[39m
+[34m07/10/2021 13:35:23 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 13:35:23 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 13:36:16 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:36:21 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:36:37 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:37:05 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:37:13 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:37:25 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 13:37:55 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 13:37:55 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 16:30:22 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[35m07/10/2021 16:30:22 - [http] : POST /auth/register 422 64 - 19.697 ms[39m
+[35m[39m
+[34m07/10/2021 16:30:53 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 16:31:23 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 16:31:23 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 16:44:35 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 16:44:39 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 16:44:42 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 16:45:12 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 16:45:12 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[35m07/10/2021 16:45:47 - [http] : GET / 404 46 - 9.225 ms[39m
+[35m[39m
+[35m07/10/2021 16:49:36 - [http] : GET / 404 46 - 0.588 ms[39m
+[35m[39m
+[35m07/10/2021 16:50:01 - [http] : GET / 404 46 - 0.345 ms[39m
+[35m[39m
+[34m07/10/2021 17:06:26 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:06:30 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:07:00 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 17:07:00 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 17:09:13 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:09:43 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 17:09:43 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 17:13:00 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:13:00 - [info] : Mongoose server listening[39m
+[34m07/10/2021 17:13:05 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:13:05 - [info] : Mongoose server listening[39m
+[34m07/10/2021 17:13:10 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:13:10 - [info] : Mongoose server listening[39m
+[34m07/10/2021 17:13:12 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:13:12 - [info] : Mongoose server listening[39m
+[34m07/10/2021 17:13:18 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:13:18 - [info] : Mongoose server listening[39m
+[34m07/10/2021 17:13:21 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 17:13:21 - [info] : Mongoose server listening[39m
+[34m07/10/2021 17:16:18 - [info] : Mongoose connection is disconnected.[39m
+[34m07/10/2021 18:11:41 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:11:46 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:12:17 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:12:47 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 18:12:47 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 18:21:12 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:21:42 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 18:21:42 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 18:23:08 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:23:38 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 18:23:38 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 18:23:50 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:24:20 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 18:24:20 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 18:24:40 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 18:25:10 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 18:25:10 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 20:09:52 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 20:09:57 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 20:10:27 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 20:10:27 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 20:14:31 - [info] : Server is runnin on port 6000[39m
+[34m07/10/2021 20:15:01 - [info] : Mongoose connection is disconnected.[39m
+[31m07/10/2021 20:15:01 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m07/10/2021 22:47:31 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 11:37:20 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 11:37:50 - [info] : Mongoose connection is disconnected.[39m
+[31m09/10/2021 11:37:50 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m09/10/2021 11:39:44 - [info] : Registration Validation Success[39m
+[31m09/10/2021 11:39:54 - [error] : Error During AuthenticationMongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[34m09/10/2021 11:40:15 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 11:40:15 - [info] : Mongoose server listening[39m
+[34m09/10/2021 11:40:23 - [info] : Registration Validation Success[39m
+[35m09/10/2021 11:40:23 - [debug] : Register User Successfully {"n":1,"upserted":[{"index":0,"_id":"6161324f324a753e4fe2b1c0"}],"nModified":0,"ok":1}[39m
+[34m09/10/2021 11:40:34 - [info] : Email has been successfully sent to dipikeshjh@gmail.com[39m
+[35m09/10/2021 11:40:34 - [http] : POST /auth/register 201 70 - 11251.243 ms[39m
+[35m[39m
+[34m09/10/2021 11:40:59 - [info] : Confirm Registeration Validation Success[39m
+[35m09/10/2021 11:40:59 - [debug] : Users OTP matched  Success  ...Etime 1633759823   1633759859[39m
+[35m09/10/2021 11:40:59 - [debug] : Final Registration Success[39m
+[35m09/10/2021 11:40:59 - [http] : POST /auth/cnfrm-register 201 44 - 168.054 ms[39m
+[35m[39m
+[34m09/10/2021 11:41:12 - [info] : Login Validation Success[39m
+[35m09/10/2021 11:41:12 - [debug] : Access token successfully signed [39m
+[35m09/10/2021 11:41:12 - [http] : POST /auth/login 200 60 - 95.944 ms[39m
+[35m[39m
+[35m09/10/2021 11:41:12 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/10/2021 11:41:37 - [debug] : Token successfully validated[39m
+[34m09/10/2021 11:41:37 - [info] : User Validation Success[39m
+[35m09/10/2021 11:41:37 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m09/10/2021 11:41:37 - [debug] : User with around same date exist null[39m
+[35m09/10/2021 11:41:37 - [debug] : JOB ID IS ....e219abea[39m
+[35m09/10/2021 11:41:37 - [debug] : Email is scheduled for jobId  e219abea[39m
+[35m09/10/2021 11:41:37 - [debug] : User data on update returns {"n":1,"upserted":[{"index":0,"_id":"61613299324a753e4fe2b1db"}],"nModified":0,"ok":1}[39m
+[35m09/10/2021 11:41:37 - [http] : POST /reminder/create 201 99 - 144.784 ms[39m
+[35m[39m
+[35m09/10/2021 11:41:45 - [debug] : Token successfully validated[39m
+[34m09/10/2021 11:41:45 - [info] : User Validation Success[39m
+[35m09/10/2021 11:41:45 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m09/10/2021 11:41:45 - [debug] : User with around same date exist null[39m
+[35m09/10/2021 11:41:45 - [debug] : JOB ID IS ....95f26850[39m
+[35m09/10/2021 11:41:45 - [debug] : Email is scheduled for jobId  95f26850[39m
+[35m09/10/2021 11:41:45 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m09/10/2021 11:41:45 - [http] : POST /reminder/create 201 99 - 34.216 ms[39m
+[35m[39m
+[35m09/10/2021 11:41:51 - [debug] : Token successfully validated[39m
+[34m09/10/2021 11:41:51 - [info] : User Validation Success[39m
+[35m09/10/2021 11:41:51 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m09/10/2021 11:41:51 - [debug] : User with around same date exist null[39m
+[35m09/10/2021 11:41:51 - [debug] : JOB ID IS ....c070d199[39m
+[35m09/10/2021 11:41:51 - [debug] : Email is scheduled for jobId  c070d199[39m
+[35m09/10/2021 11:41:51 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m09/10/2021 11:41:51 - [http] : POST /reminder/create 201 99 - 30.977 ms[39m
+[35m[39m
+[34m09/10/2021 11:50:20 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 11:50:20 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:08:26 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:08:26 - [info] : Mongoose server listening[39m
+[35m09/10/2021 12:12:11 - [debug] : Token successfully validated[39m
+[34m09/10/2021 12:12:12 - [info] : User Validation Success[39m
+[35m09/10/2021 12:12:12 - [debug] : email found dipikeshjh@gmail.com[39m
+[35m09/10/2021 12:12:12 - [debug] : User with around same date exist null[39m
+[35m09/10/2021 12:12:12 - [debug] : JOB ID IS ....c70da244[39m
+[35m09/10/2021 12:12:12 - [debug] : Email is scheduled for jobId  c70da244[39m
+[35m09/10/2021 12:12:12 - [debug] : User data on update returns {"n":1,"nModified":1,"ok":1}[39m
+[35m09/10/2021 12:12:12 - [http] : POST /reminder/create 201 99 - 354.632 ms[39m
+[35m[39m
+[34m09/10/2021 12:13:40 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:13:40 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:13:50 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:13:50 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:13:53 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:13:53 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:13:56 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:13:56 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:13:59 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:13:59 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:14:23 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:14:23 - [info] : Mongoose server listening[39m
+[35m09/10/2021 12:17:11 - [http] : GET / 200 4 - 15.200 ms[39m
+[35m[39m
+[34m09/10/2021 12:17:52 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:17:52 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:20:36 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:20:36 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:25:59 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:25:59 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:26:39 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:26:39 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:29:38 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:29:38 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:29:47 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:29:47 - [info] : Mongoose server listening[39m
+[34m09/10/2021 12:34:18 - [info] : Mongoose connection is disconnected.[39m
+[34m09/10/2021 12:44:03 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:44:23 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:44:26 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:44:56 - [info] : Mongoose connection is disconnected.[39m
+[31m09/10/2021 12:44:56 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m09/10/2021 12:45:34 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:45:50 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:45:55 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:46:24 - [info] : Mongoose connection is disconnected.[39m
+[31m09/10/2021 12:46:24 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m09/10/2021 12:47:37 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 12:48:06 - [info] : Mongoose connection is disconnected.[39m
+[31m09/10/2021 12:48:06 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[34m09/10/2021 12:48:16 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 16:10:28 - [info] : Server is runnin on port 6000[39m
+[34m09/10/2021 16:10:57 - [info] : Server is runnin on port 6000[39m

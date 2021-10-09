@@ -17,8 +17,7 @@ exports.userPrevData =  () => {
         name: joi.string().min(3).max(20).required(),
         description: joi.string().min(3).max(80).required(),
         date: joi.date().iso().required().greater(Date.now()),
-        prevDate: joi.date().iso().required().greater(Date.now())
-
+        id: joi.string().min(3).max(60)
     }).options({ abortEarly: false })
     return userSchema;
 }

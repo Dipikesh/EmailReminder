@@ -4,6 +4,7 @@ const createError = require("http-errors");
 const { sendEmail } = require("./mailer.services");
 const { updateDbStatus } = require("./user.services")
 const genId = require("../utils/generator");
+const { debug } = require("../config/logger");
 exports.schedulingJob = async (user,email) => {
   const date = new Date(user.date);
   const jobId = await genId.value(8);
@@ -22,8 +23,24 @@ exports.schedulingJob = async (user,email) => {
 };
 
 exports.reschedulingJob = async (jobId, userData) => {
-  var date = new Date(userData.date);
-  logger.debug("RescheduleJob for JOB ID ..."+jobId);
-  schedule.rescheduleJob(jobId, date);
-  return true;
+  try {
+    var date = new Date(userData.date);
+    logger.debug("RescheduleJob for JOB ID ..." + jobId);
+    await schedule.rescheduleJob(jobId, date);
+    return true;
+  } catch (err) {
+    logger.error("Error during rescheduling ", err);
+    throw createError(500,"Internal Server Error")
+  }
+ 
 };
+exports.cancelScheduledJob = async (jobId) => {
+  try {
+    await schedule.cancelJob(jobId);
+    logger.debug("cancelScheduledJob for JOB ID " + jobId);
+    return true;
+  } catch (err) {
+    logger.error("Error during Scheduling ", err);
+    throw createError(500,"Internal Server Error")
+  }
+}
