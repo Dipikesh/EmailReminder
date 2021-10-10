@@ -19,6 +19,7 @@ exports.create = async(req, res, next) => {
          next(err);
         
     }
+
   
 }
 
@@ -39,8 +40,9 @@ exports.update = async (req, res, next) => {
         if (err instanceof mongoose.CastError) {
             logger.error("CastError Update controller .." + err);
             next(createError(400, "Invalid Reminder Id"));
+            return;
         }
-       else
+       
         next(err);
     }
 }
@@ -60,6 +62,11 @@ exports.remove = async (req, res, next) => {
     }
     catch (err) {
         logger.error("REMINDER CTRL -- REMOVE ERROR " + err);
+         if (err instanceof mongoose.CastError) {
+           logger.error("CastError Update controller .." + err);
+           next(createError(400, "Invalid Reminder Id"));
+           return;
+         }
         next(err);
     }
 }

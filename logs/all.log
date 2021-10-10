@@ -14972,3 +14972,18 @@
 [34m10/10/2021 14:10:41 - [info] : Mongoose server listening[39m
 [34m10/10/2021 14:10:43 - [info] : Server is runnin on port 8000[39m
 [34m10/10/2021 14:10:43 - [info] : Mongoose server listening[39m
+[34m10/10/2021 14:20:43 - [info] : Server is runnin on port 8000[39m
+[34m10/10/2021 14:20:43 - [info] : Mongoose server listening[39m
+[34m10/10/2021 14:20:52 - [info] : Server is runnin on port 8000[39m
+[34m10/10/2021 14:20:52 - [info] : Mongoose server listening[39m
+[34m10/10/2021 14:20:56 - [info] : Server is runnin on port 8000[39m
+[34m10/10/2021 14:20:56 - [info] : Mongoose server listening[39m
+[34m10/10/2021 14:21:09 - [info] : Server is runnin on port 8000[39m
+[34m10/10/2021 14:21:09 - [info] : Mongoose server listening[39m
+[35m10/10/2021 14:21:16 - [debug] : Token successfully validated[39m
+[34m10/10/2021 14:21:16 - [info] : User Update Request Validation Success[39m
+[35m10/10/2021 14:21:16 - [debug] : email found dipikeshjh@gmail.com[39m
+[31m10/10/2021 14:21:16 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:21:16 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[35m10/10/2021 14:21:16 - [http] : PUT /api/reminder/update 400 56 - 146.020 ms[39m
+[35m[39m
