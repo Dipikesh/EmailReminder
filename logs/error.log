@@ -1031,3 +1031,44 @@
 [31m09/10/2021 12:44:56 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
 [31m09/10/2021 12:46:24 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
 [31m09/10/2021 12:48:06 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:11:26 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:12:56 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:15:22 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:18:08 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:20:14 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 22:35:07 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 22:36:29 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 22:46:31 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.setTimeout (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at ontimeout (timers.js:436:11)[39m
+[31m    at tryOnTimeout (timers.js:300:5)[39m
+[31m    at listOnTimeout (timers.js:263:5)[39m
+[31m    at Timer.processTimers (timers.js:223:10)[39m
+[31m10/10/2021 13:11:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m10/10/2021 13:14:33 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m10/10/2021 13:15:55 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 13:18:32 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m10/10/2021 13:21:39 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 13:26:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 13:27:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 13:37:26 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 13:50:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 13:52:15 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m10/10/2021 13:53:45 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m10/10/2021 13:55:22 - [error] : create Controller  authService.fetxchEmail is not a function[39m
+[31m10/10/2021 13:56:12 - [error] : create Controller  authService.fetschEmail is not a function[39m
+[31m10/10/2021 13:57:19 - [error] : create Controller  authService.fetschEmail is not a function[39m
+[31m10/10/2021 13:58:51 - [error] : create Controller  authService.fetxchEmail is not a function[39m
+[31m10/10/2021 14:02:25 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  BadRequestError: Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 14:02:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:06:28 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:07:10 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:07:10 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:09:05 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  NotFoundError: Email not found[39m
+[31m10/10/2021 14:09:14 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 14:09:17 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 14:09:21 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 14:10:16 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:10:16 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:10:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:10:32 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m

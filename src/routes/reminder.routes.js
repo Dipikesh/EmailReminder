@@ -6,7 +6,7 @@ const valMiddleware = require('../middleware/userVal.middleware.js')
 
 router.get('/info',reminderController.profile );
 router.post('/create',valMiddleware.userData, reminderController.create);
-router.post('/update',valMiddleware.userPrevData, reminderController.update);
+router.put('/update',valMiddleware.userPrevData, reminderController.update);
 router.post('/remove', reminderController.remove);
 
 

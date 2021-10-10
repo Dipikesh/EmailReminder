@@ -1,6 +1,7 @@
 const { jobService, userService, mailerService, authService } = require('../services');
 const createError = require('http-errors');
 const logger = require('../config/logger');
+const mongoose = require('mongoose');
 
 
 exports.create = async(req, res, next) => {
@@ -15,7 +16,7 @@ exports.create = async(req, res, next) => {
     }
     catch (err) {
         logger.error("create Controller ", err);
-        next(err);
+         next(err);
         
     }
   
@@ -35,6 +36,11 @@ exports.update = async (req, res, next) => {
     }
     catch (err) {
         logger.error("REMINDER --- UPDATE CONTROLLER ERROR  " + err);
+        if (err instanceof mongoose.CastError) {
+            logger.error("CastError Update controller .." + err);
+            next(createError(400, "Invalid Reminder Id"));
+        }
+       else
         next(err);
     }
 }

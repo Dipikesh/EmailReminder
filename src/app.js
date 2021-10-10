@@ -6,6 +6,7 @@ const cors = require("cors");
 const logger = require("./config/logger");
 
 const httpLogger = require("./config/httpLogger");
+const {errorHandler} = require("./middleware/errorHandler");
 
 require(`dotenv`).config();
 
@@ -20,22 +21,21 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-
 app.options(
   "*",
   cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 })
 );
 app.use(cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 }));
 
-app.use("/", require('./routes'));
+app.use("/api", require("./routes"));
 
 //Adding Swagger
 
-app.use(async (req, res, next) => {
+app.use((req, res, next) => {
   next(createError.NotFound());
 });
 
-app.use(async (err, req, res, next) => {
+app.use((err, req, res, next) => {
   const errorType = createError.isHttpError(err);
   if (!errorType) {
     logger.error(`Programatic Error, Shutting down due to ${err.stack}`);
@@ -49,6 +49,7 @@ app.use(async (err, req, res, next) => {
       message: err.message,
     },
   });
+
 });
 
 const PORT = process.env.PORT || 8000;
@@ -65,8 +66,8 @@ process.on("SIGINT", function () {
   process.kill(process.pid, "SIGINT");
 });
 
-process.on("unhandledRejection", (error, p) => {
-  // Prints "unhandledRejection woops!"
-  logger.error('UnhandledRejection' + error.stack + "reason" + p);
-  process.exit(1);
-});
+// process.on("unhandledRejection", (error, p) => {
+//   // Prints "unhandledRejection woops!"
+//   logger.error("UnhandledRejection" + error.stack + "reason" + p);
+//   process.exit(1);
+// });

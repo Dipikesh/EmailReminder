@@ -137,7 +137,7 @@ exports.updateTokenExpiry = async (newPayload, prevPayload) => {
     return true;
   } else if (!result.n) {
     logger.debug("Token Expiry can not be updated");
-    throw createError(400, "Something went wrong");
+    throw createError(401, "UnAuthorize");
   }
   logger.debug("User not found");
   throw createError(404, "user not found");

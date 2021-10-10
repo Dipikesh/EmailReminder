@@ -1,37 +1,39 @@
-//Creating Reminder
 
-GET  http://localhost:6000 HTTP/1.1
+
+GET  http://localhost:8000 HTTP/1.1
 
 {
        
 }
-POST  http://localhost:6000/reminder/create HTTP/1.1
+###
+//Creating Reminder
+POST  http://localhost:8000/api/reminder/create HTTP/1.1
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzM3NjM0NzIsInN1YiI6IjYxNjEzMjRmMzI0YTc1M2U0ZmUyYjFjMCIsImlhdCI6MTYzMzc1OTg3MjQxNSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.MZQpKX8VJE2yYmSq7HyielEvtcRK7YoAkASDvnE8IdFBb0kWBeSFjvgZTKSDugF5oQd0_1-CwN366bdQ6hwJ5fKPTKN5q1-Hhdigi4Npj8BiBCCX6g_UMyeGE6WubNdbQnkYd-W8WdAgTXE2IQX6rkireJ-tAnLZRQv_H0lWfhjDnmYKYQu4dy0xlY8fKtSlQQsOSDCnUUp9I8s0UNif8D6EcLCziuC4y2xiaUJrO1UYXmhMYts6A8wJJxaIuLhvzfpjfVN_juCGsEi_SMsurJ5e9PxikwmSfBzhnzNji0wZFYO0MGKWtKzNUTxU3X9I58qBwhscXkiKBwbKbg5Ns2tpVFiaCCZVb5f9YSid27YgKhoPcqwzvENEbNi7YTeJraU6p85dTJexw_8Z4_UzQacFtANwpgyfsqhUN3RvwLUfs-vFs-nxTfCvSgncY4MPXsefpglUVBYMlgIhm5Q0Oa46v8QG9CnAbflHSS_lX36Bx-vl6ZRMCmp9NQ13xK7cGe1dd9BcVcwo0eBjj35imDk8tV0Cl1gB1_Z5xDSqVutGoKFFmIT25y05qLSIfDOR09_-_0gUZe91EsOo6mlB9jpXd4HJftZ0rlrER0tNfObnGtHVoXA2qKmY_kUohln4cfXM_4SUmqJMtGAHhJNDAjIZYUxT7NwtRdOnqP6rYig
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzM4NTUxMjksInN1YiI6IjYxNjEzMjRmMzI0YTc1M2U0ZmUyYjFjMCIsImlhdCI6MTYzMzg1MTUyOTA1MCwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.aSaD0cO-8DuqliOfFzlS23dxz1vu2Q9l1-QPaSMAcNh7fV5EvQkjMy9BE1fW3q47_eXWmmPDRCmZ2l1U4HCwPUTO3O4auXjDhMFaBTQmhU3F_SGdF_YQjyoJ_caF3epHHdPYvdID5imkQgZnJcjXol_3OjXqyVLS6pXtXJWP4lfbZZKg1v2lTtHB0wvGE9B8v86Hd6StKoYAketxo_WFydg7HgZyv_eEmNfUClCFyR02bGf52gRVJRC6r_KlwTwnMDJ9CiZm0LXXT_3Bi-J5eA_MWCZbfvPaibRwL07iKd5iGUutOQH7lWYlnWkgF2tbdY5cUvvOCpnLkZKEFrYXhmjNhiAZ0SNA-S1J0ajQXmhjNSvy9kx-hFHanAjsSNtVfea8RtFSK6cRoxAu4A0NgaJxWo-LIHKtD_nwg9xz17fqqtAAy6kCDSdVSSxzzJ7VSKfTREoSbjXviJzZuxbbuDf4EMfhpS48Pn-xMVzTnw6DVPCf2PynKZygeTdivW5cdJld54doEZn3TkWnRphmayyC9OGgl5SDjwCQz3jPfDnpfd9uuZnzHw-gaKqhd8orsfDx8k_BEvlOc9umIxfZ8QdVUsb4IfwTH9zmjPeBo7fdkzJ4Zras9JC10jyIGgs9K9cKBJenubpPKNZ9Y46BOJqT92tffcSbcESI02NXT4s
 
 {
     "name": "Meeting",
     "description":"I have to meet Rohan at 1 pm",
-    "date":"2021-10-27T12:57:59"
+    "date":"2021-10-29T18:57:59"
     
 }
 
 ###
 //Updating Reminder
-POST  http://localhost:6000/reminder/update HTTP/1.1
+PUT  http://localhost:8000/api/reminder/update HTTP/1.1
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMzNzQ0NjgsInN1YiI6IjYxNWI0MmIwMTg3YTgyYzQ4ZDg4NjJjNiIsImlhdCI6MTYzMzM3MDg2ODA5MywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.PXuThY_OkYE4_vkY_33_Lf_PTI6-TDBlnR86otxH_idt0J2ViuymRos66Va_7wpPHLaH6RF6KmX7-vQpsPOlQOwEJVRoyOLpqrfnGRAYlUZgoBSY47cLsQFHKjnM7tyUkEKmtJ0Dzgz8WGThVHlHI3diCBclG7qUiCJ3hPBH6DlxCK61OOMR5hFNIKxjZpR6tOGSvdlSqjENfhhScyo9bpaPC3rD9nZqFW9eyi2qZOaXdmPb9fnG3b1l1kpgYSV_7GGGPcho3R-Xg4gm9B1jK0-ZhS5fod62Sehmte0GIzpJWTVB0uzWo3VMTvVO-pttuAJOJ8WWmDpUE0kK8DXOUZ0u3unb9UIO82fLhzS-rjbRZeinf9U81IYsEMU6vKvrpgCihVkmr5KyJLUQfVNfjbOw06x-k-BF3dTTy8xbYl1X2OCri_jdsomu6245r-mYA19DiTOzpVYMqTt8znpQt3NrmsBblgLhYsVCtMj3jharAJ1CNZozYrsOqz4cg45uJjcKP8c-d860J3r2muP6Ufdaa9jKQmgY6qgmt4UF0WgO3nW_ANovb-f_ucMYaEANi8dQjwNuAYOK-GcInRpvyPh8k9w7YWlhPHZ4IQbzNgniSNztNI3DJKgMRF9XJ1JxBNCQqkYzP63xNJIci6Hfqv9AgAjaAdDKwTUL1RaS4A8
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzM4NTg3OTQsInN1YiI6IjYxNjEzMjRmMzI0YTc1M2U0ZmUyYjFjMCIsImlhdCI6MTYzMzg1NTE5NDA2MywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.G2WuCpmDLJ99tqJuKcDcUgngbN45DwIWAJwwTuZaiORiNKRYzMgGbegxqGtzjYhpVh_PEyDsBqm1RLHEayQLCWfpsPuTgwjQHOU28CiJ_ny6gBWW80oxEEM3pk6ObD0sdSQJGZ_aL-TlY8Zuio0JUhDhgjYzIMM9sH-OsIecFH4fn1kF05PI6fc_44vYQB3LG8o02xCyGNp7jIyysXQch8Mjg7zvDkTzzdqJTymj6lHbTW-aqKeFXnN1x917YjXUAcbk9F6kftpAqcggu6ZCpXsK_lzu8Zuk9uF-JAMdHv-IswWoGa80kh68zKsoePuP98u2n7hRVHruweTXZuEEfLH7YJ3fs6RWX84BdzXZ4hgNF9-nF4QlcH0NkOIrnZTrdG9LyRw5iNVNxgntwWNbMFalGzgwQK8lktTn6un-OgQa5-HHAldEOzETaRsafaGKqTdc_bhicHqVE92FXP4hglJAmQ-2-u2lC96aaaCLsaUInLCLx6gbTnRvgMNcqUUe3cE3piQukcC-s_cBItoyZQloX24eTgHlrDz2e6Tl5BqUqua5FInIJVIaRcaD3GyGVU644zlQbyJ9pN20yrfN1FlvzkUXFLxDi3fb35B53f4ein8ualP7ysvG5CShuqemrwt0t9wdOeNEVc-urmXp9Pd2B9lP7nl9TrocXwpKtXE
 
 {
     "name": "Meeting",
     "description":"I have to meet Rohan at 1 pm",
-    "date":"2021-11-04T23:22:59",
-    "id":"615b431ab60188010ea159d8"
+    "date":"2021-11-06T23:22:59",
+    "id":"616298c2d891834adebd07wedfsd9"
    
 }
 ####
 //Deleting Reminder
-POST http://localhost:6000/reminder/remove HTTP/1.1
+POST http://localhost:8000/api/reminder/remove HTTP/1.1
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMzNzQ0NjgsInN1YiI6IjYxNWI0MmIwMTg3YTgyYzQ4ZDg4NjJjNiIsImlhdCI6MTYzMzM3MDg2ODA5MywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.PXuThY_OkYE4_vkY_33_Lf_PTI6-TDBlnR86otxH_idt0J2ViuymRos66Va_7wpPHLaH6RF6KmX7-vQpsPOlQOwEJVRoyOLpqrfnGRAYlUZgoBSY47cLsQFHKjnM7tyUkEKmtJ0Dzgz8WGThVHlHI3diCBclG7qUiCJ3hPBH6DlxCK61OOMR5hFNIKxjZpR6tOGSvdlSqjENfhhScyo9bpaPC3rD9nZqFW9eyi2qZOaXdmPb9fnG3b1l1kpgYSV_7GGGPcho3R-Xg4gm9B1jK0-ZhS5fod62Sehmte0GIzpJWTVB0uzWo3VMTvVO-pttuAJOJ8WWmDpUE0kK8DXOUZ0u3unb9UIO82fLhzS-rjbRZeinf9U81IYsEMU6vKvrpgCihVkmr5KyJLUQfVNfjbOw06x-k-BF3dTTy8xbYl1X2OCri_jdsomu6245r-mYA19DiTOzpVYMqTt8znpQt3NrmsBblgLhYsVCtMj3jharAJ1CNZozYrsOqz4cg45uJjcKP8c-d860J3r2muP6Ufdaa9jKQmgY6qgmt4UF0WgO3nW_ANovb-f_ucMYaEANi8dQjwNuAYOK-GcInRpvyPh8k9w7YWlhPHZ4IQbzNgniSNztNI3DJKgMRF9XJ1JxBNCQqkYzP63xNJIci6Hfqv9AgAjaAdDKwTUL1RaS4A8
 
@@ -42,7 +44,7 @@ Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMzNzQ0N
 ###
 //Register Users
 
-POST http://localhost:6000/auth/register HTTP/1.1
+POST http://localhost:8000/api/auth/register HTTP/1.1
 Content-Type: application/json
 
 {
@@ -52,7 +54,7 @@ Content-Type: application/json
 ###
 
 //Confirm Register
-POST http://localhost:6000/auth/cnfrm-register HTTP/1.1
+POST http://localhost:8000/api/auth/cnfrm-register HTTP/1.1
 Content-Type: application/json
 
 {
@@ -60,11 +62,11 @@ Content-Type: application/json
     "email":"dipikeshjh@gmail.com",
     "password":"Dipikesh@123",
     "cnfPassword":"Dipikesh@123",
-    "otp":"40e7ee"
+    "otp":"9de743"
 }
 ###
 //LOGIN User
-POST http://localhost:6000/auth/login HTTP/1.1
+POST http://localhost:8000/api/auth/login HTTP/1.1
 Content-Type: application/json
 
 {
@@ -73,7 +75,7 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:6000/reminder/info HTTP/1.1
+GET http://localhost:8000/api/reminder/info HTTP/1.1
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMzNzQ0NjgsInN1YiI6IjYxNWI0MmIwMTg3YTgyYzQ4ZDg4NjJjNiIsImlhdCI6MTYzMzM3MDg2ODA5MywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.PXuThY_OkYE4_vkY_33_Lf_PTI6-TDBlnR86otxH_idt0J2ViuymRos66Va_7wpPHLaH6RF6KmX7-vQpsPOlQOwEJVRoyOLpqrfnGRAYlUZgoBSY47cLsQFHKjnM7tyUkEKmtJ0Dzgz8WGThVHlHI3diCBclG7qUiCJ3hPBH6DlxCK61OOMR5hFNIKxjZpR6tOGSvdlSqjENfhhScyo9bpaPC3rD9nZqFW9eyi2qZOaXdmPb9fnG3b1l1kpgYSV_7GGGPcho3R-Xg4gm9B1jK0-ZhS5fod62Sehmte0GIzpJWTVB0uzWo3VMTvVO-pttuAJOJ8WWmDpUE0kK8DXOUZ0u3unb9UIO82fLhzS-rjbRZeinf9U81IYsEMU6vKvrpgCihVkmr5KyJLUQfVNfjbOw06x-k-BF3dTTy8xbYl1X2OCri_jdsomu6245r-mYA19DiTOzpVYMqTt8znpQt3NrmsBblgLhYsVCtMj3jharAJ1CNZozYrsOqz4cg45uJjcKP8c-d860J3r2muP6Ufdaa9jKQmgY6qgmt4UF0WgO3nW_ANovb-f_ucMYaEANi8dQjwNuAYOK-GcInRpvyPh8k9w7YWlhPHZ4IQbzNgniSNztNI3DJKgMRF9XJ1JxBNCQqkYzP63xNJIci6Hfqv9AgAjaAdDKwTUL1RaS4A8
 
