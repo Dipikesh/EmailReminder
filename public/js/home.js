@@ -99,12 +99,22 @@ async function fetchTaskList() {
 
   numberOfTasks.forEach((task) => {
     const $listItem = document.createElement("li");
-    $listItem.classList.add("list__item");
-    const spaces = "         ";
+  
 
-    $listItem.innerText = ` Name = ${task.name} ,  ${
-      "    " + spaces
-    } Description  =      ${"   " + task.description} ,  Date =   ${task.date}`;
+    $listItem.classList.add("list__item");
+
+
+    if (task.status) $listItem.style.color = 'green'
+    const date = new Date(task.date);
+  
+   
+    $listItem.innerText = ` Name = ${task.name} , Description  =   ${ task.description} ,  Date =   ${date}`;
+
+   
+    
+
+ 
+
 
     $list.appendChild($listItem);
   });

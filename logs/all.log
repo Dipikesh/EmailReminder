@@ -71655,3 +71655,729 @@
 [34m07/12/2021 14:25:58 - [info] : Server is runnin on port 8000[39m
 [34m07/12/2021 14:26:02 - [info] : Mongoose server listening[39m
 [34m07/12/2021 14:26:07 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:26:11 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:26:23 - [http] : GET / 304 - - 12.439 ms[39m
+[35m[39m
+[35m07/12/2021 14:26:23 - [http] : GET /static/js/home 304 - - 1.158 ms[39m
+[35m[39m
+[35m07/12/2021 14:26:23 - [http] : GET /static/css/home 304 - - 0.929 ms[39m
+[35m[39m
+[35m07/12/2021 14:26:23 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:26:23 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:26:24 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:26:24 - [http] : GET /api/reminder/info 304 - - 612.340 ms[39m
+[35m[39m
+[35m07/12/2021 14:26:32 - [http] : GET /static/js/home 304 - - 1.447 ms[39m
+[35m[39m
+[35m07/12/2021 14:26:32 - [http] : GET /static/css/home 304 - - 2.069 ms[39m
+[35m[39m
+[35m07/12/2021 14:27:02 - [http] : GET /static/css/home 200 938 - 3.714 ms[39m
+[35m[39m
+[35m07/12/2021 14:27:03 - [http] : GET /static/js/home 200 3242 - 5.597 ms[39m
+[35m[39m
+[35m07/12/2021 14:27:05 - [http] : GET /static/css 200 4128 - 0.935 ms[39m
+[35m[39m
+[35m07/12/2021 14:27:05 - [http] : GET /static/js/login 200 814 - 1.100 ms[39m
+[35m[39m
+[35m07/12/2021 14:27:31 - [http] : GET /static/css/home 304 - - 0.937 ms[39m
+[35m[39m
+[35m07/12/2021 14:27:32 - [http] : GET /static/js/home 304 - - 0.533 ms[39m
+[35m[39m
+[34m07/12/2021 14:33:21 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:23 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:27 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:33:29 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:30 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:34 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:33:46 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:48 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:51 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:33:54 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:56 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:33:59 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:34:00 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:04 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:34:12 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:16 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:18 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:22 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:34:25 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:29 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:30 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:33 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:34:45 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:49 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:34:53 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:34:57 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:35:01 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:35:05 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:35:08 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:35:12 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:35:15 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:36:20 - [http] : GET / 304 - - 12.650 ms[39m
+[35m[39m
+[35m07/12/2021 14:36:20 - [http] : GET /static/js/home 200 3223 - 6.018 ms[39m
+[35m[39m
+[35m07/12/2021 14:36:20 - [http] : GET /static/css/home 304 - - 5.558 ms[39m
+[35m[39m
+[35m07/12/2021 14:36:21 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:36:21 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:36:21 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:36:21 - [http] : GET /api/reminder/info 304 - - 613.727 ms[39m
+[35m[39m
+[34m07/12/2021 14:36:36 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 14:36:36 - [http] : GET / 304 - - 12.838 ms[39m
+[35m[39m
+[35m07/12/2021 14:36:36 - [http] : GET /static/js/home 200 3224 - 7.462 ms[39m
+[35m[39m
+[35m07/12/2021 14:36:36 - [http] : GET /static/css/home 304 - - 4.853 ms[39m
+[35m[39m
+[35m07/12/2021 14:36:36 - [debug] : Token successfully validated[39m
+[34m07/12/2021 14:36:39 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:36:40 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:36:40 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:36:40 - [http] : GET /api/reminder/info 304 - - 3883.127 ms[39m
+[35m[39m
+[34m07/12/2021 14:37:54 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:37:57 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:38:01 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:38:06 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:38:09 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:38:14 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:38:16 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 14:38:16 - [http] : GET / 304 - - 10.568 ms[39m
+[35m[39m
+[35m07/12/2021 14:38:16 - [http] : GET /static/js/home 200 3273 - 4.364 ms[39m
+[35m[39m
+[35m07/12/2021 14:38:16 - [http] : GET /static/css/home 304 - - 0.776 ms[39m
+[35m[39m
+[35m07/12/2021 14:38:16 - [debug] : Token successfully validated[39m
+[34m07/12/2021 14:38:19 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:38:20 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:38:20 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:38:20 - [http] : GET /api/reminder/info 304 - - 3400.870 ms[39m
+[35m[39m
+[34m07/12/2021 14:38:51 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 14:38:53 - [http] : GET / 304 - - 12.400 ms[39m
+[35m[39m
+[35m07/12/2021 14:38:53 - [http] : GET /static/js/home 200 3259 - 5.996 ms[39m
+[35m[39m
+[35m07/12/2021 14:38:53 - [http] : GET /static/css/home 304 - - 0.956 ms[39m
+[35m[39m
+[35m07/12/2021 14:38:53 - [debug] : Token successfully validated[39m
+[34m07/12/2021 14:38:55 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:38:55 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:38:55 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:38:55 - [http] : GET /api/reminder/info 304 - - 1992.890 ms[39m
+[35m[39m
+[34m07/12/2021 14:39:54 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:39:57 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:40:00 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:40:02 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:40:05 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:40:08 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:40:11 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:40:13 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 14:40:13 - [http] : GET / 304 - - 13.690 ms[39m
+[35m[39m
+[35m07/12/2021 14:40:13 - [http] : GET /static/js/home 200 3303 - 5.441 ms[39m
+[35m[39m
+[35m07/12/2021 14:40:13 - [http] : GET /static/css/home 304 - - 0.945 ms[39m
+[35m[39m
+[35m07/12/2021 14:40:13 - [debug] : Token successfully validated[39m
+[34m07/12/2021 14:40:16 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:40:16 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:40:17 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:40:17 - [http] : GET /api/reminder/info 304 - - 3753.468 ms[39m
+[35m[39m
+[35m07/12/2021 14:40:21 - [http] : GET / 200 993 - 0.850 ms[39m
+[35m[39m
+[34m07/12/2021 14:40:43 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:40:46 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:42:04 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:42:06 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:42:10 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:42:17 - [http] : GET / 200 993 - 14.419 ms[39m
+[35m[39m
+[35m07/12/2021 14:42:18 - [http] : GET /static/js/home 200 3449 - 3.009 ms[39m
+[35m[39m
+[35m07/12/2021 14:42:18 - [http] : GET /static/css/home 304 - - 2.203 ms[39m
+[35m[39m
+[35m07/12/2021 14:42:18 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:42:18 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:42:19 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:42:19 - [http] : GET /api/reminder/info 304 - - 706.656 ms[39m
+[35m[39m
+[34m07/12/2021 14:44:44 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:44:49 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:44:50 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:44:53 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:46:28 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:46:30 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:46:34 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:46:38 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:46:42 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:46:48 - [http] : GET /home 404 46 - 11.263 ms[39m
+[35m[39m
+[35m07/12/2021 14:46:51 - [http] : GET /home 404 46 - 1.205 ms[39m
+[35m[39m
+[35m07/12/2021 14:46:54 - [http] : GET / 200 993 - 7.477 ms[39m
+[35m[39m
+[35m07/12/2021 14:46:54 - [http] : GET /static/js/home 200 3456 - 2.171 ms[39m
+[35m[39m
+[35m07/12/2021 14:46:54 - [http] : GET /static/css/home 304 - - 2.268 ms[39m
+[35m[39m
+[35m07/12/2021 14:46:54 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:46:55 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:46:55 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:46:55 - [http] : GET /api/reminder/info 304 - - 805.909 ms[39m
+[35m[39m
+[34m07/12/2021 14:47:51 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:47:55 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:47:59 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:48:02 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:48:04 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:48:05 - [http] : GET / 304 - - 12.549 ms[39m
+[35m[39m
+[35m07/12/2021 14:48:05 - [http] : GET /static/js/home 200 3314 - 5.085 ms[39m
+[35m[39m
+[35m07/12/2021 14:48:05 - [http] : GET /static/css/home 304 - - 5.249 ms[39m
+[35m[39m
+[35m07/12/2021 14:48:05 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:48:05 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:48:06 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:48:06 - [http] : GET /api/reminder/info 304 - - 593.157 ms[39m
+[35m[39m
+[34m07/12/2021 14:48:18 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 14:48:20 - [http] : GET / 304 - - 13.658 ms[39m
+[35m[39m
+[35m07/12/2021 14:48:20 - [http] : GET /static/css/home 304 - - 1.746 ms[39m
+[35m[39m
+[35m07/12/2021 14:48:20 - [http] : GET /static/js/home 200 3280 - 5.144 ms[39m
+[35m[39m
+[35m07/12/2021 14:48:20 - [debug] : Token successfully validated[39m
+[34m07/12/2021 14:48:22 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:48:22 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:48:23 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:48:23 - [http] : GET /api/reminder/info 304 - - 2577.965 ms[39m
+[35m[39m
