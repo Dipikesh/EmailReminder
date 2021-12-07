@@ -6,6 +6,6 @@ const reminder = require('./reminder.routes');
 
 router.use('/api/auth', require('./auth.routes'));
 router.use('/api/reminder', authMiddleware.authenticate, reminder);
-router.get('/', require('./static.routes'));
+router.use('/', require('./static.routes'));
 
 module.exports = router;

@@ -71374,3 +71374,41 @@
 [34m07/12/2021 13:54:25 - [info] : Mongoose server listening[39m
 [34m07/12/2021 13:55:08 - [info] : Server is runnin on port 8000[39m
 [34m07/12/2021 13:55:11 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:09:30 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:09:34 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:09:46 - [http] : GET / 200 993 - 12.735 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:46 - [http] : GET /static/js/home 404 46 - 4.041 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:46 - [http] : GET /static/css/home 404 46 - 0.529 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:46 - [http] : GET /static/js/home 404 46 - 0.469 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:46 - [http] : GET /favicon.ico 404 46 - 0.476 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:50 - [http] : GET / 304 - - 3.240 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:50 - [http] : GET /static/js/home 404 46 - 0.476 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:50 - [http] : GET /static/css/home 404 46 - 0.659 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:51 - [http] : GET /static/js/home 404 46 - 1.643 ms[39m
+[35m[39m
+[35m07/12/2021 14:09:51 - [http] : GET /static/css/home 404 46 - 1.901 ms[39m
+[35m[39m
+[34m07/12/2021 14:10:03 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:10:07 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:10:18 - [http] : GET /static/js/home 404 46 - 9.180 ms[39m
+[35m[39m
+[35m07/12/2021 14:10:18 - [http] : GET /static/css/home 404 46 - 0.721 ms[39m
+[35m[39m
+[35m07/12/2021 14:10:18 - [http] : GET /static/js/home 404 46 - 2.136 ms[39m
+[35m[39m
+[35m07/12/2021 14:10:18 - [http] : GET /static/css/home 404 46 - 1.582 ms[39m
+[35m[39m
+[34m07/12/2021 14:11:05 - [info] : Mongoose connection is disconnected.[39m
+[34m07/12/2021 14:11:16 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:11:16 - [info] : Mongoose connection is disconnected.[39m
+[31m07/12/2021 14:11:16 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
+[34m07/12/2021 14:12:44 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:12:47 - [info] : Mongoose server listening[39m
