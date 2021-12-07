@@ -71412,3 +71412,43 @@
 [31m07/12/2021 14:11:16 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
 [34m07/12/2021 14:12:44 - [info] : Server is runnin on port 8000[39m
 [34m07/12/2021 14:12:47 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:13:05 - [http] : GET / 404 46 - 9.382 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:06 - [http] : GET / 404 46 - 1.303 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:07 - [http] : GET / 404 46 - 0.691 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:08 - [http] : GET / 404 46 - 0.379 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:08 - [http] : GET / 404 46 - 0.416 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:09 - [http] : GET / 404 46 - 0.512 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:09 - [http] : GET / 404 46 - 0.463 ms[39m
+[35m[39m
+[35m07/12/2021 14:13:10 - [http] : GET / 404 46 - 0.822 ms[39m
+[35m[39m
+[34m07/12/2021 14:14:26 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:14:58 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:02 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:15:05 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:09 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:15:17 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:19 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:21 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:23 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:26 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:28 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:30 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:15:34 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:15:46 - [http] : GET / 404 46 - 8.956 ms[39m
+[35m[39m
+[35m07/12/2021 14:15:47 - [http] : GET / 404 46 - 0.835 ms[39m
+[35m[39m
+[35m07/12/2021 14:15:50 - [http] : GET / 404 46 - 0.383 ms[39m
+[35m[39m
+[34m07/12/2021 14:16:16 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:16:19 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:16:30 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:16:33 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:19:22 - [info] : Server is runnin on port 8000[39m
