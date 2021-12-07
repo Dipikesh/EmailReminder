@@ -72381,3 +72381,66 @@
 [35m}[39m
 [35m07/12/2021 14:48:23 - [http] : GET /api/reminder/info 304 - - 2577.965 ms[39m
 [35m[39m
+[35m07/12/2021 14:49:49 - [http] : GET / 200 1000 - 1.296 ms[39m
+[35m[39m
+[35m07/12/2021 14:49:49 - [http] : GET /static/js/home 304 - - 3.084 ms[39m
+[35m[39m
+[35m07/12/2021 14:49:49 - [http] : GET /static/css/home 304 - - 1.821 ms[39m
+[35m[39m
+[35m07/12/2021 14:49:49 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:49:49 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:49:49 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:49:49 - [http] : GET /api/reminder/info 304 - - 545.591 ms[39m
+[35m[39m
