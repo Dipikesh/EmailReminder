@@ -1423,3 +1423,4 @@
 [31m07/12/2021 12:45:58 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
 [31m07/12/2021 12:46:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
 [31m07/12/2021 14:11:16 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
+[31m07/12/2021 14:19:52 - [error] : Error in Profile controller  NotFoundError: Email not found[39m

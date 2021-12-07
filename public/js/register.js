@@ -15,7 +15,7 @@ async function sendOtp(email = {}) {
     alert("wait for 5-7 sec ");
   }, 500);
 
-  const response = await fetch("http://localhost:8000/api/auth/register", {
+  const response = await fetch("/api/auth/register", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
@@ -59,7 +59,7 @@ async function formSubmited(e) {
   console.log("result: " + JSON.stringify(result));
 
   if (result.success) {
-    window.location.href = "http://localhost:8000/otp";
+    window.location.href = "/otp";
   }
 
 }

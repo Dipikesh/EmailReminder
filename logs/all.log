@@ -71452,3 +71452,186 @@
 [34m07/12/2021 14:16:30 - [info] : Server is runnin on port 8000[39m
 [34m07/12/2021 14:16:33 - [info] : Mongoose server listening[39m
 [34m07/12/2021 14:19:22 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:19:26 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:19:50 - [http] : GET / 200 993 - 11.973 ms[39m
+[35m[39m
+[35m07/12/2021 14:19:50 - [http] : GET /static/js/home 200 3305 - 2.085 ms[39m
+[35m[39m
+[35m07/12/2021 14:19:50 - [http] : GET /static/css/home 200 938 - 1.637 ms[39m
+[35m[39m
+[35m07/12/2021 14:19:51 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m07/12/2021 14:19:51 - [debug] : Access token successfully signed [39m
+[35m07/12/2021 14:19:51 - [debug] : PAYLOAD .....{"exp":1638858685,"sub":"61947ffcaaf1c21344257c5a","iat":1638855085575,"iss":"emailReminder.com","type":"at"}....{"exp":1638870591,"sub":"61947ffcaaf1c21344257c5a","iat":1638866991645,"iss":"emailReminder.com","type":"at"}[39m
+[35m07/12/2021 14:19:51 - [debug] : update token query ....{"n":1,"nModified":1,"opTime":{"ts":"7038880128838926347","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038880128838926347","signature":{"hash":"1o57abt2KvXsyyfrMVz3vG55Jww=","keyId":"6985511260355821571"}},"operationTime":"7038880128838926347"}[39m
+[35m07/12/2021 14:19:51 - [debug] : Token Expiry Time found and updated Successfully[39m
+[35m07/12/2021 14:19:51 - [debug] : jwt is ...save token expirytrue[39m
+[31m07/12/2021 14:19:52 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[35m07/12/2021 14:19:52 - [http] : GET /api/reminder/info 404 52 - 744.275 ms[39m
+[35m[39m
+[35m07/12/2021 14:19:52 - [http] : GET /login 200 2280 - 1.660 ms[39m
+[35m[39m
+[35m07/12/2021 14:19:52 - [http] : GET /static/css 304 - - 1.665 ms[39m
+[35m[39m
+[35m07/12/2021 14:19:52 - [http] : GET /static/js/login 304 - - 1.614 ms[39m
+[35m[39m
+[35m07/12/2021 14:20:19 - [http] : GET /static/js/home 200 3305 - 1.145 ms[39m
+[35m[39m
+[35m07/12/2021 14:20:19 - [http] : GET /static/css/home 200 938 - 1.280 ms[39m
+[35m[39m
+[35m07/12/2021 14:20:20 - [http] : OPTIONS /api/reminder/info 200 0 - 1.175 ms[39m
+[35m[39m
+[34m07/12/2021 14:20:57 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:21:01 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:21:14 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:21:17 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:22:07 - [http] : GET /login 304 - - 11.155 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:07 - [http] : GET /static/js/login 304 - - 1.171 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:07 - [http] : GET /static/css 304 - - 1.073 ms[39m
+[35m[39m
+[34m07/12/2021 14:22:09 - [info] : Login Validation Success[39m
+[35m07/12/2021 14:22:10 - [debug] : Access token successfully signed [39m
+[35m07/12/2021 14:22:10 - [http] : POST /api/auth/login 200 934 - 372.612 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:10 - [http] : GET /home 404 46 - 1.541 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:10 - [debug] : Token Expiry Time saved Successfully[39m
+[35m07/12/2021 14:22:20 - [http] : GET /home 404 46 - 0.929 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:25 - [http] : GET / 304 - - 1.867 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:25 - [http] : GET /static/js/home 200 3263 - 3.416 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:25 - [http] : GET /static/css/home 304 - - 0.652 ms[39m
+[35m[39m
+[35m07/12/2021 14:22:25 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:22:25 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:22:26 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:22:26 - [http] : GET /api/reminder/info 200 944 - 790.853 ms[39m
+[35m[39m
+[34m07/12/2021 14:23:38 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:23:41 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:23:47 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:23:50 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:23:58 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:24:01 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:24:04 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:24:07 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:24:19 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:24:22 - [info] : Mongoose server listening[39m
+[35m07/12/2021 14:24:40 - [http] : GET / 304 - - 12.496 ms[39m
+[35m[39m
+[35m07/12/2021 14:24:41 - [http] : GET /static/js/home 200 3242 - 4.708 ms[39m
+[35m[39m
+[35m07/12/2021 14:24:41 - [http] : GET /static/css/home 304 - - 4.482 ms[39m
+[35m[39m
+[35m07/12/2021 14:24:41 - [debug] : Token successfully validated[39m
+[35m07/12/2021 14:24:42 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m07/12/2021 14:24:42 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 6195e195b9ba75137a592325,[39m
+[35m      date: 2021-12-29T13:27:59.000Z,[39m
+[35m      jobId: 'a14d6e0a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61a9fa1d6c8e14c4f2540e6a,[39m
+[35m      date: 2021-12-24T13:27:59.000Z,[39m
+[35m      jobId: 'e3a4ada8',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aee192ea2fa61caa63835a,[39m
+[35m      date: 2021-12-08T06:30:00.000Z,[39m
+[35m      jobId: '9351567d',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61aee1caea2fa61caa638360,[39m
+[35m      date: 2021-12-07T04:25:00.000Z,[39m
+[35m      jobId: 'e45b2bd9',[39m
+[35m      name: 'sadf',[39m
+[35m      description: 'sdd'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aef9d38ad02643186b5f95,[39m
+[35m      date: 2022-01-21T06:30:00.000Z,[39m
+[35m      jobId: '913b68ad',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61aefad55851b5445241ae53,[39m
+[35m      date: 2022-01-27T06:30:00.000Z,[39m
+[35m      jobId: 'a0a696c3',[39m
+[35m      name: 'dsfsd',[39m
+[35m      description: 'sddg'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m07/12/2021 14:24:42 - [http] : GET /api/reminder/info 304 - - 820.051 ms[39m
+[35m[39m

@@ -2,7 +2,7 @@ const otpBtn = document.getElementById('otpForm');
 otpBtn.addEventListener('submit', otpForm);
 
 async function verifyingOtp(data) {
-   const result = await fetch("http://localhost:8000/api/auth/cnfrm-register", {
+   const result = await fetch("/api/auth/cnfrm-register", {
      method: "POST",
      headers: {
        "Content-Type": "application/json",
@@ -32,7 +32,7 @@ async function otpForm(e) {
     const verifyOtp = await verifyingOtp(data);
     console.log(JSON.stringify(verifyOtp));
     if (verifyOtp.success) {
-    return window.location.href = "http://localhost:8000/login";
+    return window.location.href = "/login";
     
     }
 

@@ -45,7 +45,7 @@ async function createRemider(e) {
     description,
   };
 
-  const response = await fetch(`http://localhost:8000/api/reminder/create`, {
+  const response = await fetch(`/api/reminder/create`, {
     method: "POST",
     withCredentials: true,
     credentials: 'same-origin',
@@ -73,7 +73,7 @@ async function createRemider(e) {
 }
 
 async function isAuthenticated(token) {
-  const response = await fetch(`http://localhost:8000/api/reminder/info`, {
+  const response = await fetch(`/api/reminder/info`, {
     method: "GET",
     withCredentials: true,
     credentials: "include",
@@ -90,7 +90,7 @@ async function fetchTaskList() {
   const token = window.localStorage.getItem("token");
   const result = await isAuthenticated(token);
   if (!result.success) {
-    window.location.href = "http://localhost:8000/login";
+    window.location.href = "/login";
   }
 
   console.log("list of tasks ", result.data.job.length);
