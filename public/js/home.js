@@ -98,7 +98,8 @@ async function fetchTaskList() {
   if (!result.success) {
     window.location.href = "/login";
   }
-
+  if (!result.data)
+    return true;
   console.log("list of tasks ", result.data.job.length);
 
   const numberOfTasks = result.data.job;
