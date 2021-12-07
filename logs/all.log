@@ -71635,3 +71635,23 @@
 [35m}[39m
 [35m07/12/2021 14:24:42 - [http] : GET /api/reminder/info 304 - - 820.051 ms[39m
 [35m[39m
+[35m07/12/2021 14:25:04 - [http] : GET /static/js/home 200 3242 - 1.892 ms[39m
+[35m[39m
+[35m07/12/2021 14:25:04 - [http] : GET /static/css/home 304 - - 2.838 ms[39m
+[35m[39m
+[35m07/12/2021 14:25:06 - [http] : GET /static/css 200 4128 - 1.598 ms[39m
+[35m[39m
+[35m07/12/2021 14:25:06 - [http] : GET /static/js/login 200 860 - 1.985 ms[39m
+[35m[39m
+[35m07/12/2021 14:25:18 - [http] : OPTIONS /api/auth/login 200 0 - 1.598 ms[39m
+[35m[39m
+[34m07/12/2021 14:25:18 - [info] : Login Validation Success[39m
+[35m07/12/2021 14:25:19 - [debug] : Access token successfully signed [39m
+[35m07/12/2021 14:25:19 - [http] : POST /api/auth/login 200 934 - 425.827 ms[39m
+[35m[39m
+[35m07/12/2021 14:25:19 - [http] : GET /home 404 46 - 1.079 ms[39m
+[35m[39m
+[35m07/12/2021 14:25:19 - [debug] : Token Expiry Time saved Successfully[39m
+[34m07/12/2021 14:25:58 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 14:26:02 - [info] : Mongoose server listening[39m
+[34m07/12/2021 14:26:07 - [info] : Server is runnin on port 8000[39m

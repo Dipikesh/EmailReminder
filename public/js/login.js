@@ -2,7 +2,7 @@ const loginForm = document.getElementById('loginForm');
 loginForm.addEventListener('submit', loginSubmit);
 
 async function logined(data) {
-    const response = await fetch("http://localhost:8000/api/auth/login", {
+    const response = await fetch("/api/auth/login", {
         method: 'POST',
         headers: {
             "Content-Type": "application/json"
@@ -25,7 +25,7 @@ async function loginSubmit(e) {
     
     if (result.success) {
         window.localStorage.setItem('token',result.token);
-       return window.location.href = 'http://localhost:8000/home'
+       return window.location.href = '/'
     }
     alert("Invalid Credentials");
 }
