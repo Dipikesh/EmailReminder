@@ -5,6 +5,7 @@ const createError = require('http-errors');
 
 exports.userData = async (req, res, next) => {
     try {
+        logger.debug("authenticated header ", req.headers);
         const { error } = await userData().validate(req.body);
         if (error)
             throw createError(422, error);

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+    <script defer src="http://localhost:8000/static/js/home"></script>
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="http://localhost:8000/static/css/home">
+</head>
+<body>
+    <form id = "task" class="form">
+        <input class="input" id = "name" type="text" placeholder="Name of Task"  required/>
+        <input class="input" id = "description" type="text" placeholder="Description" required/>
+        <input class="input" id = "date" type="datetime-local" placeholder="Date and Time"  required/>
+        <Button type = "submit" class="button">Add task</button>
+    </form>
+    <ol class="list"></ol>
+</body>
+</html>

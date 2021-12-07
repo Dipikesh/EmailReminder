@@ -1074,3 +1074,349 @@
 [31m10/10/2021 14:10:32 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
 [31m10/10/2021 14:21:16 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
 [31m10/10/2021 14:21:16 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m13/11/2021 11:23:37 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m15/11/2021 12:05:29 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m16/11/2021 11:35:44 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m16/11/2021 11:57:33 - [error] : Can not Connect MongoError: bad auth : Authentication failed.[39m
+[31m16/11/2021 11:59:53 - [error] : Can not Connect MongoError: bad auth : Authentication failed.[39m
+[31m17/11/2021 09:37:31 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m17/11/2021 12:45:54 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfPassword" must be [ref:password][39m
+[31m17/11/2021 12:46:44 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfPassword" must be [ref:password][39m
+[31m17/11/2021 12:48:45 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfPassword" must be [ref:password][39m
+[31m17/11/2021 12:52:12 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m17/11/2021 12:53:01 - [error] : Error in OTP controller  BadRequestError: Email is already registered and verified[39m
+[31m17/11/2021 12:53:03 - [error] : Error in OTP controller  BadRequestError: Email is already registered and verified[39m
+[31m18/11/2021 10:44:48 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m18/11/2021 10:45:30 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m18/11/2021 10:45:57 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-11-18T05:15:57.667Z"[39m
+[31m18/11/2021 10:47:42 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:47:52 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:52:56 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:02 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:07 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:37 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:44 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:20 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:21 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:22 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:30 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:30 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:31 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:31 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:13 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:18 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:35 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:40 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:49 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:52 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:53 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:59:09 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m18/11/2021 10:59:12 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m18/11/2021 11:00:13 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m18/11/2021 11:59:51 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m18/11/2021 12:00:05 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:00:24 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:00:28 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:00:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:01:09 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:38:30 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m18/11/2021 13:38:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:38:45 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:38:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:03 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:07 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:08 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:12 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:32 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:37 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:42 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:48 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:48 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:59 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:59 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:40:11 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:43:10 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:43:11 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:43:23 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:46:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:46:28 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:46:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:06 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:23 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:40 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:49:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:49:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:02 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:03 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:05 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:09 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:18 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:56:10 - [error] : Login  Validation Error ValidationError: "password" is not allowed to be empty[39m
+[31m19/11/2021 10:43:51 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m19/11/2021 10:44:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:44:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:44:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:47:51 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:48:45 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:49:29 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:49:36 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:59:52 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:59:55 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:54:38 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:54:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:55:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:56:59 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:58:06 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:58:51 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m23/11/2021 12:59:46 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 12:59:47 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:59:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:59:55 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:00 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:01 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:04 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:08 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:09 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:35 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:00:39 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:01:56 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:01:59 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:13 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:20 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:23 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:33 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:35 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:36 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:38 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:38 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:41 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:51 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:58 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:03:08 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:03:12 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:03:14 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:18 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:51 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:51 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:05:08 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:05:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:05:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:12:07 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:13:22 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:20:17 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:20:45 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:22:18 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:23:31 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:24:28 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 14:02:00 - [error] : Error in Profile controller  MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+[31m23/11/2021 14:44:10 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m23/11/2021 14:44:10 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:10 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:11 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:12 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:12 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:13 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:14 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:14 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:15 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:15 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:17 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:18 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:18 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:19 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:20 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:21 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:21 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:22 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:22 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:23 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:24 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:24 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:25 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:27 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:27 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:27 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:28 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:29 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:29 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:30 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:30 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:31 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:31 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:32 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:32 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:33 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:34 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:34 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:35 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:35 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:37 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:37 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:39 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:39 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:40 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:40 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:41 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:42 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:42 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:43 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:43 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:45 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:46 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:46 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:48 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:49 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:49 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:50 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:51 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:51 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:54 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:54 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:54 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m25/11/2021 15:18:33 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
+[31m25/11/2021 15:18:56 - [error] : Authentication Error MongooseError: Operation `auths.updateOne()` buffering timed out after 10000ms[39m
+[31m25/11/2021 15:19:04 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.<anonymous> (/home/dipikesh/Desktop/web/EmailReminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at listOnTimeout (internal/timers.js:557:17)[39m
+[31m    at processTimers (internal/timers.js:500:7)[39m
+[31m25/11/2021 16:23:09 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m25/11/2021 16:23:25 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m25/11/2021 16:23:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m02/12/2021 11:37:30 - [error] : Programatic Error, Shutting down due to ReferenceError: path is not defined[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/src/routes/static.routes.js:6:18[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m02/12/2021 11:38:00 - [error] : Programatic Error, Shutting down due to ReferenceError: __dirName is not defined[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/src/routes/static.routes.js:7:28[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m03/12/2021 10:25:37 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:25:58 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:26:19 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:26:46 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:27:15 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:30:07 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m03/12/2021 13:54:02 - [error] : Confirm Registeration  Validation Error ValidationError: "password" length must be at least 8 characters long. "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:55:17 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:55:32 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:56:23 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:56:25 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:58:54 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m03/12/2021 13:58:56 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m03/12/2021 16:35:47 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/12/2021 16:59:28 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m03/12/2021 20:05:06 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m03/12/2021 20:05:19 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:18:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:19:20 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:19:25 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:19:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:20:43 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m04/12/2021 11:43:41 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 09:17:30 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 10:21:11 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 14:01:02 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 20:13:27 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 21:34:03 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 21:35:42 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m05/12/2021 21:36:11 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m05/12/2021 21:42:53 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m05/12/2021 21:45:15 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:24:01 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m07/12/2021 09:24:24 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:28:14 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:30:02 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:30:29 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:32:39 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:36:30 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:43:07 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:49:25 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:50:50 - [error] : User Validation Error ValidationError: "date" must be in ISO 8601 date format[39m
+[31m07/12/2021 09:56:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:00:01 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:30:00.982Z"[39m
+[31m07/12/2021 10:00:58 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:30:58.771Z"[39m
+[31m07/12/2021 10:01:56 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:02:46 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:02:59 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:32:59.926Z"[39m
+[31m07/12/2021 10:03:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:04:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:04:51 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:34:51.418Z"[39m
+[31m07/12/2021 11:01:20 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m07/12/2021 11:01:36 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:31:36.512Z"[39m
+[31m07/12/2021 11:01:53 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:31:53.942Z"[39m
+[31m07/12/2021 11:12:26 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:42:26.683Z"[39m
+[31m07/12/2021 11:12:49 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:42:49.377Z"[39m
+[31m07/12/2021 11:13:19 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:43:19.627Z"[39m
+[31m07/12/2021 11:18:50 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:48:50.404Z"[39m
+[31m07/12/2021 11:20:53 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:50:52.952Z"[39m
+[31m07/12/2021 11:23:49 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:53:49.302Z"[39m
+[31m07/12/2021 11:25:02 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:55:02.127Z"[39m
+[31m07/12/2021 11:25:09 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:55:09.722Z"[39m
+[31m07/12/2021 11:26:02 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:56:02.298Z"[39m
+[31m07/12/2021 11:27:59 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:57:59.244Z"[39m
+[31m07/12/2021 11:28:30 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:58:30.909Z"[39m
+[31m07/12/2021 11:29:00 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:59:00.629Z"[39m
+[31m07/12/2021 11:29:36 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:59:36.218Z"[39m
+[31m07/12/2021 11:29:57 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long[39m
+[31m07/12/2021 11:32:07 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:02:07.532Z"[39m
+[31m07/12/2021 11:32:51 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:02:51.792Z"[39m
+[31m07/12/2021 11:33:27 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:03:27.703Z"[39m
+[31m07/12/2021 11:33:49 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:03:49.885Z"[39m
+[31m07/12/2021 11:34:39 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:04:39.842Z"[39m
+[31m07/12/2021 11:35:05 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:05:05.315Z"[39m
+[31m07/12/2021 11:40:45 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:40:55 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:41:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:42:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:43:30 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:45:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:45:49 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m

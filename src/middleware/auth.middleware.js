@@ -56,6 +56,7 @@ exports.validateLogin = async (req, res, next) => {
 
 exports.authenticate = async (req, res, next) => {
     try {
+        console.log("Header is present ", req.headers);
         if (!req.headers['authorization'])
             throw createError(401, "Authorizaion Required");
         const token = req.headers['authorization'].split(" ")[1];

@@ -23,11 +23,12 @@ app.use(express.urlencoded({ extended: true }));
 
 app.options(
   "*",
-  cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 })
+  cors({ origin: "*", optionsSuccessStatus: 200 })
 );
-app.use(cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 }));
-
-app.use("/api", require("./routes"));
+app.use(cors({ origin: "*", optionsSuccessStatus: 200 }));
+// app.use(cors());
+// app.use("/api", require("./routes"));
+app.use("/", require("./routes"));
 
 //Adding Swagger
 

@@ -24,10 +24,10 @@ exports.login = async (req, res, next) => {
         const saveExpTime = authService.saveTokenExp(payload);
 
         res.cookie('Authorization', accessToken, {
-            maxAge: 1000 * 60 * 60 * 24 * 1, //Currently valid for one day // TODO: Change this!
+            maxAge: 1000 * 60 * 60 * 24 * 7, //Currently valid for 7 dayS // TODO: Change this!
         httpOnly: true,
         })
-        res.status(200).json({status:"success",message:"User logged in successfully"});
+        res.status(200).json({success: true,message:"User logged in successfully",token:accessToken});
     }
     catch (err) {
         logger.debug("Login Controller "+ err)

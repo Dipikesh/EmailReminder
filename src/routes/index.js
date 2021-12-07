@@ -4,10 +4,8 @@ const authMiddleware = require('../middleware/auth.middleware');
 const reminder = require('./reminder.routes');
 
 
-router.use('/auth', require('./auth.routes'));
-router.use('/reminder', authMiddleware.authenticate, reminder);
-router.get('/', (req, res) => {
-    res.status(200).send("okay");
-})
+router.use('/api/auth', require('./auth.routes'));
+router.use('/api/reminder', authMiddleware.authenticate, reminder);
+router.use('/', require('./static.routes'));
 
 module.exports = router;
