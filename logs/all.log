@@ -72444,3 +72444,51 @@
 [35m}[39m
 [35m07/12/2021 14:49:49 - [http] : GET /api/reminder/info 304 - - 545.591 ms[39m
 [35m[39m
+[34m07/12/2021 15:07:32 - [info] : Mongoose connection is disconnected.[39m
+[34m07/12/2021 16:27:34 - [info] : Mongoose connection is disconnected.[39m
+[35m07/12/2021 16:28:43 - [http] : GET /static/css/home 304 - - 0.595 ms[39m
+[35m[39m
+[35m07/12/2021 16:28:43 - [http] : GET /static/js/home 200 3280 - 0.976 ms[39m
+[35m[39m
+[35m07/12/2021 16:28:44 - [http] : GET /static/css 200 4128 - 0.840 ms[39m
+[35m[39m
+[35m07/12/2021 16:28:44 - [http] : GET /static/js/login 200 814 - 0.875 ms[39m
+[35m[39m
+[35m07/12/2021 16:28:53 - [http] : GET /static/js/home 304 - - 0.465 ms[39m
+[35m[39m
+[35m07/12/2021 16:28:53 - [http] : GET /static/css/home 304 - - 0.467 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:28 - [http] : GET /static/css/home 304 - - 0.487 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:28 - [http] : GET /static/js/home 200 3280 - 0.720 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:29 - [http] : GET /static/css 304 - - 0.489 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:29 - [http] : GET /static/js/login 304 - - 0.593 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:35 - [http] : GET /register 200 3131 - 1.526 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:35 - [http] : GET /static/css 304 - - 0.410 ms[39m
+[35m[39m
+[35m07/12/2021 18:10:35 - [http] : GET /static/js/register 200 1670 - 0.869 ms[39m
+[35m[39m
+[34m07/12/2021 18:11:05 - [info] : Registration Validation Success[39m
+[35m07/12/2021 18:11:07 - [debug] : Register User Successfully {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61af5663b3d69c51bbdc6ac2"}],"opTime":{"ts":"7038939725805125637","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038939725805125637","signature":{"hash":"xUXKtflxdk4r9mh0QVyHPIuvp1Q=","keyId":"6985511260355821571"}},"operationTime":"7038939725805125637"}[39m
+[34m07/12/2021 18:11:14 - [info] : Email has been successfully sent to suvadeepmaity.ece2019@nsec.ac.in[39m
+[35m07/12/2021 18:11:14 - [http] : POST /api/auth/register 201 82 - 9436.748 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:14 - [http] : GET /otp 200 1673 - 0.878 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:14 - [http] : GET /static/css 304 - - 0.407 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:14 - [http] : GET /static/js/otp 200 1010 - 2.356 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:33 - [http] : GET /static/css/home 304 - - 0.657 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:33 - [http] : GET /static/js/home 304 - - 0.487 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:34 - [http] : GET /static/css 304 - - 0.765 ms[39m
+[35m[39m
+[35m07/12/2021 18:11:34 - [http] : GET /static/js/login 304 - - 0.668 ms[39m
+[35m[39m
+[34m07/12/2021 18:11:40 - [info] : Mongoose connection is disconnected.[39m
