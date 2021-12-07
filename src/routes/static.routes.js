@@ -17,7 +17,7 @@ router.get("/otp", (req, res) => {
   // res.send("okay");
 });
 
-router.get("/home", (req, res) => {
+router.get("/", (req, res) => {
   console.log("dirName", __dirname);
   res.sendFile(
     path.join(__dirname + "../" + "../" + "../" + "/public/pages/home.html")

@@ -71216,3 +71216,161 @@
 [34m07/12/2021 12:22:12 - [info] : Mongoose server listening[39m
 [34m07/12/2021 12:24:37 - [info] : Server is runnin on port 8000[39m
 [34m07/12/2021 12:24:41 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:44:00 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:44:03 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:44:07 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:44:14 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:44:17 - [info] : Mongoose server listening[39m
+[35m07/12/2021 12:45:25 - [http] : GET /register 304 - - 12.895 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:25 - [http] : GET /static/css 304 - - 2.384 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:25 - [http] : GET /static/js/register 200 1640 - 4.767 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:26 - [http] : GET /favicon.ico 404 46 - 7.498 ms[39m
+[35m[39m
+[34m07/12/2021 12:45:46 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:45:48 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:45:51 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:45:53 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 12:45:56 - [http] : GET / 200 993 - 18.681 ms[39m
+[35m[39m
+[34m07/12/2021 12:45:56 - [info] : Mongoose server listening[39m
+[35m07/12/2021 12:45:56 - [http] : GET /static/css/home 304 - - 2.716 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:57 - [http] : GET /static/js/home 200 3305 - 5.009 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:58 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m07/12/2021 12:45:58 - [debug] : Access token successfully signed [39m
+[35m07/12/2021 12:45:58 - [debug] : PAYLOAD .....{"exp":1638534718,"sub":"61a9ff71b3d69c51bb505a2f","iat":1638531118479,"iss":"emailReminder.com","type":"at"}....{"exp":1638864958,"sub":"61a9ff71b3d69c51bb505a2f","iat":1638861358100,"iss":"emailReminder.com","type":"at"}[39m
+[35m07/12/2021 12:45:58 - [debug] : update token query ....{"n":1,"nModified":1,"opTime":{"ts":"7038855935288147975","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038855935288147977","signature":{"hash":"wzIyklqZOdzLt9wbL2nxPwazhTs=","keyId":"6985511260355821571"}},"operationTime":"7038855935288147975"}[39m
+[35m07/12/2021 12:45:58 - [debug] : Token Expiry Time found and updated Successfully[39m
+[35m07/12/2021 12:45:58 - [debug] : jwt is ...save token expirytrue[39m
+[31m07/12/2021 12:45:58 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[35m07/12/2021 12:45:58 - [http] : GET /api/reminder/info 404 52 - 676.461 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:58 - [http] : GET /login 304 - - 1.629 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:58 - [http] : GET /static/css 304 - - 1.314 ms[39m
+[35m[39m
+[35m07/12/2021 12:45:58 - [http] : GET /static/js/login 304 - - 1.566 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:01 - [http] : GET /register.html 404 46 - 2.429 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:48 - [http] : GET /register.html 404 46 - 1.155 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:52 - [http] : GET / 304 - - 2.253 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:52 - [http] : GET /static/css/home 304 - - 0.772 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:52 - [http] : GET /static/js/home 304 - - 0.749 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:52 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m07/12/2021 12:46:52 - [debug] : Access token successfully signed [39m
+[35m07/12/2021 12:46:52 - [debug] : PAYLOAD .....{"exp":1638534718,"sub":"61a9ff71b3d69c51bb505a2f","iat":1638531118479,"iss":"emailReminder.com","type":"at"}....{"exp":1638865012,"sub":"61a9ff71b3d69c51bb505a2f","iat":1638861412807,"iss":"emailReminder.com","type":"at"}[39m
+[35m07/12/2021 12:46:53 - [debug] : update token query ....{"n":0,"nModified":0,"opTime":{"ts":"7038856171511349253","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038856171511349253","signature":{"hash":"22K28DQRRlRMBbZPUAqtZgZMboM=","keyId":"6985511260355821571"}},"operationTime":"7038856171511349253"}[39m
+[35m07/12/2021 12:46:53 - [debug] : Token Expiry can not be updated[39m
+[31m07/12/2021 12:46:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[35m07/12/2021 12:46:53 - [http] : GET /api/reminder/info 401 48 - 321.793 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:53 - [http] : GET /login 200 2280 - 1.322 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:53 - [http] : GET /static/css 304 - - 0.760 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:53 - [http] : GET /static/js/login 304 - - 0.794 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:55 - [http] : GET /register 304 - - 2.183 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:55 - [http] : GET /static/css 304 - - 1.269 ms[39m
+[35m[39m
+[35m07/12/2021 12:46:55 - [http] : GET /static/js/register 304 - - 1.260 ms[39m
+[35m[39m
+[34m07/12/2021 12:47:19 - [info] : Registration Validation Success[39m
+[35m07/12/2021 12:47:20 - [debug] : Register User Successfully {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61af0a80b3d69c51bb8f00d6"}],"opTime":{"ts":"7038856287475466248","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038856287475466248","signature":{"hash":"Hx7jBvfgSUZX/95D/SVtKGdZoHk=","keyId":"6985511260355821571"}},"operationTime":"7038856287475466248"}[39m
+[34m07/12/2021 12:47:26 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m07/12/2021 12:47:26 - [http] : POST /api/auth/register 201 72 - 6569.264 ms[39m
+[35m[39m
+[35m07/12/2021 12:47:26 - [http] : GET /otp 304 - - 1.062 ms[39m
+[35m[39m
+[35m07/12/2021 12:47:26 - [http] : GET /static/css 304 - - 0.521 ms[39m
+[35m[39m
+[35m07/12/2021 12:47:26 - [http] : GET /static/js/otp 304 - - 0.741 ms[39m
+[35m[39m
+[34m07/12/2021 12:49:24 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:49:27 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:49:29 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:49:31 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:49:35 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:49:59 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:50:01 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:50:12 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:50:15 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:50:18 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:50:21 - [info] : Mongoose server listening[39m
+[35m07/12/2021 12:50:26 - [http] : GET /otp 304 - - 13.745 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:26 - [http] : GET /static/css 304 - - 0.862 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:26 - [http] : GET /static/js/otp 304 - - 1.099 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:30 - [http] : GET /register 304 - - 1.181 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:31 - [http] : GET /static/css 304 - - 0.566 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:31 - [http] : GET /static/js/register 200 1712 - 9.007 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:33 - [http] : GET /login.html 404 46 - 6.082 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:55 - [http] : GET /login.html 404 46 - 1.676 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:58 - [http] : GET /register 200 3131 - 2.685 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:58 - [http] : GET /static/css 304 - - 1.170 ms[39m
+[35m[39m
+[35m07/12/2021 12:50:58 - [http] : GET /static/js/register 304 - - 1.456 ms[39m
+[35m[39m
+[34m07/12/2021 12:51:30 - [info] : Registration Validation Success[39m
+[35m07/12/2021 12:51:31 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7038857365512257541","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038857365512257541","signature":{"hash":"t+F8gLLKCqyjanP/irLiRO4CMSc=","keyId":"6985511260355821571"}},"operationTime":"7038857365512257541"}[39m
+[34m07/12/2021 12:51:37 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m07/12/2021 12:51:37 - [http] : POST /api/auth/register 201 72 - 6272.921 ms[39m
+[35m[39m
+[35m07/12/2021 12:51:43 - [http] : GET /static/css 304 - - 0.499 ms[39m
+[35m[39m
+[34m07/12/2021 12:52:09 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:52:12 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:52:16 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:52:21 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:52:24 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:52:35 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:52:38 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:52:42 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:52:45 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:52:53 - [info] : Server is runnin on port 8000[39m
+[35m07/12/2021 12:52:54 - [http] : GET /register 304 - - 11.720 ms[39m
+[35m[39m
+[35m07/12/2021 12:52:54 - [http] : GET /static/css 304 - - 3.398 ms[39m
+[35m[39m
+[35m07/12/2021 12:52:54 - [http] : GET /static/js/register 200 1712 - 7.749 ms[39m
+[35m[39m
+[34m07/12/2021 12:52:55 - [info] : Mongoose server listening[39m
+[34m07/12/2021 12:53:10 - [info] : Registration Validation Success[39m
+[35m07/12/2021 12:53:11 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7038857795008987140","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7038857795008987140","signature":{"hash":"ozisH3lg94Rf1PCYzCuqIinQIGI=","keyId":"6985511260355821571"}},"operationTime":"7038857795008987140"}[39m
+[34m07/12/2021 12:53:16 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m07/12/2021 12:53:16 - [http] : POST /api/auth/register 201 72 - 6334.338 ms[39m
+[35m[39m
+[35m07/12/2021 12:53:16 - [http] : GET /otp 304 - - 1.258 ms[39m
+[35m[39m
+[35m07/12/2021 12:53:16 - [http] : GET /static/css 304 - - 1.542 ms[39m
+[35m[39m
+[35m07/12/2021 12:53:17 - [http] : GET /static/js/otp 304 - - 1.941 ms[39m
+[35m[39m
+[34m07/12/2021 12:53:32 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:53:36 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:53:39 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 12:53:42 - [info] : Mongoose server listening[39m
+[34m07/12/2021 13:54:09 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 13:54:13 - [info] : Mongoose server listening[39m
+[34m07/12/2021 13:54:23 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 13:54:25 - [info] : Mongoose server listening[39m
+[34m07/12/2021 13:55:08 - [info] : Server is runnin on port 8000[39m
+[34m07/12/2021 13:55:11 - [info] : Mongoose server listening[39m

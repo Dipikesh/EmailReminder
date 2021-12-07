@@ -1420,3 +1420,5 @@
 [31m07/12/2021 11:43:30 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
 [31m07/12/2021 11:45:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
 [31m07/12/2021 11:45:49 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 12:45:58 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m07/12/2021 12:46:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m

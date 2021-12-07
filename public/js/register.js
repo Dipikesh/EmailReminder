@@ -9,7 +9,11 @@ async function validateCredentails(email, password, cnfrmPassword, name) {
 
 }
 
-async function sendOtp(email={}) {
+async function sendOtp(email = {}) {
+  
+  setTimeout(function () {
+    alert("wait for 5-7 sec ");
+  }, 500);
 
   const response = await fetch("http://localhost:8000/api/auth/register", {
     method: "POST",
@@ -49,6 +53,8 @@ async function formSubmited(e) {
 
 
   const result = await sendOtp({ email });
+
+   
 
   console.log("result: " + JSON.stringify(result));
 

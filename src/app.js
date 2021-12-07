@@ -6,7 +6,8 @@ const cors = require("cors");
 const logger = require("./config/logger");
 
 const httpLogger = require("./config/httpLogger");
-const {errorHandler} = require("./middleware/errorHandler");
+const { errorHandler } = require("./middleware/errorHandler");
+const routes = require("./routes");
 
 require(`dotenv`).config();
 
@@ -28,7 +29,7 @@ app.options(
 app.use(cors({ origin: "*", optionsSuccessStatus: 200 }));
 // app.use(cors());
 // app.use("/api", require("./routes"));
-app.use("/", require("./routes"));
+app.use("/", routes);
 
 //Adding Swagger
 

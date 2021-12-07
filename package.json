@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon --delay 500ms ./src/app.js",
+    "start": "node ./src/app.js",
     "test": "mocha test/auth.test.js --timeout 50000"
   },
   "author": "",
