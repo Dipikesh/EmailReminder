@@ -45,16 +45,19 @@ async function createRemider(e) {
     description,
   };
 
-  const response = await fetch(`/api/reminder/create`, {
-    method: "POST",
-    withCredentials: true,
-    credentials: 'same-origin',
-    headers: {
-      Authorization: "Bearer " + token,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify(data),
-  });
+  const response = await fetch(
+    `https://emailreminderpikapika.herokuapp.com/api/reminder/create`,
+    {
+      method: "POST",
+      withCredentials: true,
+      credentials: "same-origin",
+      headers: {
+        Authorization: "Bearer " + token,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(data),
+    }
+  );
 
   const result = await response.json();
   // const res = JSON.stringify(result);
@@ -73,15 +76,18 @@ async function createRemider(e) {
 }
 
 async function isAuthenticated(token) {
-  const response = await fetch(`/api/reminder/info`, {
-    method: "GET",
-    withCredentials: true,
-    credentials: "include",
-    headers: {
-      Authorization: "Bearer " + token,
-      "Content-Type": "application/json",
-    },
-  });
+  const response = await fetch(
+    `https://emailreminderpikapika.herokuapp.com/api/reminder/info`,
+    {
+      method: "GET",
+      withCredentials: true,
+      credentials: "include",
+      headers: {
+        Authorization: "Bearer " + token,
+        "Content-Type": "application/json",
+      },
+    }
+  );
 
   return response.json();
 }
