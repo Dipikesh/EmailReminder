@@ -1424,3 +1424,22 @@
 [31m07/12/2021 12:46:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
 [31m07/12/2021 14:11:16 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
 [31m07/12/2021 14:19:52 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m08/12/2021 09:54:31 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m08/12/2021 10:00:21 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). c81sm1348546pfb.166 - gsmtp[39m
+[31m08/12/2021 10:01:39 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m08/12/2021 10:02:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m08/12/2021 10:03:06 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[31m08/12/2021 10:03:34 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[31m08/12/2021 10:05:13 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). o9sm1014356pgu.12 - gsmtp[39m
+[31m08/12/2021 10:06:03 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:36:03.942Z"[39m
+[31m08/12/2021 10:06:53 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:36:53.350Z"[39m
+[31m08/12/2021 10:07:46 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). f19sm1409966pfv.76 - gsmtp[39m
+[31m08/12/2021 10:09:39 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). w142sm1428706pfc.115 - gsmtp[39m
+[31m08/12/2021 10:09:39 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m08/12/2021 10:23:11 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m08/12/2021 10:24:01 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m08/12/2021 10:24:01 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m08/12/2021 10:25:45 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:55:45.724Z"[39m
+[31m08/12/2021 10:25:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m08/12/2021 10:34:51 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m08/12/2021 10:35:12 - [error] : Error in Profile controller  NotFoundError: User not found[39m

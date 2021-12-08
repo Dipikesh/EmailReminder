@@ -72492,3 +72492,445 @@
 [35m07/12/2021 18:11:34 - [http] : GET /static/js/login 304 - - 0.668 ms[39m
 [35m[39m
 [34m07/12/2021 18:11:40 - [info] : Mongoose connection is disconnected.[39m
+[34m08/12/2021 09:48:16 - [info] : Server is runnin on port 8000[39m
+[34m08/12/2021 09:48:19 - [info] : Mongoose server listening[39m
+[34m08/12/2021 09:52:45 - [info] : Registration Validation Success[39m
+[35m08/12/2021 09:52:45 - [debug] : Register User Successfully {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b03315b3d69c51bb917f0e"}],"opTime":{"ts":"7039182382867415045","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039182382867415045","signature":{"hash":"PwQOppJrrCJVaWR5aAXqA+NClpM=","keyId":"6985511260355821571"}},"operationTime":"7039182382867415045"}[39m
+[34m08/12/2021 09:52:52 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m08/12/2021 09:52:52 - [http] : POST /api/auth/register 201 72 - 7308.788 ms[39m
+[35m[39m
+[34m08/12/2021 09:54:31 - [info] : Confirm Registeration Validation Success[39m
+[31m08/12/2021 09:54:31 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[35m08/12/2021 09:54:31 - [http] : POST /api/auth/cnfrm-register 400 49 - 341.587 ms[39m
+[35m[39m
+[34m08/12/2021 09:54:38 - [info] : Registration Validation Success[39m
+[35m08/12/2021 09:54:39 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039182872493686791","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039182872493686791","signature":{"hash":"hkojRn49fU2qesK4nom9fkBspPM=","keyId":"6985511260355821571"}},"operationTime":"7039182872493686791"}[39m
+[34m08/12/2021 09:54:42 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m08/12/2021 09:54:42 - [http] : POST /api/auth/register 201 72 - 4002.895 ms[39m
+[35m[39m
+[34m08/12/2021 09:55:46 - [info] : Registration Validation Success[39m
+[35m08/12/2021 09:55:47 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039183164551462921","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039183164551462921","signature":{"hash":"eMqSNsn960del8jB8YXZtr6J4SI=","keyId":"6985511260355821571"}},"operationTime":"7039183164551462921"}[39m
+[34m08/12/2021 09:55:52 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m08/12/2021 09:55:52 - [http] : POST /api/auth/register 201 72 - 5961.729 ms[39m
+[35m[39m
+[34m08/12/2021 09:56:05 - [info] : Mongoose connection is disconnected.[39m
+[34m08/12/2021 09:56:08 - [info] : Server is runnin on port 8000[39m
+[34m08/12/2021 09:56:11 - [info] : Mongoose server listening[39m
+[34m08/12/2021 09:56:17 - [info] : Registration Validation Success[39m
+[35m08/12/2021 09:56:18 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039183297695449091","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039183297695449093","signature":{"hash":"l0zOoGCAv4SW3MU02CLsIdpXJVw=","keyId":"6985511260355821571"}},"operationTime":"7039183297695449091"}[39m
+[34m08/12/2021 09:56:22 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m08/12/2021 09:56:22 - [http] : POST /api/auth/register 201 72 - 5180.994 ms[39m
+[35m[39m
+[34m08/12/2021 09:56:52 - [info] : Confirm Registeration Validation Success[39m
+[35m08/12/2021 09:56:53 - [debug] : Users OTP matched  Success  ...Etime 1638937577   1638937613[39m
+[35m08/12/2021 09:56:53 - [debug] : Final Registration Success[39m
+[35m08/12/2021 09:56:53 - [http] : POST /api/auth/cnfrm-register 201 44 - 815.919 ms[39m
+[35m[39m
+[34m08/12/2021 09:57:04 - [info] : Login Validation Success[39m
+[35m08/12/2021 09:57:05 - [debug] : Access token successfully signed [39m
+[35m08/12/2021 09:57:05 - [http] : POST /api/auth/login 200 934 - 297.811 ms[39m
+[35m[39m
+[35m08/12/2021 09:57:05 - [debug] : Token Expiry Time saved Successfully[39m
+[34m08/12/2021 09:57:10 - [info] : Login Validation Success[39m
+[35m08/12/2021 09:57:11 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m08/12/2021 09:57:11 - [http] : POST /api/auth/login 401 60 - 417.636 ms[39m
+[35m[39m
+[34m08/12/2021 09:57:17 - [info] : Login Validation Success[39m
+[35m08/12/2021 09:57:18 - [debug] : Access token successfully signed [39m
+[35m08/12/2021 09:57:18 - [http] : POST /api/auth/login 200 934 - 285.471 ms[39m
+[35m[39m
+[35m08/12/2021 09:57:18 - [debug] : Token Expiry Time saved Successfully[39m
+[35m08/12/2021 09:57:37 - [debug] : Token successfully validated[39m
+[35m08/12/2021 09:57:37 - [debug] : authenticated header [39m
+[34m08/12/2021 09:57:37 - [info] : User Validation Success[39m
+[35m08/12/2021 09:57:37 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 09:57:38 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 09:57:38 - [debug] : JOB ID IS ....a3e5861c[39m
+[35m08/12/2021 09:57:38 - [debug] : Email is scheduled for jobId  a3e5861c[39m
+[35m08/12/2021 09:57:38 - [debug] : User data on update returns {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b0343ab3d69c51bb92a3fb"}],"opTime":{"ts":"7039183641292832775","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039183641292832775","signature":{"hash":"G4fMdeox9wXa/9y7Ida2fWIp56E=","keyId":"6985511260355821571"}},"operationTime":"7039183641292832775"}[39m
+[35m08/12/2021 09:57:38 - [http] : POST /api/reminder/create 201 93 - 966.044 ms[39m
+[35m[39m
+[35m08/12/2021 09:58:07 - [debug] : Token successfully validated[39m
+[35m08/12/2021 09:58:07 - [debug] : authenticated header [39m
+[34m08/12/2021 09:58:07 - [info] : User Validation Success[39m
+[35m08/12/2021 09:58:07 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 09:58:08 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 09:58:08 - [debug] : JOB ID IS ....1dbc28bf[39m
+[35m08/12/2021 09:58:08 - [debug] : Email is scheduled for jobId  1dbc28bf[39m
+[35m08/12/2021 09:58:08 - [debug] : User data on update returns {"n":1,"nModified":1,"opTime":{"ts":"7039183770141851650","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039183770141851650","signature":{"hash":"Ka34zvQpFBiZW+9wNdAut41Wn6k=","keyId":"6985511260355821571"}},"operationTime":"7039183770141851650"}[39m
+[35m08/12/2021 09:58:08 - [http] : POST /api/reminder/create 201 93 - 926.595 ms[39m
+[35m[39m
+[35m08/12/2021 09:59:00 - [debug] : scheduler is running at 2021-12-08T09:59[39m
+[31m08/12/2021 10:00:21 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). c81sm1348546pfb.166 - gsmtp[39m
+[35m08/12/2021 10:01:38 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:01:38 - [debug] : authenticated header [39m
+[34m08/12/2021 10:01:38 - [info] : User Validation Success[39m
+[35m08/12/2021 10:01:39 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:01:39 - [debug] : User with around same date exist { _id: 61b0343ab3d69c51bb92a3fb }[39m
+[31m08/12/2021 10:01:39 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m08/12/2021 10:01:39 - [http] : POST /api/reminder/create 400 114 - 752.165 ms[39m
+[35m[39m
+[35m08/12/2021 10:01:57 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:01:57 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:01:57 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b0343a4b8e0b9b78ad6804,[39m
+[35m      date: 2021-12-28T04:57:00.000Z,[39m
+[35m      jobId: 'a3e5861c',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b034584b8e0b9b78ad6808,[39m
+[35m      date: 2021-12-08T04:29:00.000Z,[39m
+[35m      jobId: '1dbc28bf',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m08/12/2021 10:01:57 - [http] : GET /api/reminder/info 200 393 - 579.624 ms[39m
+[35m[39m
+[35m08/12/2021 10:02:26 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m08/12/2021 10:02:26 - [debug] : Access token successfully signed [39m
+[35m08/12/2021 10:02:26 - [debug] : PAYLOAD .....{"exp":1633374468,"sub":"615b42b0187a82c48d8862c6","iat":1633370868093,"iss":"emailReminder.com","type":"at"}....{"exp":1638941546,"sub":"615b42b0187a82c48d8862c6","iat":1638937946402,"iss":"emailReminder.com","type":"at"}[39m
+[35m08/12/2021 10:02:26 - [debug] : update token query ....{"n":0,"nModified":0,"opTime":{"ts":"7039184878243414020","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039184878243414020","signature":{"hash":"xZ8ZEiFJE/Z785nKO+3IU9CpHDg=","keyId":"6985511260355821571"}},"operationTime":"7039184878243414020"}[39m
+[35m08/12/2021 10:02:26 - [debug] : Token Expiry can not be updated[39m
+[31m08/12/2021 10:02:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[35m08/12/2021 10:02:26 - [http] : POST /api/reminder/remove 401 48 - 413.234 ms[39m
+[35m[39m
+[35m08/12/2021 10:03:05 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:03:06 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:03:06 - [debug] : Schedule Status: {"_id":"61b0343ab3d69c51bb92a3fb","job":[{"status":false,"jobId":"a3e5861c"}]}[39m
+[35m08/12/2021 10:03:06 - [debug] : cancelScheduledJob for JOB ID a3e5861c[39m
+[35m08/12/2021 10:03:06 - [debug] : Schedule Deleted : {"n":1,"nModified":0,"opTime":{"ts":"7039185050042105857","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039185050042105857","signature":{"hash":"g2ECexDVsoe/yy7MtL+mjRx+mTc=","keyId":"6985511260355821571"}},"operationTime":"7039185050042105857"}[39m
+[31m08/12/2021 10:03:06 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[35m08/12/2021 10:03:06 - [http] : POST /api/reminder/remove 400 64 - 727.296 ms[39m
+[35m[39m
+[35m08/12/2021 10:03:15 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:03:15 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:03:16 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b0343a4b8e0b9b78ad6804,[39m
+[35m      date: 2021-12-28T04:57:00.000Z,[39m
+[35m      jobId: 'a3e5861c',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b034584b8e0b9b78ad6808,[39m
+[35m      date: 2021-12-08T04:29:00.000Z,[39m
+[35m      jobId: '1dbc28bf',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m08/12/2021 10:03:16 - [http] : GET /api/reminder/info 200 393 - 531.976 ms[39m
+[35m[39m
+[35m08/12/2021 10:03:33 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:03:34 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:03:34 - [debug] : Schedule Status: {"_id":"61b0343ab3d69c51bb92a3fb","job":[{"status":false,"jobId":"1dbc28bf"}]}[39m
+[35m08/12/2021 10:03:34 - [debug] : cancelScheduledJob for JOB ID 1dbc28bf[39m
+[35m08/12/2021 10:03:34 - [debug] : Schedule Deleted : {"n":1,"nModified":0,"opTime":{"ts":"7039185170301190146","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039185170301190146","signature":{"hash":"5wE6U4iSW9RYfOjaokwxp6c3oKA=","keyId":"6985511260355821571"}},"operationTime":"7039185170301190146"}[39m
+[31m08/12/2021 10:03:34 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[35m08/12/2021 10:03:34 - [http] : POST /api/reminder/remove 400 64 - 1041.918 ms[39m
+[35m[39m
+[35m08/12/2021 10:04:21 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:04:21 - [debug] : authenticated header [39m
+[34m08/12/2021 10:04:21 - [info] : User Validation Success[39m
+[35m08/12/2021 10:04:21 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:04:21 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 10:04:21 - [debug] : JOB ID IS ....68eaebf0[39m
+[35m08/12/2021 10:04:21 - [debug] : Email is scheduled for jobId  68eaebf0[39m
+[35m08/12/2021 10:04:22 - [debug] : User data on update returns {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b035ceb3d69c51bb94355d"}],"opTime":{"ts":"7039185376459620353","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039185376459620353","signature":{"hash":"5qc6PrhrYDfiT9ouzG7GSxyRsy0=","keyId":"6985511260355821571"}},"operationTime":"7039185376459620353"}[39m
+[35m08/12/2021 10:04:22 - [http] : POST /api/reminder/create 201 93 - 1047.477 ms[39m
+[35m[39m
+[35m08/12/2021 10:05:00 - [debug] : scheduler is running at 2021-12-08T10:05[39m
+[31m08/12/2021 10:05:13 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). o9sm1014356pgu.12 - gsmtp[39m
+[35m08/12/2021 10:06:03 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:06:03 - [debug] : authenticated header [39m
+[31m08/12/2021 10:06:03 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:36:03.942Z"[39m
+[35m08/12/2021 10:06:03 - [http] : POST /api/reminder/create 422 95 - 7.255 ms[39m
+[35m[39m
+[35m08/12/2021 10:06:53 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:06:53 - [debug] : authenticated header [39m
+[31m08/12/2021 10:06:53 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:36:53.350Z"[39m
+[35m08/12/2021 10:06:53 - [http] : POST /api/reminder/create 422 95 - 10.782 ms[39m
+[35m[39m
+[35m08/12/2021 10:07:06 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:07:06 - [debug] : authenticated header [39m
+[34m08/12/2021 10:07:06 - [info] : User Validation Success[39m
+[35m08/12/2021 10:07:06 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:07:06 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 10:07:06 - [debug] : JOB ID IS ....a67be97a[39m
+[35m08/12/2021 10:07:06 - [debug] : Email is scheduled for jobId  a67be97a[39m
+[35m08/12/2021 10:07:07 - [debug] : User data on update returns {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b03673b3d69c51bb94d4d2"}],"opTime":{"ts":"7039186085129224196","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039186085129224196","signature":{"hash":"Ab3gn3oUaB2z3jPtdpJaje7lu5E=","keyId":"6985511260355821571"}},"operationTime":"7039186085129224196"}[39m
+[35m08/12/2021 10:07:07 - [http] : POST /api/reminder/create 201 99 - 1219.586 ms[39m
+[35m[39m
+[35m08/12/2021 10:07:20 - [debug] : scheduler is running at 2021-12-08T10:07:20[39m
+[31m08/12/2021 10:07:46 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). f19sm1409966pfv.76 - gsmtp[39m
+[34m08/12/2021 10:08:36 - [info] : Login Validation Success[39m
+[35m08/12/2021 10:08:36 - [debug] : Login Controller NotFoundError: Email is not registered[39m
+[35m08/12/2021 10:08:36 - [http] : POST /api/auth/login 404 60 - 391.995 ms[39m
+[35m[39m
+[34m08/12/2021 10:09:26 - [info] : Registration Validation Success[39m
+[35m08/12/2021 10:09:27 - [debug] : Register User Successfully {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b036ffb3d69c51bb9559b4"}],"opTime":{"ts":"7039186686424645634","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039186686424645634","signature":{"hash":"wF0O0JpvHK3m2jRgLrbJdU/3O4w=","keyId":"6985511260355821571"}},"operationTime":"7039186686424645634"}[39m
+[31m08/12/2021 10:09:39 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). w142sm1428706pfc.115 - gsmtp[39m
+[31m08/12/2021 10:09:39 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[35m08/12/2021 10:09:39 - [http] : POST /api/auth/register 500 58 - 13026.741 ms[39m
+[35m[39m
+[34m08/12/2021 10:18:09 - [info] : Registration Validation Success[39m
+[35m08/12/2021 10:18:10 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039188932692541447","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039188932692541447","signature":{"hash":"1J4JcK606cpJBnQcFgejKheyHOw=","keyId":"6985511260355821571"}},"operationTime":"7039188932692541447"}[39m
+[34m08/12/2021 10:18:15 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m08/12/2021 10:18:15 - [http] : POST /api/auth/register 201 78 - 5571.973 ms[39m
+[35m[39m
+[34m08/12/2021 10:18:33 - [info] : Mongoose connection is disconnected.[39m
+[34m08/12/2021 10:18:36 - [info] : Server is runnin on port 8000[39m
+[34m08/12/2021 10:18:40 - [info] : Mongoose server listening[39m
+[34m08/12/2021 10:18:45 - [info] : Registration Validation Success[39m
+[35m08/12/2021 10:18:46 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039189087311364100","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039189087311364100","signature":{"hash":"LlpMSp2ZhK3cP9RCXvs2CUeCDQc=","keyId":"6985511260355821571"}},"operationTime":"7039189087311364100"}[39m
+[34m08/12/2021 10:18:52 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m08/12/2021 10:18:52 - [http] : POST /api/auth/register 201 78 - 6275.133 ms[39m
+[35m[39m
+[34m08/12/2021 10:19:14 - [info] : Mongoose connection is disconnected.[39m
+[34m08/12/2021 10:19:55 - [info] : Server is runnin on port 8000[39m
+[34m08/12/2021 10:19:59 - [info] : Mongoose server listening[39m
+[34m08/12/2021 10:20:00 - [info] : Registration Validation Success[39m
+[35m08/12/2021 10:20:01 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039189409433911299","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039189409433911299","signature":{"hash":"khxbHGt3JLyA0zXdbpYSLLufkWU=","keyId":"6985511260355821571"}},"operationTime":"7039189409433911299"}[39m
+[34m08/12/2021 10:20:06 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m08/12/2021 10:20:06 - [http] : POST /api/auth/register 201 78 - 5660.354 ms[39m
+[35m[39m
+[34m08/12/2021 10:20:21 - [info] : Registration Validation Success[39m
+[35m08/12/2021 10:20:22 - [debug] : Register User Successfully {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b0398db3d69c51bb97dc88"}],"opTime":{"ts":"7039189495333257221","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039189495333257221","signature":{"hash":"dhy54KEXCU97gKqCrKrD0LheNKI=","keyId":"6985511260355821571"}},"operationTime":"7039189495333257221"}[39m
+[34m08/12/2021 10:20:26 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:20:26 - [http] : POST /api/auth/register 201 72 - 5553.594 ms[39m
+[35m[39m
+[34m08/12/2021 10:21:02 - [info] : Confirm Registeration Validation Success[39m
+[35m08/12/2021 10:21:02 - [debug] : Users OTP matched  Success  ...Etime 1638939021   1638939062[39m
+[35m08/12/2021 10:21:02 - [debug] : Final Registration Success[39m
+[35m08/12/2021 10:21:02 - [http] : POST /api/auth/cnfrm-register 201 44 - 995.909 ms[39m
+[35m[39m
+[34m08/12/2021 10:21:14 - [info] : Login Validation Success[39m
+[35m08/12/2021 10:21:14 - [debug] : Access token successfully signed [39m
+[35m08/12/2021 10:21:14 - [http] : POST /api/auth/login 200 934 - 291.268 ms[39m
+[35m[39m
+[35m08/12/2021 10:21:14 - [debug] : Token Expiry Time saved Successfully[39m
+[35m08/12/2021 10:21:49 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:21:49 - [debug] : authenticated header [39m
+[34m08/12/2021 10:21:49 - [info] : User Validation Success[39m
+[35m08/12/2021 10:21:50 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:21:50 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 10:21:50 - [debug] : JOB ID IS ....3b7b8317[39m
+[35m08/12/2021 10:21:50 - [debug] : Email is scheduled for jobId  3b7b8317[39m
+[35m08/12/2021 10:21:50 - [debug] : User data on update returns {"n":1,"nModified":1,"opTime":{"ts":"7039189877585346564","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039189877585346564","signature":{"hash":"Gw+A6AHbO+J6gBiMtGwwkpfgvdA=","keyId":"6985511260355821571"}},"operationTime":"7039189877585346564"}[39m
+[35m08/12/2021 10:21:50 - [http] : POST /api/reminder/create 201 99 - 1018.683 ms[39m
+[35m[39m
+[35m08/12/2021 10:22:20 - [debug] : scheduler is running at 2021-12-08T10:22:20[39m
+[34m08/12/2021 10:22:25 - [info] : Email has been successfully sent to dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:22:26 - [debug] : User Email Sent Status changed to 1[39m
+[35m08/12/2021 10:22:50 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:22:50 - [debug] : authenticated header [39m
+[34m08/12/2021 10:22:50 - [info] : User Validation Success[39m
+[35m08/12/2021 10:22:50 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:22:51 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 10:22:51 - [debug] : JOB ID IS ....ee4542ac[39m
+[35m08/12/2021 10:22:51 - [debug] : Email is scheduled for jobId  ee4542ac[39m
+[35m08/12/2021 10:22:51 - [debug] : User data on update returns {"n":1,"nModified":1,"opTime":{"ts":"7039190139578351622","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039190139578351622","signature":{"hash":"z7G/sjtk+a169eijdEikmBpC5oc=","keyId":"6985511260355821571"}},"operationTime":"7039190139578351622"}[39m
+[35m08/12/2021 10:22:51 - [http] : POST /api/reminder/create 201 99 - 1145.097 ms[39m
+[35m[39m
+[35m08/12/2021 10:23:10 - [debug] : Token successfully validated[39m
+[31m08/12/2021 10:23:11 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[35m08/12/2021 10:23:11 - [http] : GET /api/reminder/info 404 52 - 384.047 ms[39m
+[35m[39m
+[35m08/12/2021 10:23:20 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:23:20 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:23:20 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b036724b8e0b9b78ad681d,[39m
+[35m      date: 2021-12-08T04:37:20.000Z,[39m
+[35m      jobId: 'a67be97a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b039e6b6c110a7574f5060,[39m
+[35m      date: 2021-12-08T04:52:20.000Z,[39m
+[35m      jobId: '3b7b8317',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b03a23b6c110a7574f5065,[39m
+[35m      date: 2021-12-08T05:00:20.000Z,[39m
+[35m      jobId: 'ee4542ac',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m08/12/2021 10:23:20 - [http] : GET /api/reminder/info 200 557 - 782.042 ms[39m
+[35m[39m
+[35m08/12/2021 10:24:01 - [debug] : Token successfully validated[39m
+[34m08/12/2021 10:24:01 - [info] : User Update Request Validation Success[39m
+[35m08/12/2021 10:24:01 - [debug] : email found dipikesh2001@gmail.com[39m
+[31m08/12/2021 10:24:01 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m08/12/2021 10:24:01 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[35m08/12/2021 10:24:01 - [http] : PUT /api/reminder/update 400 56 - 387.124 ms[39m
+[35m[39m
+[35m08/12/2021 10:24:08 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:24:08 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:24:09 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b036724b8e0b9b78ad681d,[39m
+[35m      date: 2021-12-08T04:37:20.000Z,[39m
+[35m      jobId: 'a67be97a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b039e6b6c110a7574f5060,[39m
+[35m      date: 2021-12-08T04:52:20.000Z,[39m
+[35m      jobId: '3b7b8317',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b03a23b6c110a7574f5065,[39m
+[35m      date: 2021-12-08T05:00:20.000Z,[39m
+[35m      jobId: 'ee4542ac',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m08/12/2021 10:24:09 - [http] : GET /api/reminder/info 200 557 - 638.794 ms[39m
+[35m[39m
+[35m08/12/2021 10:24:25 - [debug] : Token successfully validated[39m
+[34m08/12/2021 10:24:25 - [info] : User Update Request Validation Success[39m
+[35m08/12/2021 10:24:25 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:24:26 - [debug] : JobId for Updating the Date "ee4542ac"[39m
+[35m08/12/2021 10:24:26 - [debug] : User with around same date exist null[39m
+[35m08/12/2021 10:24:26 - [debug] : jobId  ee4542ac[39m
+[35m08/12/2021 10:24:26 - [debug] : User date updated successfully[39m
+[35m08/12/2021 10:24:26 - [debug] : RescheduleJob for JOB ID ...ee4542ac[39m
+[35m08/12/2021 10:24:26 - [http] : PUT /api/reminder/update 200 96 - 1590.965 ms[39m
+[35m[39m
+[35m08/12/2021 10:24:45 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:24:46 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:24:46 - [debug] : Schedule Status: {"_id":"61b03673b3d69c51bb94d4d2","job":[{"status":false,"jobId":"ee4542ac"}]}[39m
+[35m08/12/2021 10:24:46 - [debug] : cancelScheduledJob for JOB ID ee4542ac[39m
+[35m08/12/2021 10:24:47 - [debug] : Schedule Deleted : {"n":1,"nModified":1,"opTime":{"ts":"7039190633499590662","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039190633499590662","signature":{"hash":"5OXaonWfXmX8XyWRsd7ojZTvkgk=","keyId":"6985511260355821571"}},"operationTime":"7039190633499590662"}[39m
+[35m08/12/2021 10:24:47 - [http] : POST /api/reminder/remove 200 61 - 1167.834 ms[39m
+[35m[39m
+[35m08/12/2021 10:24:53 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:24:53 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:24:53 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b036724b8e0b9b78ad681d,[39m
+[35m      date: 2021-12-09T17:52:59.000Z,[39m
+[35m      jobId: 'a67be97a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b039e6b6c110a7574f5060,[39m
+[35m      date: 2021-12-08T04:52:20.000Z,[39m
+[35m      jobId: '3b7b8317',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m08/12/2021 10:24:53 - [http] : GET /api/reminder/info 200 392 - 599.524 ms[39m
+[35m[39m
+[35m08/12/2021 10:25:45 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:25:45 - [debug] : authenticated header [39m
+[31m08/12/2021 10:25:45 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:55:45.724Z"[39m
+[35m08/12/2021 10:25:45 - [http] : POST /api/reminder/create 422 95 - 12.572 ms[39m
+[35m[39m
+[35m08/12/2021 10:25:53 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:25:53 - [debug] : authenticated header [39m
+[34m08/12/2021 10:25:53 - [info] : User Validation Success[39m
+[35m08/12/2021 10:25:53 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:25:53 - [debug] : User with around same date exist { _id: 61b03673b3d69c51bb94d4d2 }[39m
+[31m08/12/2021 10:25:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[35m08/12/2021 10:25:53 - [http] : POST /api/reminder/create 400 114 - 679.284 ms[39m
+[35m[39m
+[35m08/12/2021 10:32:36 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:32:36 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m08/12/2021 10:32:36 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b036724b8e0b9b78ad681d,[39m
+[35m      date: 2021-12-09T17:52:59.000Z,[39m
+[35m      jobId: 'a67be97a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b039e6b6c110a7574f5060,[39m
+[35m      date: 2021-12-08T04:52:20.000Z,[39m
+[35m      jobId: '3b7b8317',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m08/12/2021 10:32:36 - [http] : GET /api/reminder/info 200 392 - 504.759 ms[39m
+[35m[39m
+[34m08/12/2021 10:33:19 - [info] : Registration Validation Success[39m
+[35m08/12/2021 10:33:19 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039192836817813509","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039192836817813509","signature":{"hash":"6+gyv+gOlzyHjSIXimYyHueF1dE=","keyId":"6985511260355821571"}},"operationTime":"7039192836817813509"}[39m
+[34m08/12/2021 10:33:24 - [info] : Email has been successfully sent to dipikesh.singh.915@gmail.com[39m
+[35m08/12/2021 10:33:24 - [http] : POST /api/auth/register 201 78 - 5709.267 ms[39m
+[35m[39m
+[34m08/12/2021 10:34:09 - [info] : Confirm Registeration Validation Success[39m
+[35m08/12/2021 10:34:10 - [debug] : Users OTP matched  Success  ...Etime 1638939799   1638939850[39m
+[35m08/12/2021 10:34:10 - [debug] : Final Registration Success[39m
+[35m08/12/2021 10:34:10 - [http] : POST /api/auth/cnfrm-register 201 44 - 1080.700 ms[39m
+[35m[39m
+[34m08/12/2021 10:34:30 - [info] : Login Validation Success[39m
+[35m08/12/2021 10:34:30 - [debug] : Access token successfully signed [39m
+[35m08/12/2021 10:34:30 - [http] : POST /api/auth/login 200 934 - 451.545 ms[39m
+[35m[39m
+[35m08/12/2021 10:34:31 - [debug] : Token Expiry Time saved Successfully[39m
+[35m08/12/2021 10:34:50 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:34:50 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[31m08/12/2021 10:34:51 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[35m08/12/2021 10:34:51 - [http] : GET /api/reminder/info 404 51 - 798.467 ms[39m
+[35m[39m
+[34m08/12/2021 10:34:58 - [info] : Login Validation Success[39m
+[35m08/12/2021 10:34:58 - [debug] : Access token successfully signed [39m
+[35m08/12/2021 10:34:58 - [http] : POST /api/auth/login 200 934 - 365.354 ms[39m
+[35m[39m
+[35m08/12/2021 10:34:58 - [debug] : Token Expiry Time saved Successfully[39m
+[35m08/12/2021 10:35:12 - [debug] : Token successfully validated[39m
+[35m08/12/2021 10:35:12 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[31m08/12/2021 10:35:12 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[35m08/12/2021 10:35:12 - [http] : GET /api/reminder/info 404 51 - 714.269 ms[39m
+[35m[39m

@@ -89,7 +89,10 @@ async function isAuthenticated(token) {
     }
   );
 
-  return response.json();
+  const result = await response.json();
+  if (result.status == 404)
+    return true;
+  return result;
 }
 
 async function fetchTaskList() {
