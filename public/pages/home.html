@@ -14,14 +14,15 @@
     <link rel="stylesheet" href="https://emailreminderpikapika.herokuapp.com/static/css/home">
 </head>
 <body>
+    <Button id="logout" class="btn btn-primary">Logout</Button>
+    <br>
+
     <form id = "task" class="form">
         <input class="input" id = "name" type="text" placeholder="Name of Task"  required/>
         <input class="input" id = "description" type="text" placeholder="Description" required/>
         <input class="input" id = "date" type="datetime-local" placeholder="Date and Time"  required/>
         <Button type = "submit" class="button">Add task</button>
     </form>
-    <br>
-    <Button id = "logout" class = "btn btn-primary">Logout</Button>
     <ol class="list"></ol>
 </body>
 </html>
