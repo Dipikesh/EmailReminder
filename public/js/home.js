@@ -6,6 +6,9 @@ logoutBtn.addEventListener("click", logoutEventHandler)
 
 async function logoutEventHandler(e){
   window.localStorage.removeItem('token');
+    window.location.href = "/login";
+
+  
 }
 
 config = {
