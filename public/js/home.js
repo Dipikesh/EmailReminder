@@ -1,6 +1,13 @@
 const taskForm = document.getElementById("task");
 taskForm.addEventListener("submit", createRemider);
 
+const logoutBtn = document.getElementById("logout");
+logoutBtn.addEventListener("click", logoutEventHandler)
+
+async function logoutEventHandler(e){
+  window.localStorage.removeItem('token');
+}
+
 config = {
   enableTime: true,
   dateFormat: "Y-m-d H:i:s",
