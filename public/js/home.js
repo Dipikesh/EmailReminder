@@ -159,10 +159,10 @@ async function fetchTaskList() {
    const editButton = document.createElement("button");
     
     deleteButton.innerText = "Delete";
-    deleteButton.classList.add("button");
+    deleteButton.classList.add("btn");
 
        editButton.innerText = "Edit";
-    editButton.classList.add("button");
+    editButton.classList.add("btn");
     
     
     
