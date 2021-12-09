@@ -151,17 +151,12 @@ async function fetchTaskList() {
  
 
 
+
+   const deleteButton = document.createElement("button");
+    deleteButton.innerText = "Delete";
+    $list.appendChild(deleteButton);
     $list.appendChild($listItem);
 
-    var button = document.createElement("BUTTON");
-
-    // creating text to be
-    //displayed on button
-    var text = document.createTextNode("Button");
-
-    // appending text to button
-    button.appendChild(text);
-    myDiv.appendChild(button);
   });
 }
    var myDiv = document.getElementById("btn");
