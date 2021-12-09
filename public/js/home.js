@@ -34,9 +34,10 @@ async function embedTask(e) {
      "   " + description
    } ,  Date =   ${date} `;
   
- $listItem.appendChild(button);
 
- ul.appendChild($listItem);
+  ul.appendChild($listItem);
+ $listItem.appendChild(button);
+  
 
   // appending button to div
  
