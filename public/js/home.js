@@ -37,7 +37,6 @@ async function embedTask(e) {
 
   $list.appendChild($listItem);
 
-   var myDiv = document.getElementById("btn");
 
    // creating button element
    var button = document.createElement("BUTTON");
@@ -155,6 +154,7 @@ async function fetchTaskList() {
     $list.appendChild($listItem);
   });
 }
+   var myDiv = document.getElementById("btn");
 
 const $list = document.querySelector(".list");
 const $input = document.querySelector(".input");
