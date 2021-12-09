@@ -72934,3 +72934,90 @@
 [31m08/12/2021 10:35:12 - [error] : Error in Profile controller  NotFoundError: User not found[39m
 [35m08/12/2021 10:35:12 - [http] : GET /api/reminder/info 404 51 - 714.269 ms[39m
 [35m[39m
+[34m08/12/2021 11:38:29 - [info] : Mongoose connection is disconnected.[39m
+[34m08/12/2021 16:10:59 - [info] : Mongoose connection is disconnected.[39m
+[34m08/12/2021 21:29:46 - [info] : Mongoose connection is disconnected.[39m
+[34m09/12/2021 02:02:58 - [info] : Mongoose connection is disconnected.[39m
+[34m09/12/2021 17:01:27 - [info] : Server is runnin on port 8000[39m
+[34m09/12/2021 17:01:31 - [info] : Mongoose server listening[39m
+[34m09/12/2021 17:01:39 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:01:39 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:01:39 - [http] : POST /api/auth/login 200 934 - 377.414 ms[39m
+[35m[39m
+[35m09/12/2021 17:01:40 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:01:56 - [debug] : Token successfully validated[39m
+[35m09/12/2021 17:01:56 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m09/12/2021 17:01:57 - [http] : GET /api/reminder/info 200 38 - 1282.610 ms[39m
+[35m[39m
+[34m09/12/2021 17:02:24 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:02:24 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:02:24 - [http] : POST /api/auth/login 401 60 - 298.293 ms[39m
+[35m[39m
+[34m09/12/2021 17:02:35 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:02:36 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:02:36 - [http] : POST /api/auth/login 401 60 - 346.291 ms[39m
+[35m[39m
+[34m09/12/2021 17:02:49 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:02:49 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:02:49 - [http] : POST /api/auth/login 401 60 - 271.899 ms[39m
+[35m[39m
+[34m09/12/2021 17:02:54 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:02:54 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:02:54 - [http] : POST /api/auth/login 401 60 - 480.745 ms[39m
+[35m[39m
+[34m09/12/2021 17:03:01 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:03:02 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:03:02 - [http] : POST /api/auth/login 401 60 - 282.441 ms[39m
+[35m[39m
+[34m09/12/2021 17:03:30 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:03:30 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:03:30 - [http] : POST /api/auth/login 401 60 - 431.673 ms[39m
+[35m[39m
+[34m09/12/2021 17:03:41 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:03:41 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:03:41 - [http] : POST /api/auth/login 200 934 - 391.758 ms[39m
+[35m[39m
+[35m09/12/2021 17:03:42 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:03:56 - [debug] : Token successfully validated[39m
+[35m09/12/2021 17:03:57 - [debug] : email found maityamalendu18@gmail.com[39m
+[35m09/12/2021 17:03:57 - [http] : GET /api/reminder/info 200 38 - 1093.120 ms[39m
+[35m[39m
+[34m09/12/2021 17:04:36 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:04:36 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:04:36 - [http] : POST /api/auth/login 200 934 - 384.087 ms[39m
+[35m[39m
+[35m09/12/2021 17:04:36 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:04:48 - [debug] : Token successfully validated[39m
+[35m09/12/2021 17:04:48 - [debug] : email found dipikesh.singh.915@gmail.com[39m
+[35m09/12/2021 17:04:49 - [http] : GET /api/reminder/info 200 38 - 1127.102 ms[39m
+[35m[39m
+[34m09/12/2021 17:05:09 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:05:09 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:05:09 - [http] : POST /api/auth/login 200 934 - 321.189 ms[39m
+[35m[39m
+[35m09/12/2021 17:05:10 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:05:26 - [debug] : Token successfully validated[39m
+[35m09/12/2021 17:05:26 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m09/12/2021 17:05:27 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b036724b8e0b9b78ad681d,[39m
+[35m      date: 2021-12-09T17:52:59.000Z,[39m
+[35m      jobId: 'a67be97a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b039e6b6c110a7574f5060,[39m
+[35m      date: 2021-12-08T04:52:20.000Z,[39m
+[35m      jobId: '3b7b8317',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m09/12/2021 17:05:27 - [http] : GET /api/reminder/info 200 392 - 1035.376 ms[39m
+[35m[39m

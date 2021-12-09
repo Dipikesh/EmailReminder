@@ -105,12 +105,18 @@ exports.updateDbStatus = async (email, jobId) => {
 
 exports.fetchInfo = async (email) => {
   
-  const reminders = await userSchema.findOne({ email },{_id:0,email:0});
+  const isEmailExist = await regSchema.findOne({ email });
+  if (!isEmailExist) 
+    throw createError(404, "User not found");
+    
+  
+  const reminders = await userSchema.findOne({ email }, { _id: 0, email: 0 });
+
   if (reminders) {
     logger.debug("reminders " +reminders);
     return reminders;
   }
-  throw createError(404, "User not found");
+  return;
 }
 
 //Checking Wether Schedule is completed or not before deleting 
