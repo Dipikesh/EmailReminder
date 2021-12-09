@@ -27,16 +27,20 @@ async function embedTask(e) {
   const date = dateInput.toISOString();
 
   const $listItem = document.createElement("li");
- var button = document.createElement("button");
+  
+
   button.innerHTML = "asdasd";
   $listItem.classList.add("list__item");
    $listItem.innerText = ` Name = ${name} ,  Description  =      ${
      "   " + description
    } ,  Date =   ${date} `;
   
-
-  ul.appendChild($listItem);
- $listItem.appendChild(button);
+const deleteButton = document.createElement("button");
+deleteButton.innerText = "Delete";
+$list.appendChild($listItem);
+$list.appendChild(deleteButton);
+  
+ 
   
 
   // appending button to div
@@ -153,8 +157,9 @@ async function fetchTaskList() {
 
    const deleteButton = document.createElement("button");
     deleteButton.innerText = "Delete";
-    $list.appendChild(deleteButton);
     $list.appendChild($listItem);
+    $list.appendChild(deleteButton);
+
 
   });
 }
