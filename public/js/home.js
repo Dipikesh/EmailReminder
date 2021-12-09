@@ -47,7 +47,7 @@ async function embedTask(e) {
 
    // appending text to button
    button.appendChild(text);
-  myDiv.appendChild(button);
+   myDiv.appendChild(button);
 
 }
 async function createRemider(e) {
@@ -152,6 +152,16 @@ async function fetchTaskList() {
 
 
     $list.appendChild($listItem);
+
+    var button = document.createElement("BUTTON");
+
+    // creating text to be
+    //displayed on button
+    var text = document.createTextNode("Button");
+
+    // appending text to button
+    button.appendChild(text);
+    myDiv.appendChild(button);
   });
 }
    var myDiv = document.getElementById("btn");
