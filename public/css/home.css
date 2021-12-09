@@ -21,7 +21,7 @@ body {
 }
 .button {
   height: 44px;
-  background-color: #f44336;
+  background-color: rgb(63, 215, 63);
   color: #ffffff;
   font-family: Poppins;
   border: 0;
