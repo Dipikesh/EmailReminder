@@ -142,7 +142,7 @@ async function fetchTaskList() {
     $listItem.classList.add("list__item");
 
 
-    if (task.status) $listItem.style.color = 'green'
+    if (task.status) $listItem.style.color = 'blue'
     const date = new Date(task.date);
   
    
