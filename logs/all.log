@@ -73021,3 +73021,164 @@
 [35m}[39m
 [35m09/12/2021 17:05:27 - [http] : GET /api/reminder/info 200 392 - 1035.376 ms[39m
 [35m[39m
+[35m09/12/2021 17:20:16 - [http] : GET / 200 1179 - 7.662 ms[39m
+[35m[39m
+[35m09/12/2021 17:20:17 - [http] : GET /favicon.ico 404 46 - 3.081 ms[39m
+[35m[39m
+[35m09/12/2021 17:21:52 - [http] : GET /login 200 2300 - 2.196 ms[39m
+[35m[39m
+[35m09/12/2021 17:21:53 - [http] : GET /favicon.ico 404 46 - 1.198 ms[39m
+[35m[39m
+[34m09/12/2021 17:22:05 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:22:05 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:22:05 - [http] : POST /api/auth/login 200 934 - 431.751 ms[39m
+[35m[39m
+[35m09/12/2021 17:22:05 - [http] : GET / 200 1175 - 1.486 ms[39m
+[35m[39m
+[35m09/12/2021 17:22:06 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:22:11 - [http] : GET / 304 - - 1.988 ms[39m
+[35m[39m
+[35m09/12/2021 17:22:59 - [http] : GET / 200 1175 - 1.225 ms[39m
+[35m[39m
+[35m09/12/2021 17:23:01 - [http] : GET / 304 - - 1.221 ms[39m
+[35m[39m
+[35m09/12/2021 17:23:04 - [http] : GET /login 304 - - 1.055 ms[39m
+[35m[39m
+[34m09/12/2021 17:23:10 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:23:11 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:23:11 - [http] : POST /api/auth/login 200 934 - 321.479 ms[39m
+[35m[39m
+[35m09/12/2021 17:23:11 - [http] : GET / 304 - - 0.591 ms[39m
+[35m[39m
+[35m09/12/2021 17:23:11 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:23:44 - [debug] : Token successfully validated[39m
+[35m09/12/2021 17:23:45 - [debug] : email found dipikesh2001@gmail.com[39m
+[35m09/12/2021 17:23:45 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b036724b8e0b9b78ad681d,[39m
+[35m      date: 2021-12-09T17:52:59.000Z,[39m
+[35m      jobId: 'a67be97a',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b039e6b6c110a7574f5060,[39m
+[35m      date: 2021-12-08T04:52:20.000Z,[39m
+[35m      jobId: '3b7b8317',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m09/12/2021 17:23:45 - [http] : GET /api/reminder/info 200 392 - 861.205 ms[39m
+[35m[39m
+[35m09/12/2021 17:24:59 - [http] : GET / 304 - - 0.963 ms[39m
+[35m[39m
+[35m09/12/2021 17:25:02 - [http] : GET / 304 - - 0.851 ms[39m
+[35m[39m
+[35m09/12/2021 17:25:07 - [http] : GET /login 304 - - 0.793 ms[39m
+[35m[39m
+[34m09/12/2021 17:25:20 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:25:20 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:25:20 - [http] : POST /api/auth/login 401 60 - 364.209 ms[39m
+[35m[39m
+[34m09/12/2021 17:25:33 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:25:33 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:25:33 - [http] : POST /api/auth/login 200 934 - 327.220 ms[39m
+[35m[39m
+[35m09/12/2021 17:25:33 - [http] : GET / 304 - - 1.527 ms[39m
+[35m[39m
+[35m09/12/2021 17:25:33 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:27:21 - [http] : GET / 304 - - 0.689 ms[39m
+[35m[39m
+[35m09/12/2021 17:27:32 - [http] : GET / 200 1184 - 0.920 ms[39m
+[35m[39m
+[35m09/12/2021 17:27:34 - [http] : GET / 304 - - 0.511 ms[39m
+[35m[39m
+[35m09/12/2021 17:27:35 - [http] : GET / 304 - - 0.836 ms[39m
+[35m[39m
+[35m09/12/2021 17:27:38 - [http] : GET /login 304 - - 0.534 ms[39m
+[35m[39m
+[34m09/12/2021 17:27:40 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:27:40 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m09/12/2021 17:27:40 - [http] : POST /api/auth/login 401 60 - 277.213 ms[39m
+[35m[39m
+[34m09/12/2021 17:27:52 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:27:52 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:27:52 - [http] : POST /api/auth/login 200 934 - 344.883 ms[39m
+[35m[39m
+[35m09/12/2021 17:27:52 - [http] : GET / 304 - - 0.754 ms[39m
+[35m[39m
+[35m09/12/2021 17:27:52 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:28:27 - [http] : GET / 304 - - 0.747 ms[39m
+[35m[39m
+[31m09/12/2021 17:31:37 - [error] : Registeration Validation Error ValidationError: "email" must be a valid email[39m
+[35m09/12/2021 17:31:37 - [http] : POST /api/auth/register 422 68 - 12.291 ms[39m
+[35m[39m
+[34m09/12/2021 17:32:05 - [info] : Registration Validation Success[39m
+[35m09/12/2021 17:32:06 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039671841635434497","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039671841635434497","signature":{"hash":"GCMdekX6BDG2JLexi1jHc4FCJ54=","keyId":"6985511260355821571"}},"operationTime":"7039671841635434497"}[39m
+[34m09/12/2021 17:32:12 - [info] : Email has been successfully sent to abhisheksingh43055@gmail.com[39m
+[35m09/12/2021 17:32:12 - [http] : POST /api/auth/register 201 78 - 6133.204 ms[39m
+[35m[39m
+[31m09/12/2021 17:33:25 - [error] : Confirm Registeration  Validation Error ValidationError: "password" length must be at least 8 characters long[39m
+[35m09/12/2021 17:33:25 - [http] : POST /api/auth/cnfrm-register 422 91 - 8.616 ms[39m
+[35m[39m
+[34m09/12/2021 17:33:55 - [info] : Confirm Registeration Validation Success[39m
+[35m09/12/2021 17:33:55 - [debug] : User With Wrong Otp ...Failed[39m
+[31m09/12/2021 17:33:55 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[35m09/12/2021 17:33:55 - [http] : POST /api/auth/cnfrm-register 404 67 - 434.739 ms[39m
+[35m[39m
+[34m09/12/2021 17:34:07 - [info] : Registration Validation Success[39m
+[35m09/12/2021 17:34:07 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039672361326477319","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039672361326477319","signature":{"hash":"E7E3YBGawzll8ZquVpyv+w+5O/c=","keyId":"6985511260355821571"}},"operationTime":"7039672361326477319"}[39m
+[34m09/12/2021 17:34:10 - [info] : Registration Validation Success[39m
+[31m09/12/2021 17:34:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[35m09/12/2021 17:34:10 - [http] : POST /api/auth/register 400 81 - 396.567 ms[39m
+[35m[39m
+[34m09/12/2021 17:34:12 - [info] : Email has been successfully sent to abhisheksingh43055@gmail.com[39m
+[35m09/12/2021 17:34:12 - [http] : POST /api/auth/register 201 78 - 4961.632 ms[39m
+[35m[39m
+[34m09/12/2021 17:34:31 - [info] : Registration Validation Success[39m
+[35m09/12/2021 17:34:32 - [debug] : Register User Successfully {"n":1,"nModified":1,"opTime":{"ts":"7039672464405692421","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039672464405692421","signature":{"hash":"H7yQQjA4+/bFe7YlHurS/XaA4Es=","keyId":"6985511260355821571"}},"operationTime":"7039672464405692421"}[39m
+[34m09/12/2021 17:34:32 - [info] : Registration Validation Success[39m
+[31m09/12/2021 17:34:33 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[35m09/12/2021 17:34:33 - [http] : POST /api/auth/register 400 81 - 442.910 ms[39m
+[35m[39m
+[34m09/12/2021 17:34:37 - [info] : Email has been successfully sent to abhisheksingh43055@gmail.com[39m
+[35m09/12/2021 17:34:37 - [http] : POST /api/auth/register 201 78 - 6114.201 ms[39m
+[35m[39m
+[34m09/12/2021 17:35:04 - [info] : Confirm Registeration Validation Success[39m
+[35m09/12/2021 17:35:05 - [debug] : Users OTP matched  Success  ...Etime 1639051471   1639051505[39m
+[35m09/12/2021 17:35:05 - [debug] : Final Registration Success[39m
+[35m09/12/2021 17:35:05 - [http] : POST /api/auth/cnfrm-register 201 44 - 885.411 ms[39m
+[35m[39m
+[34m09/12/2021 17:35:20 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:35:20 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:35:20 - [http] : POST /api/auth/login 200 934 - 366.629 ms[39m
+[35m[39m
+[35m09/12/2021 17:35:20 - [debug] : Token Expiry Time saved Successfully[39m
+[35m09/12/2021 17:36:13 - [debug] : Token successfully validated[39m
+[35m09/12/2021 17:36:13 - [debug] : authenticated header [39m
+[34m09/12/2021 17:36:13 - [info] : User Validation Success[39m
+[35m09/12/2021 17:36:14 - [debug] : email found abhisheksingh43055@gmail.com[39m
+[35m09/12/2021 17:36:14 - [debug] : User with around same date exist null[39m
+[35m09/12/2021 17:36:14 - [debug] : JOB ID IS ....89f47cde[39m
+[35m09/12/2021 17:36:14 - [debug] : Email is scheduled for jobId  89f47cde[39m
+[35m09/12/2021 17:36:14 - [debug] : User data on update returns {"n":1,"nModified":0,"upserted":[{"index":0,"_id":"61b1f136b3d69c51bb6c8003"}],"opTime":{"ts":"7039672906787323908","t":84},"electionId":"7fffffff0000000000000054","ok":1,"$clusterTime":{"clusterTime":"7039672906787323908","signature":{"hash":"9JJ8KzcbmhpJh+xAVZexfFdkx+8=","keyId":"6985511260355821571"}},"operationTime":"7039672906787323908"}[39m
+[35m09/12/2021 17:36:14 - [http] : POST /api/reminder/create 201 99 - 879.455 ms[39m
+[35m[39m
+[35m09/12/2021 17:37:00 - [debug] : scheduler is running at 2021-12-09T17:37:00[39m
+[34m09/12/2021 17:37:04 - [info] : Email has been successfully sent to abhisheksingh43055@gmail.com[39m
+[35m09/12/2021 17:37:05 - [debug] : User Email Sent Status changed to 1[39m
+[35m09/12/2021 17:38:44 - [http] : GET /login 304 - - 0.822 ms[39m
+[35m[39m
+[34m09/12/2021 17:39:11 - [info] : Login Validation Success[39m
+[35m09/12/2021 17:39:12 - [debug] : Access token successfully signed [39m
+[35m09/12/2021 17:39:12 - [http] : POST /api/auth/login 200 934 - 388.574 ms[39m
+[35m[39m
+[35m09/12/2021 17:39:12 - [http] : GET / 304 - - 0.839 ms[39m
+[35m[39m
+[35m09/12/2021 17:39:12 - [debug] : Token Expiry Time saved Successfully[39m

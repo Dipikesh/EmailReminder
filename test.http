@@ -9,12 +9,12 @@ GET  http://localhost:8000 HTTP/1.1
 //Creating Reminder
 POST  http://localhost:8000/api/reminder/create HTTP/1.1
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2Mzg5NDI2NzQsInN1YiI6IjYxYjAzOThkYjNkNjljNTFiYjk3ZGM4OCIsImlhdCI6MTYzODkzOTA3NDQ5MywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.R0K6tbCTxT9iDTEAx8Abgoka8egI9xtU2vCvnm-Kqg2dqZQiBfJuS2eRyWGLDJdIRkxBKms44JiciiewGtmqib3SzGffYereQquoQAufYnf3bp2twA79sle_1W6euJBXE4YdQGuj1-yI6S6fGh7SzOifPKT99QzdR-O2rzHiCSuZLL5Xmd0y9QRzCrE428tyTjXnn5X83OcXFOlP7fgqY9L3gOEKocz89AY3QjQ_fCos32UIaq1eJXgCqFbP3BkZOpUqIRO7WMs4s3nB5HfccLL3ADgRmQQL1wJhhv3IV3ctap2jwgpVPsR9bPYCAlQrkRbk8j8M3IhJ5wEbBLaGqICCAbTMakZy0gpo9ifC-lyCOFoYUXPuI-Omqi-oFxWZU6kIKNOeQCB3WZCmMq0Yz6ohqkEnXzTJkl8UgvBiHXZxKr6jRYGWcLBxiidKQ_0NZAT_24cHQcy0LtrxqUqGRBr9_Fn2YWhfyqi9FEVym7gFy1gQ2tyFIDhmO17Cm69AymZ1d-LrXdnTpjJ2HLxbJWHcYvFHzLiC9KSFyb3_8YPd7EtCQGM-g9lYC9zXO7cYHNVotASrxOz5SvhhmUckA4ZZa38ZEDY8fW8eGQaNiUFbUiclMh1ohBzpakv6Zxy_Mkm8e4mRyOnazEt364BdZTfUUvg6mxDdfsjpjJHdN9k
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzkwNTUxMjAsInN1YiI6IjYxYjFlZmVlYjNkNjljNTFiYjZiMzE4OSIsImlhdCI6MTYzOTA1MTUyMDU1OCwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.MjELFYN6VuaKlI_8ldOZ7HIHu_g-PBPKPDF1bKl48SUOXMrHhCFEEkVxV4tW8wn0QnBqLT0nQ55ydfxV6eV5i6whFY90zJoTFqbGRc-4LBDQNZo-kTr9-WYhR_1kdHw33_j1IVJE9Fnj38Bpmml8CYFd7JHqrnyZPRR3yviOiTrL3CKtl66nsx5GMANoBD67fr4RinqnRKk4A3BPEDZ4qdI8m92RrAKHifCTuh1aV9lCzC1gx53YEFG4mRARGD-L-lM1o-KZPsjecCfnEcyGtHxa6EoDSP6_2TCrywSURcFtTnYXPErqNOMc9Zf1mVplYQasSUmg5ny7jLhgW64kyC7cElBW7uEA_vNe7DYt2hnZ1bnWMspew5hcPx4tLkZznbL6AUn31av89Fsjed356KUsSG5firnKpU5jFtxs8oB7N2_VDC8UcjLsSyycGaRJg0oxloM0zvK3NLkRJb8HoOW8VhqN6X6eCBFuOi-uJzu8QfZctRXar9urQ8wfvSj3AiIs21XwcjLv3qH_iwuRenL72yZZmv4e_Ftrg92uZngM_XZXxumWwinxGCArHq0Qhd_dFvGEjGam05YqYQ3tSfD9tpyTldNq3zZ3ujncwOIojQpxILFzn6w_FjMX3lD4WhepPOahESNB-9zSaP-oFBEwCulyo0JR5Ei3q1sELfo
 
 {
     "name": "Meeting",
     "description":"I have to meet Rohan at 1 pm",
-    "date":"2021-12-08T10:27:20"
+    "date":"2021-12-09T17:37:00"
     
 }
 
@@ -48,7 +48,7 @@ POST http://localhost:8000/api/auth/register HTTP/1.1
 Content-Type: application/json
 
 {
-    "email":"dipikesh.singh.915@gmail.com"
+    "email":"abhisheksingh43055@gmail.com"
  
 }
 ###
@@ -58,11 +58,11 @@ POST http://localhost:8000/api/auth/cnfrm-register HTTP/1.1
 Content-Type: application/json
 
 {
-    "name":"Dipikesh",
-    "email":"dipikesh.singh.915@gmail.com",
+    "name":"abhisehk",
+    "email":"abhisheksingh43055@gmail.com",
     "password":"Dipikesh@123",
     "cnfPassword":"Dipikesh@123",
-    "otp":"159c32"
+    "otp":"3d181e"
 }
 ###
 //LOGIN User
@@ -70,7 +70,7 @@ POST http://localhost:8000/api/auth/login HTTP/1.1
 Content-Type: application/json
 
 {
-    "email":"dipikesh2001@gmail.com",
+    "email":"abhisheksingh43055@gmail.com",
     "password":"Dipikesh@123"
 }
 

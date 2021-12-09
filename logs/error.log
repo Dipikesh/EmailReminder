@@ -1443,3 +1443,8 @@
 [31m08/12/2021 10:25:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
 [31m08/12/2021 10:34:51 - [error] : Error in Profile controller  NotFoundError: User not found[39m
 [31m08/12/2021 10:35:12 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m09/12/2021 17:31:37 - [error] : Registeration Validation Error ValidationError: "email" must be a valid email[39m
+[31m09/12/2021 17:33:25 - [error] : Confirm Registeration  Validation Error ValidationError: "password" length must be at least 8 characters long[39m
+[31m09/12/2021 17:33:55 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m09/12/2021 17:34:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m09/12/2021 17:34:33 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m

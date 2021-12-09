@@ -26,13 +26,29 @@ async function embedTask(e) {
   const dateInput = new Date(dateTime);
   const date = dateInput.toISOString();
 
+  const $listItem = document.createElement("li");
+ 
 
-   const $listItem = document.createElement("li");
+  // appending button to div
   $listItem.classList.add("list__item");
-  $listItem.innerText = ` Name = ${name} ,  Description  =      ${"   " + description} ,  Date =   ${date} `;
+  $listItem.innerText = ` Name = ${name} ,  Description  =      ${
+    "   " + description
+  } ,  Date =   ${date} `;
 
+  $list.appendChild($listItem);
 
-   $list.appendChild($listItem);
+   var myDiv = document.getElementById("btn");
+
+   // creating button element
+   var button = document.createElement("BUTTON");
+
+   // creating text to be
+   //displayed on button
+   var text = document.createTextNode("Button");
+
+   // appending text to button
+   button.appendChild(text);
+  myDiv.appendChild(button);
 
 }
 async function createRemider(e) {
