@@ -157,6 +157,7 @@ async function fetchTaskList() {
 
    const deleteButton = document.createElement("button");
     deleteButton.innerText = "Delete";
+    deleteButton.classList.add("button");
     $list.appendChild($listItem);
     $list.appendChild(deleteButton);
 
