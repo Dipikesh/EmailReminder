@@ -73225,3 +73225,5 @@
 [35m10/12/2021 21:08:32 - [debug] : Token Expiry Time saved Successfully[39m
 [35m10/12/2021 21:11:58 - [http] : GET /register 200 3154 - 1.074 ms[39m
 [35m[39m
+[35m10/12/2021 21:38:17 - [http] : GET / 304 - - 1.776 ms[39m
+[35m[39m
