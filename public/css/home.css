@@ -40,6 +40,7 @@ body {
 .btn {
   background-color: #f44336; /* Green */
   max-width: 250px;
+  max-height:20px;
   border: none;
   color: white;
   padding: 15px 32px;
