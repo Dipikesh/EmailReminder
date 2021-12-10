@@ -73188,3 +73188,38 @@
 [35m[39m
 [35m09/12/2021 17:51:04 - [http] : GET / 304 - - 1.208 ms[39m
 [35m[39m
+[34m10/12/2021 21:05:36 - [info] : Server is runnin on port 8000[39m
+[34m10/12/2021 21:05:40 - [info] : Mongoose server listening[39m
+[35m10/12/2021 21:05:45 - [http] : GET / 200 1131 - 8.704 ms[39m
+[35m[39m
+[35m10/12/2021 21:06:02 - [http] : GET /login 200 2300 - 1.698 ms[39m
+[35m[39m
+[34m10/12/2021 21:06:04 - [info] : Login Validation Success[39m
+[35m10/12/2021 21:06:04 - [debug] : Login Controller UnauthorizedError: Password is not correct[39m
+[35m10/12/2021 21:06:04 - [http] : POST /api/auth/login 401 60 - 411.358 ms[39m
+[35m[39m
+[34m10/12/2021 21:06:12 - [info] : Login Validation Success[39m
+[35m10/12/2021 21:06:12 - [debug] : Access token successfully signed [39m
+[35m10/12/2021 21:06:12 - [http] : POST /api/auth/login 200 934 - 338.446 ms[39m
+[35m[39m
+[35m10/12/2021 21:06:12 - [http] : GET / 304 - - 0.783 ms[39m
+[35m[39m
+[35m10/12/2021 21:06:13 - [debug] : Token Expiry Time saved Successfully[39m
+[35m10/12/2021 21:06:16 - [http] : GET /login 304 - - 0.721 ms[39m
+[35m[39m
+[34m10/12/2021 21:07:07 - [info] : Login Validation Success[39m
+[35m10/12/2021 21:07:07 - [debug] : Access token successfully signed [39m
+[35m10/12/2021 21:07:07 - [http] : POST /api/auth/login 200 934 - 341.402 ms[39m
+[35m[39m
+[35m10/12/2021 21:07:07 - [http] : GET / 200 1131 - 0.952 ms[39m
+[35m[39m
+[35m10/12/2021 21:07:07 - [debug] : Token Expiry Time saved Successfully[39m
+[35m10/12/2021 21:07:13 - [http] : GET /login 304 - - 0.789 ms[39m
+[35m[39m
+[34m10/12/2021 21:08:32 - [info] : Login Validation Success[39m
+[35m10/12/2021 21:08:32 - [debug] : Access token successfully signed [39m
+[35m10/12/2021 21:08:32 - [http] : POST /api/auth/login 200 934 - 294.278 ms[39m
+[35m[39m
+[35m10/12/2021 21:08:32 - [http] : GET / 200 1131 - 0.865 ms[39m
+[35m[39m
+[35m10/12/2021 21:08:32 - [debug] : Token Expiry Time saved Successfully[39m
