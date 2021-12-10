@@ -39,6 +39,7 @@ body {
 
 .btn {
   background-color: #f44336; /* Green */
+  width: 250px;
   border: none;
   color: white;
   padding: 15px 32px;
