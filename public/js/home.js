@@ -189,7 +189,7 @@ async function fetchTaskList() {
     deleteButton.classList.add("btn");
     deleteButton.className = "btn";
     deleteButton.onclick = () => {
-      deleteTask(e);
+      deleteTask;
     } 
 
     editButton.innerText = "Edit";
@@ -197,7 +197,7 @@ async function fetchTaskList() {
     editButton.classList.add("btn");
     editButton.className = "btn";
     editButton.onclick = () => {
-            editTask(e);
+      editTask;
 
     }
 
