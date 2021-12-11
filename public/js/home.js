@@ -19,7 +19,7 @@ async function editTask(e) {
 async function deleteTask(taskId) {
   const token = localStorage.getItem('token');
   const response = await fetch(
-    "https://emailreminderpikapika.com/api/reminder/remove",
+    "https://emailreminderpikapika.herokuapp.com/api/reminder/remove",
     {
       method: "POST",
       withCredentials: true,
