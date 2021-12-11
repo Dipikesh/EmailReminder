@@ -225,5 +225,5 @@ const editButtonListener = document.getElementsByClassName("editButton");
 const deleteButtonListener = document.getElementsByClassName("deleteButton");
 
 
-editButton.addEventListener("click", editTask);
-deleteButton.addEventListener("click",deleteTask)
+editButtonListener.addEventListener("click", editTask);
+deleteButtonListener.addEventListener("click", editTask);
