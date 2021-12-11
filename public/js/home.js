@@ -178,12 +178,12 @@ async function fetchTaskList() {
     deleteButton.innerText = "Delete";
     deleteButton.value = task._id;
     deleteButton.classList.add("btn");
-    deleteButton.className('delButton');
+    deleteButton.className='delButton';
 
     editButton.innerText = "Edit";
     editButton.value = task._id;
     editButton.classList.add("btn");
-    deleteButton.className("editButton");
+    deleteButton.className="editButton";
 
     
     
@@ -222,8 +222,13 @@ fetchTaskList();
 
 
 const editButtonListener = document.getElementsByClassName("editButton");
-const deleteButtonListener = document.getElementsByClassName("deleteButton");
+const deleteButtonListener = document.getElementsByClassName("delButton");
 
-
-editButtonListener.addEventListener("click", editTask);
-deleteButtonListener.addEventListener("click", editTask);
+  for (var i = 0; i < editButtonListener.length; i++) {
+    editButtonListener[i].addEventListener("click", function () {
+      //Add function here
+      console.log(e.target.innerText);
+    });
+  }
+// editButtonListener.addEventListener("click", editTask);
+// deleteButtonListener.addEventListener("click", editTask);
