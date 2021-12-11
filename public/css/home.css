@@ -40,11 +40,11 @@ body {
 .btn {
   background-color: #f44336; /* Green */
   max-width: 120px;
-  max-height:40px;
+  max-height:20px;
   margin-right:16px;
   border: none;
   color: white;
-  padding: 10px 28px;
+  padding: 10px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
