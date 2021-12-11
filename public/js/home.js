@@ -4,8 +4,16 @@ taskForm.addEventListener("submit", createRemider);
 const logoutBtn = document.getElementById("logout");
 logoutBtn.addEventListener("click", logoutEventHandler)
 
+const wrapper = document.getElementById("wrapper");
 
-element.addEventListener("click", verifyButton);
+wrapper.addEventListener("click", (event) => {
+  const isButton = event.target.nodeName === "BUTTON";
+  if (!isButton) {
+    return;
+  }
+
+  console.dir(event.target.value);
+});
 
 
 async function verifyButton(e){
