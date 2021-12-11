@@ -189,6 +189,7 @@ async function fetchTaskList() {
     deleteButton.classList.add("btn");
     deleteButton.className = "btn";
     deleteButton.onclick = () => {
+      console.log("ehat", deleteButton.value);
       deleteTask;
     } 
 
