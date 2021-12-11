@@ -227,7 +227,7 @@ const buttonListener = document.getElementsByClassName("btn");
   for (var i = 0; i < buttonListener.length; i++) {
     buttonListener[i].addEventListener("click", function () {
       //Add function here
-      console.log(e.target.innerText);
+      console.log("hello"+e.target.innerText);
     });
   }
 // editButtonListener.addEventListener("click", editTask);
