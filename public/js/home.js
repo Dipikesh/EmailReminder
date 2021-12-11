@@ -2,11 +2,11 @@ const taskForm = document.getElementById("task");
 taskForm.addEventListener("submit", createRemider);
 
 const logoutBtn = document.getElementById("logout");
-logoutBtn.addEventListener("click", logoutEventHandler)
+logoutBtn.addEventListener("click", logoutEventHandler);
 
 
 
-async function verifyButton(e) {
+async function editTask(e) {
   if (e.target.innerText == 'Delete') {
     console.log("delete btn");
 
@@ -178,10 +178,13 @@ async function fetchTaskList() {
     deleteButton.innerText = "Delete";
     deleteButton.value = task._id;
     deleteButton.classList.add("btn");
+    deleteButton.className('delButton');
 
     editButton.innerText = "Edit";
     editButton.value = task._id;
     editButton.classList.add("btn");
+    deleteButton.className("editButton");
+
     
     
     
@@ -218,6 +221,9 @@ fetchTaskList();
 // });
 
 
-const wrapper = document.getElementsByClassName("btn");
+const editButtonListener = document.getElementsByClassName("editButton");
+const deleteButtonListener = document.getElementsByClassName("deleteButton");
 
-wrapper.addEventListener("click", verifyButton);
+
+editButton.addEventListener("click", editTask);
+deleteButton.addEventListener("click",deleteTask)
