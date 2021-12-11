@@ -39,12 +39,12 @@ body {
 
 .btn {
   background-color: #f44336; /* Green */
-  max-width: 160px;
-  max-height:40px;
+  max-width: 120px;
+  max-height:20px;
   margin-right:16px;
   border: none;
   color: white;
-  padding: 12px 25px;
+  padding: 10px 26px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
