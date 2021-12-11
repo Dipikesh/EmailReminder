@@ -8,6 +8,7 @@ body {
 body {
   padding: 32px;
   margin: 0;
+  position: relative;
 }
 .form {
   display: grid;
