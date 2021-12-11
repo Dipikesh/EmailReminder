@@ -183,7 +183,7 @@ async function fetchTaskList() {
     editButton.innerText = "Edit";
     editButton.value = task._id;
     editButton.classList.add("btn");
-    deleteButton.className="editButton";
+    editButton.className="editButton";
 
     
     
