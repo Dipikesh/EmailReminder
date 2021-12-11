@@ -4,10 +4,7 @@ taskForm.addEventListener("submit", createRemider);
 const logoutBtn = document.getElementById("logout");
 logoutBtn.addEventListener("click", logoutEventHandler)
 
-const wrapper = document.getElementsByClassName('btn');
 
-
-wrapper.addEventListener("click", verifyButton);
 
 async function verifyButton(e) {
   if (e.target.innerText == 'Delete') {
@@ -219,3 +216,8 @@ fetchTaskList();
 //     $input.focus();
 //   }
 // });
+
+
+const wrapper = document.getElementsByClassName("btn");
+
+wrapper.addEventListener("click", verifyButton);
