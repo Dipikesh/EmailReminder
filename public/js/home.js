@@ -16,11 +16,25 @@ async function editTask(e) {
   return;
 }
 
-async function deleteTask(e) {
-  if (e.target.innerText == "Delete") {
-    console.log("delete btn");
+async function deleteTask(taskId) {
+  const token = localStorage.getItem('token');
+  const response = await fetch('https://emailreminderpikapika.com', {
+    method: 'POST',
+    withCredentials:true,
+    credentials:'same-origin',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: 'Bearer ' + token,
+
+    },
+    body: JSON.stringify({id:taskId}),
+  })
+
+  const result = await response.json();
+  console.log(result);
+  if (result.success) {
+    console.log("result");
   }
-  console.log(e.target.innerText);
 
   return;
 }
@@ -189,8 +203,8 @@ async function fetchTaskList() {
     deleteButton.classList.add("btn");
     deleteButton.className = "btn";
     deleteButton.onclick = () => {
-      console.log("ehat", deleteButton.value);
-      deleteTask;
+      
+      deleteTask(task._id);
     } 
 
     editButton.innerText = "Edit";
@@ -198,7 +212,7 @@ async function fetchTaskList() {
     editButton.classList.add("btn");
     editButton.className = "btn";
     editButton.onclick = () => {
-      editTask;
+      editTask(task._id);
 
     }
 
