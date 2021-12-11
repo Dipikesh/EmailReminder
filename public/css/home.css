@@ -39,7 +39,8 @@ body {
 
 .btn {
   background-color: #f44336; /* Green */
-  max-width: 70px;
+  max-width: 75px;
+  max-height: 40px;
   margin-right:16px;
   border: none;
   position: relative;
