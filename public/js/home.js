@@ -4,6 +4,13 @@ taskForm.addEventListener("submit", createRemider);
 const logoutBtn = document.getElementById("logout");
 logoutBtn.addEventListener("click", logoutEventHandler)
 
+
+element.addEventListener("click", verifyButton);
+
+
+async function verifyButton(e){
+  console.log(e);
+}
 async function logoutEventHandler(e){
   window.localStorage.removeItem('token');
     window.location.href = "/login";
@@ -36,7 +43,8 @@ async function embedTask(e) {
    } ,  Date =   ${date} `;
   
 const deleteButton = document.createElement("button");
-deleteButton.innerText = "Delete";
+  deleteButton.innerText = "Delete";
+
 $list.appendChild($listItem);
 $list.appendChild(deleteButton);
   
@@ -159,9 +167,11 @@ async function fetchTaskList() {
    const editButton = document.createElement("button");
     
     deleteButton.innerText = "Delete";
+    deleteButton.value = task._id;
     deleteButton.classList.add("btn");
 
-       editButton.innerText = "Edit";
+    editButton.innerText = "Edit";
+    editButton.value = task._id;
     editButton.classList.add("btn");
     
     

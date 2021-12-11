@@ -1448,3 +1448,4 @@
 [31m09/12/2021 17:33:55 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
 [31m09/12/2021 17:34:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
 [31m09/12/2021 17:34:33 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m11/12/2021 12:53:22 - [error] : Error in Profile controller  NotFoundError: Email not found[39m

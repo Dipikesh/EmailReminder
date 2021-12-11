@@ -73227,3 +73227,52 @@
 [35m[39m
 [35m10/12/2021 21:38:17 - [http] : GET / 304 - - 1.776 ms[39m
 [35m[39m
+[34m11/12/2021 12:53:17 - [info] : Server is runnin on port 8000[39m
+[34m11/12/2021 12:53:20 - [info] : Mongoose server listening[39m
+[35m11/12/2021 12:53:21 - [debug] : Token  Error TokenExpiredError: jwt expired[39m
+[35m11/12/2021 12:53:21 - [debug] : Access token successfully signed [39m
+[35m11/12/2021 12:53:21 - [debug] : PAYLOAD .....{"exp":1639053309,"sub":"61b0398db3d69c51bb97dc88","iat":1639049709902,"iss":"emailReminder.com","type":"at"}....{"exp":1639211001,"sub":"61b0398db3d69c51bb97dc88","iat":1639207401514,"iss":"emailReminder.com","type":"at"}[39m
+[35m11/12/2021 12:53:21 - [debug] : update token query ....{"n":1,"nModified":1,"opTime":{"ts":"7040342178656157701","t":86},"electionId":"7fffffff0000000000000056","ok":1,"$clusterTime":{"clusterTime":"7040342178656157701","signature":{"hash":"2WQhPgKGdzEWXECa6uU15HWztwU=","keyId":"6985511260355821571"}},"operationTime":"7040342178656157701"}[39m
+[35m11/12/2021 12:53:21 - [debug] : Token Expiry Time found and updated Successfully[39m
+[35m11/12/2021 12:53:21 - [debug] : jwt is ...save token expirytrue[39m
+[31m11/12/2021 12:53:22 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[35m11/12/2021 12:53:22 - [http] : GET /api/reminder/info 404 52 - 869.992 ms[39m
+[35m[39m
+[34m11/12/2021 12:53:33 - [info] : Login Validation Success[39m
+[35m11/12/2021 12:53:34 - [debug] : Access token successfully signed [39m
+[35m11/12/2021 12:53:34 - [http] : POST /api/auth/login 200 934 - 367.067 ms[39m
+[35m[39m
+[35m11/12/2021 12:53:34 - [debug] : Token Expiry Time saved Successfully[39m
+[35m11/12/2021 12:53:57 - [debug] : Token successfully validated[39m
+[35m11/12/2021 12:53:57 - [debug] : email found abhisheksingh43055@gmail.com[39m
+[35m11/12/2021 12:53:58 - [debug] : reminders {[39m
+[35m  __v: 0,[39m
+[35m  job: [[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b1f136a63c7a45a76284b6,[39m
+[35m      date: 2021-12-09T12:07:00.000Z,[39m
+[35m      jobId: '89f47cde',[39m
+[35m      name: 'Meeting',[39m
+[35m      description: 'I have to meet Rohan at 1 pm'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: true,[39m
+[35m      _id: 61b1f251a335f5001639074e,[39m
+[35m      date: 2021-12-09T12:13:00.000Z,[39m
+[35m      jobId: 'dcf518a1',[39m
+[35m      name: 'kljf',[39m
+[35m      description: 'sdfasdf'[39m
+[35m    },[39m
+[35m    {[39m
+[35m      status: false,[39m
+[35m      _id: 61b1f264a335f50016390755,[39m
+[35m      date: 2021-12-10T06:30:00.000Z,[39m
+[35m      jobId: 'c4ba01e1',[39m
+[35m      name: 'kljf',[39m
+[35m      description: 'sdfasdf'[39m
+[35m    }[39m
+[35m  ][39m
+[35m}[39m
+[35m11/12/2021 12:53:58 - [http] : GET /api/reminder/info 200 508 - 1121.651 ms[39m
+[35m[39m
