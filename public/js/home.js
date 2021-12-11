@@ -18,17 +18,19 @@ async function editTask(e) {
 
 async function deleteTask(taskId) {
   const token = localStorage.getItem('token');
-  const response = await fetch('https://emailreminderpikapika.com', {
-    method: 'POST',
-    withCredentials:true,
-    credentials:'same-origin',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: 'Bearer ' + token,
-
-    },
-    body: JSON.stringify({id:taskId}),
-  })
+  const response = await fetch(
+    "https://emailreminderpikapika.com/api/reminder/remove",
+    {
+      method: "POST",
+      withCredentials: true,
+      credentials: "same-origin",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "Bearer " + token,
+      },
+      body: JSON.stringify({ id: taskId }),
+    }
+  );
 
   const result = await response.json();
   console.log(result);
