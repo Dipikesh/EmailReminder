@@ -48,6 +48,7 @@ body {
   text-align: center;
   text-decoration: none;
   display: flex;
+  cursor: pointer;
   font-size: 16px;
 }
 
