@@ -39,7 +39,7 @@ body {
 
 .btn {
   background-color: #f44336; /* Green */
-  max-width: 90px;
+  max-width: 100px;
   margin-right:16px;
   border: none;
   position: relative;
