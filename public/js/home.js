@@ -4,21 +4,25 @@ taskForm.addEventListener("submit", createRemider);
 const logoutBtn = document.getElementById("logout");
 logoutBtn.addEventListener("click", logoutEventHandler)
 
-const wrapper = document.getElementById("wrapper");
+const wrapper = document.getElementsByClassName('btn');
 
-wrapper.addEventListener("click", (event) => {
-  const isButton = event.target.nodeName === "BUTTON";
-  if (!isButton) {
-    return;
+
+wrapper.addEventListener("click", verifyButton);
+
+async function verifyButton(e) {
+  if (e.target.innerText == 'Delete') {
+    console.log("delete btn");
+
   }
-
-  console.dir(event.target.value);
-});
-
-
-async function verifyButton(e){
-  console.log(e);
+  console.log(e.target.innerText);
+  
+  return;
 }
+
+
+
+
+
 async function logoutEventHandler(e){
   window.localStorage.removeItem('token');
     window.location.href = "/login";
