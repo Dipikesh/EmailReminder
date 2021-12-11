@@ -16,6 +16,15 @@ async function editTask(e) {
   return;
 }
 
+async function deleteTask(e) {
+  if (e.target.innerText == "Delete") {
+    console.log("delete btn");
+  }
+  console.log(e.target.innerText);
+
+  return;
+}
+
 
 
 
@@ -180,7 +189,7 @@ async function fetchTaskList() {
     deleteButton.classList.add("btn");
     deleteButton.className = "btn";
     deleteButton.onclick = () => {
-      console.log("delete button clicked");
+      deleteTask(e);
     } 
 
     editButton.innerText = "Edit";
@@ -188,7 +197,8 @@ async function fetchTaskList() {
     editButton.classList.add("btn");
     editButton.className = "btn";
     editButton.onclick = () => {
-      console.log("edit button clicked");
+            editTask(e);
+
     }
 
     
