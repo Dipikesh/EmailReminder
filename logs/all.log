@@ -73276,3 +73276,16 @@
 [35m}[39m
 [35m11/12/2021 12:53:58 - [http] : GET /api/reminder/info 200 508 - 1121.651 ms[39m
 [35m[39m
+[35m11/12/2021 13:33:41 - [http] : GET / 200 1131 - 5.430 ms[39m
+[35m[39m
+[35m11/12/2021 13:33:44 - [http] : GET /favicon.ico 404 46 - 1.518 ms[39m
+[35m[39m
+[35m11/12/2021 13:33:50 - [http] : GET /login 200 2300 - 11.484 ms[39m
+[35m[39m
+[34m11/12/2021 13:33:58 - [info] : Login Validation Success[39m
+[35m11/12/2021 13:33:58 - [debug] : Access token successfully signed [39m
+[35m11/12/2021 13:33:58 - [http] : POST /api/auth/login 200 934 - 348.871 ms[39m
+[35m[39m
+[35m11/12/2021 13:33:58 - [http] : GET / 304 - - 0.626 ms[39m
+[35m[39m
+[35m11/12/2021 13:33:58 - [debug] : Token Expiry Time saved Successfully[39m
